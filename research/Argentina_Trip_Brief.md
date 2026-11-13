@@ -18,6 +18,8 @@ Internal prep for the November 16-20, 2026 trip. Not for publication.
 | Halliburton | The basin's largest fracking contractor, with about 60% of stages in October, and YPF's main completions provider under a multi-year contract signed in April. Bringing the first electric frac fleet to Argentina. | | |
 | Helmerich & Payne (field trip) | US drilling contractor expanding fast. Runs about a quarter of the basin's rigs today and expects 15 working by August 2027, about a third. | | |
 
+Source: Company rows as in the note's company table. Poliarquía: [La Nación](https://www.lanacion.com.ar/politica/encuesta-de-poliarquia-la-imagen-de-milei-no-remonta-crece-el-rechazo-entre-las-mujeres-y-se-nid18092026/). Economy Ministry: [Infobae](https://www.infobae.com/economia/2026/10/30/oficializaron-la-renuncia-de-daniel-gonzalez-como-secretario-de-coordinacion-de-energia-y-mineria/). Bill Von Gonten: [SPE Argentina](https://spe.org.ar/technical-conference-bill-von-gonten-vaca-muerta-the-right-model-for-the-right-rock/). Neuquén: [Diario Neuquino](https://diarioneuquino.com.ar/vaca-muerta-financiara-casi-la-mitad-del-presupuesto-de-neuquen-en-2027/), [LM Neuquén](https://mase.lmneuquen.com/vaca-muerta/boom-petrolero-vaca-muerta-neuquen-rompio-un-nuevo-record-n1258262).
+
 ## Names to confirm with the organizer
 
 - Paul Howlin is listed publicly as an energy advisor at the Economy Ministry. His unit's head left on November 1, so confirm his current role.
