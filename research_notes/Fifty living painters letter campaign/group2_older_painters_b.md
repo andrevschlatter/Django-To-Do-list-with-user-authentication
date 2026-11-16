@@ -1,333 +1,359 @@
-# Group 2 — older painters (b): Pindell, Heilmann (deceased) / Dine, Katz, Wylie, Poons, Bradley, Williams
+# Group 2 — older painters (b): Pindell, Dine, Katz, Wylie, Poons, Bradley, Williams (Heilmann deceased)
 
-## READ FIRST: limits of this research run
+Checked 16 November 2026.
 
-- **No page was opened directly.** Every WebFetch and curl request was refused by this session's network policy (garthgreenan.com, gladstonegallery.com, davidzwirner.com, yaresart.com, karmakarma.org, michaelrosenfeldart.com, hauserwirth.com, moma.org, whitney.org, en.wikipedia.org all failed). Those hosts must be allowed in the session's network settings before anything here can be checked against the live page.
-- **Every fact below therefore comes from a web-search result summary of the cited URL**, not from reading the page myself. Where the search was restricted to the gallery's or museum's own domain I say "official page, via search". Treat every address as needing one final check on the live page before an envelope is written.
-- **The web-search budget for the session ran out after 31 searches.** Museum-work searches for Bradley, Williams, Dine and Wylie, the gallery-representation search for Dine, and all market and interview-quote searches were never run. Those items are marked UNVERIFIED. Nothing was filled from memory.
-- Today is 16 November 2026.
+## Summary table
 
-Status summary:
+| Artist | Alive evidence | Primary gallery | Mailing address | Address verified on official page | Work 1 |
+|---|---|---|---|---|---|
+| Howardena Pindell (b. 1943) | Wikipedia: no death date, "Living people"; White Cube page says "lives and works in New York"; in *Hard Art*, MoMA PS1, opened 5 Nov 2026 | Garth Greenan Gallery, New York (also White Cube) | Garth Greenan: 10 or 25 Greene Street, New York (ZIP and which door not confirmed). Verified fallback: White Cube, 1002 Madison Avenue, New York, NY 10075 | **No** for Garth Greenan (site not reachable). **Yes** for White Cube | *Untitled*, 1970, acrylic on canvas, 69 × 79 1/8 in, Whitney 71.173, not on view |
+| Jim Dine (b. 1935) | Wikipedia: no death date, "Living people". No dated 2026 activity opened | Templon (Paris–Brussels) and Cristea Roberts (London), per Wikipedia; neither site reachable | None confirmed | **No** | *Double Isometric Self Portrait (Serape)*, 1964, Whitney 76.35, not on view |
+| Alex Katz (b. 1927) | Wikipedia: no death date; it cites a New York Times interview dated 7 Nov 2026 and a Musée Matisse Nice show from 28 Oct 2026 | Gladstone Gallery, New York (also Timothy Taylor, Thaddaeus Ropac) | Gladstone, 515 West 24th Street, New York, NY 10011 (from search summary) | **No** (Gladstone site not reachable) | *The Red Smile*, 1963, oil on linen, 78 7/8 × 115 in, Whitney 83.3, not on view |
+| Rose Wylie (b. 1934) | Wikipedia: no death date; Zwirner page says she "lives and works in Kent"; latest dated show ended 23 May 2026 | David Zwirner (since 2017) | David Zwirner, 24 Grafton Street, London W1S 4EZ (or 537 West 20th Street, New York, New York 10011) | **Yes** | No New York museum work found; book: *Rose Wylie: Which One*, David Zwirner Books, 2023 |
+| Larry Poons (b. 1937) | Wikipedia: no death date; Yares lists a 2026 painting; Almine Rech Paris solo to 21 May 2026 | Yares Art, New York ("exclusive global representative"); Almine Rech also lists him | Yares Art, 745 Fifth Avenue, 4th Floor, New York, NY 10151 | **Yes** | *Untitled*, 1966, acrylic and graphite pencil on canvas, 130 × 90 in, Whitney 66.84, not on view |
+| Peter Bradley (b. 1940) | Wikipedia: no death date, "Living people"; Karma solo to 28 Aug 2026; Karma page shows *Hard Art* (PS1, from 5 Nov 2026) | Karma, New York | Karma, 549 West 26th Street, New York, NY 10001 | **Yes** | *Ruling Light*, 1973, acrylic on canvas, 39 3/4 × 87 in, Whitney 2024.322, not on view |
+| William T. Williams (b. 1942) | Wikipedia: no death date, "Living people"; Whitney lists "1942–". No dated 2026 activity opened | Michael Rosenfeld Gallery, New York (from search summary) | 100 Eleventh Avenue at 19th Street, New York, NY 10011 (from search summary) | **No** (gallery site not reachable) | *Drawing for an Epic Idea (Coonograph)*, 1970, watercolour drawing, Whitney 71.47, not on view (a small drawing, not a painting) |
+| Mary Heilmann | **Died 14 August 2026** | n/a | n/a | n/a | n/a |
 
-| Artist | Alive as of 16 Nov 2026? | Primary gallery | Address confidence |
-|---|---|---|---|
-| Howardena Pindell | No death report found; last dated activity Dec 2025 interview, Dia show due Dec 2026 | Garth Greenan Gallery, New York | Low: gallery moved to SoHo in Sept 2026, new postal address incomplete |
-| Mary Heilmann | **DIED 14 August 2026** | n/a | n/a |
-| Jim Dine (alternate) | No death report found; not positively confirmed after spring 2026 | UNVERIFIED | None found |
-| Alex Katz | Yes, strong: turned 99 in July 2026, shows through autumn 2026 | Gladstone Gallery, New York | Medium: three NY addresses from official site via search |
-| Rose Wylie | No death report found; last dated activity May 2026 | David Zwirner | Medium for NY; London address not obtained |
-| Larry Poons | No death report found; last dated activity May 2026 | Yares Art, New York | Medium: official contact page via search |
-| Peter Bradley | Yes, fairly strong: reviewed as living, aged 85, Aug 2026 | Karma, New York | Low: street addresses but no zip, no contact page seen |
-| William T. Williams | No death report found; last dated activity spring 2026 | Michael Rosenfeld Gallery, New York | Medium: official site via search; email domain needs checking |
+## How this was checked, and what could not be opened
+
+- **Labels.** OPENED = I read the page itself in this run. SNIPPET = carried over from the earlier notes, which came from web-search summaries and were never read on the page.
+- **Method.** The WebFetch tool failed on every host with a DNS error. Pages were instead downloaded with plain `curl` through the session's own network proxy (default client identity, nothing spoofed) and read as text. WebSearch was not used.
+- **Wikipedia** was read as article source (`?action=raw`), so the dates come straight from the infobox. URLs below are the normal article addresses.
+- **Hosts that would not open, with what happened:**
+  - `www.garthgreenan.com` redirects to `garthgreenan.com`, which the network policy refuses. Nothing on the Garth Greenan site was read.
+  - `www.gladstonegallery.com` redirects to `gladstonegallery.com`, refused. Nothing on the Gladstone site was read.
+  - `www.michaelrosenfeldart.com` redirects to `michaelrosenfeld.com`, refused. Nothing on the Michael Rosenfeld site was read.
+  - `www.moma.org` returned a "Vercel Security Checkpoint" browser check (HTTP 403) on every collection page. No MoMA page was read.
+  - `www.metmuseum.org` returned the same checkpoint (HTTP 429) on two attempts. No Met page was read.
+  - `www.hauserwirth.com` returned 429 on its home page; not needed further.
+  - Templon, Cristea Roberts, Gray, Thaddaeus Ropac, auction houses: not on the allowed list, not tried.
+- **Consequence.** All New York museum works below are from the Whitney, the only New York museum site that opened. None of them is on view. MoMA and Met entries are SNIPPET only.
+- **To finish the open items**, the bare domains `garthgreenan.com`, `gladstonegallery.com`, `michaelrosenfeld.com`, plus `templon.com` and `cristearoberts.com`, need to be allowed.
 
 ---
 
 ## 1. Howardena Pindell
 
-### Takeaway
-No obituary or death report was found, and a long-term Dia Beacon exhibition is announced for December 2026, but the latest directly dated evidence of her own activity is a December 2025 interview. Her New York gallery, Garth Greenan, left West 20th Street for SoHo in September 2026, so the mailing address must be re-checked.
+### Alive? Birth, residence, latest dated activity
+- Born 14 April 1943, Philadelphia; death date fields empty; article is in "Living people" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Howardena_Pindell)
+- Conflict: the Whitney's own field gives "Date of birth April 4, 1943", while quoting Wikipedia's 14 April on the same page — OPENED [Whitney artist page](https://whitney.org/artists/1028). The Whitney lists her as "1943–".
+- "Lives and works in New York"; a White Cube film shows her "studio in the Bronx, New York" — OPENED [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell)
+- Professor of art at Stony Brook University, teaching there since 1979 — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Howardena_Pindell); OPENED [The Art Newspaper, 1 Jul 2022](https://www.theartnewspaper.com/2022/07/01/howardena-pindell-interview-kettles-yard-cambridge)
+- Latest dated activity: included in *Hard Art*, MoMA PS1, Queens, 5 November 2026 – 15 March 2027 (item posted 5 Nov 2026) — OPENED [White Cube news](https://www.whitecube.com/news/richard-hunt-at-moma-ps1)
+- Latest gallery solo on White Cube's page: *Off the Grid*, Bermondsey, London, 21 November 2025 – 18 January 2026 — OPENED [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell)
+- No page read gives a direct sighting of her after June 2026 (Art Basel Awards ceremony, 17 June 2026).
 
-### Alive? Birth year, where she lives/works
-- Born 1943: the Whitney's artist page lists her as "1943–" with no death date — [Whitney](https://whitney.org/artists/1028)
-- A search for death/obituary news returned no report; all results describe her in the present tense — search run 16 Nov 2026; see [Wikipedia](https://en.wikipedia.org/wiki/Howardena_Pindell), [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell)
-- Wikipedia describes her as a professor of art at Stony Brook — [Wikipedia](https://en.wikipedia.org/wiki/Howardena_Pindell) (secondary)
-- Most recent activity: interview published 9 Dec 2025 tied to her White Cube show — [Cultured](https://culturedmag.com/article/2025/12/09/art-howardena-pindell-interview-white-cube-show/)
-- White Cube Bermondsey, London, "Off the Grid", 21 Nov 2025 – 18 Jan 2026 — [Ocula](https://ocula.com/art-galleries/white-cube/exhibitions/howardena-pindell-(1)/), [White Cube](https://www.whitecube.com/artists/howardena-pindell)
-- Dia Art Foundation announced a long-term exhibition of her work at Dia Beacon opening December 2026; Dia acquired a group of her works — [Garth Greenan](https://garthgreenan.com), [Cultured](https://culturedmag.com/article/2025/12/09/art-howardena-pindell-interview-white-cube-show/)
-- A 2026 commission, *Autobiography: Circles*, for Landmarks, University of Texas at Austin, is captioned in the same interview — [Cultured](https://culturedmag.com/article/2025/12/09/art-howardena-pindell-interview-white-cube-show/)
-- Where she lives/works: UNVERIFIED (no gallery biography could be opened).
-
-### Primary gallery and other galleries
-- Garth Greenan Gallery, New York, is the US gallery whose site carries her news and press releases — [Garth Greenan](https://garthgreenan.com/news/howardena-pindell-featured-in-art-news)
-- White Cube also has an artist page for her and staged her 2025–26 London show — [White Cube](https://www.whitecube.com/artists/howardena-pindell)
-- White Cube's page lists a museum show "Opening 2027–28 New York" (venue not captured) — [White Cube](https://www.whitecube.com/artists/howardena-pindell)
-- Michael Rosenfeld Gallery has a page titled for her (b. 1943); whether this is representation or secondary-market inventory is UNVERIFIED — [Michael Rosenfeld](https://michaelrosenfeldart.com/artists/howardena-pindell-b1943)
+### Galleries
+- Garth Greenan Gallery, New York: gallery site not reachable. Indirect confirmation: the Whitney credits her image "Courtesy the artist and Garth Greenan Gallery, New York" — OPENED [Whitney](https://whitney.org/collection/works/298); The Art Newspaper captions her works "Courtesy the artist, Garth Greenan Gallery and Victoria Miro" (2022) — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2022/07/01/howardena-pindell-interview-kettles-yard-cambridge)
+- White Cube: full artist page, two gallery solos (Hong Kong 2024–25, London 2025–26), and a news item titled "Howardena Pindell joins White Cube" (item itself not opened) — OPENED [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell), [White Cube news archive](https://www.whitecube.com/news/archive/artists/howardena-pindell)
+- Victoria Miro: credited alongside Garth Greenan in 2022; whether still current is UNVERIFIED (Victoria Miro site not opened) — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2022/07/01/howardena-pindell-interview-kettles-yard-cambridge)
+- Michael Rosenfeld Gallery page for her: SNIPPET, site not reachable — [Michael Rosenfeld](https://michaelrosenfeldart.com/artists/howardena-pindell-b1943)
 
 ### Mailing address
-- **Address in flux.** The gallery's contact page, as returned by search, still showed 545 West 20th Street, New York, NY 10011, tel 212.929.1351, info@garthgreenan.com, a "temporary mailing address" of 529 West 20th Street, 4W, appointment-only hours, and a notice that the gallery relocates to SoHo in September 2026 — [Garth Greenan contact page, via search](https://www.garthgreenan.com/contact)
-- The gallery announced two new SoHo spaces at 10 Greene Street and 25 Greene Street; 10 Greene Street opened with a Cannupa Hanska Luger show, 9 Sept – 24 Oct 2026 — [Garth Greenan news](https://garthgreenan.com/news/garth-greenan-gallery-to-move-to-two-new-spaces-in-soho-this-september), [ArtRabbit](https://www.artrabbit.com/events/american-traditional)
-- The Art Newspaper (15 Sept 2026) reports the dealer has left West 20th Street — [The Art Newspaper](https://theartnewspaper.com/2026/09/15/new-york-galleries-moving-manhattan-soho-rising-chelsea-tribeca-endure)
-- UNVERIFIED: the full postal line (zip code, suite) for 10 Greene Street, and which of the two Greene Street spaces takes mail. Do not post to West 20th Street.
+- **Garth Greenan, not verified.** The gallery has left West 20th Street and taken "two storefronts across from each other on Greene Street in Soho", at 10 and 25 Greene Street — OPENED [The Art Newspaper, 15 Sep 2026](https://www.theartnewspaper.com/2026/09/15/new-york-galleries-moving-manhattan-soho-rising-chelsea-tribeca-endure). The article gives no ZIP, suite, or which door takes mail. Its old block is being re-let (47 Canal at 529 West 20th Street), so do not post to West 20th Street.
+- The gallery's own contact page could not be opened (`garthgreenan.com` refused). Old-notes detail (545 West 20th Street, tel 212.929.1351, info@garthgreenan.com) is SNIPPET and out of date.
+- **Verified fallback:** White Cube New York, 1002 Madison Avenue, New York, NY 10075 — OPENED, site footer on [White Cube](https://www.whitecube.com/news/archive/artists/howardena-pindell)
 
 ### Works to see in New York
-- MoMA PS1, group exhibition *Hard Art* (abstraction by Black artists in the US, 1969 to today; over 90 works by more than 40 artists), runs through 15 March 2027 and includes Pindell's *Untitled* (1969–1973) and *Feast Day of Iemanja II, December 31* (1980) — [MoMA press](https://press.moma.org/exhibition/hard-art/). Medium, dimensions and a visual detail for these two works: UNVERIFIED.
-- MoMA: *Memory: Past*, 1980–81, marked not on view — [MoMA](https://www.moma.org/collection/works/184593)
-- Whitney: *Untitled*, 1970, listed not on view — [Whitney](https://whitney.org/collection/works/298)
-- Met holds *Self-Portrait* (1962), *Constellations*, *Untitled #87b*, *Memory Test: Free, White & Plastic (#114)*; those found were not on view — [Met](https://www.metmuseum.org/art/collection/search/486983), [Met](https://www.metmuseum.org/art/collection/search/700409), [Met](https://www.metmuseum.org/art/collection/search/481727), [Met](https://www.metmuseum.org/art/collection/search/482050)
-- Outside NYC but within a day trip: Dia Beacon long-term display from December 2026 — [Garth Greenan](https://garthgreenan.com)
+- *Untitled*, 1970, acrylic on canvas, 69 × 79 1/8 in (175.3 × 201 cm), Whitney Museum, accession 71.173, "Purchase, with funds from the Albert A. List Family". **Not on view.** Image description on the page: "Innumerable specks of pink, orange, yellow, green, and blue, densely accumulated into a soft and smooth polychromatic abstraction" — OPENED [Whitney](https://whitney.org/collection/works/298)
+- The Whitney holds three works by her (one painting, one print, the video *Free, White and 21*, 1980); the artist page shows "Not on view" — OPENED [Whitney artist page](https://whitney.org/artists/1028)
+- On view now, but work details not obtained: *Hard Art*, MoMA PS1, to 15 March 2027 — OPENED [White Cube news](https://www.whitecube.com/news/richard-hunt-at-moma-ps1). The two titles in the old notes (*Untitled*, 1969–73; *Feast Day of Iemanja II*, 1980) are SNIPPET.
+- Day trip: Dia Art Foundation acquired 21 works; long-term exhibition at Dia Beacon opens **30 January 2027**, large paintings from the mid- to late 1970s — OPENED [White Cube news, posted 24 Nov 2025](https://www.whitecube.com/news/howardena-pindell-at-dia-beacon). This corrects the old notes, which said December 2026.
+- MoMA *Memory: Past* (1980–81) and four Met works: SNIPPET, pages blocked.
 
-### Market note
-- UNVERIFIED in full: no auction or price search could be run.
-- Institutional signals found: Dia acquisition and long-term display (Dec 2026); White Cube solo (2025–26); museum show flagged for New York 2027–28 — sources above.
-- Masterworks states she received an Art Basel "Icon Artist" award in 2026; low-authority source, not corroborated — [Masterworks](https://www.masterworks.com/academy/artists/howardena-pindell)
+### Market and institutions
+- Named a Medallist in the "Icon Artists" category of the 2026 Art Basel Awards; ceremony 17 June 2026 — OPENED [White Cube news](https://www.whitecube.com/news/theaster-gates-julie-mehretu-and-howardena-pindell-named-2026-art-basel-awards-medallists). This confirms the old low-authority Masterworks item.
+- American Federation of Arts Cultural Leadership Award, gala 10 November 2025 — OPENED [White Cube news](https://www.whitecube.com/news/howardena-pindell-to-receive-cultural-leadership-award-from-the-american-federation-of-the-arts)
+- Museum solos since 2022: Fruitmarket Edinburgh touring to Kettle's Yard, Spike Island and IMMA Dublin (2022–23); Baltimore Museum of Art (2022); Museum of Fine Arts Houston (2022) — OPENED [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell)
+- Bourse de Commerce, Paris, 8 October 2025 – 19 January 2026 (with Lygia Pape, per the link title) — OPENED [White Cube news archive](https://www.whitecube.com/news/archive/artists/howardena-pindell)
+- Auction prices: none found on any reachable page.
 
-### Human details / quotes
-- UNVERIFIED: no quote captured. Best lead is the Dec 2025 interview — [Cultured](https://culturedmag.com/article/2025/12/09/art-howardena-pindell-interview-white-cube-show/)
-
-### Inferences
-- Institutional momentum (Dia, White Cube, PS1, a 2027–28 New York museum show) points to a rising rather than cooling position, but this is inferred from exhibitions, not prices.
+### Quote
+- "I love beauty and have been criticised for making works that are too beautiful." — OPENED [The Art Newspaper, 1 Jul 2022](https://www.theartnewspaper.com/2022/07/01/howardena-pindell-interview-kettles-yard-cambridge)
+- On Josef Albers's colour course at Yale: "The colour course changed my life. I don't know where my eye would be without it." — same source.
+- "The advice I would give to young artists is not to give up." — OPENED [White Cube artist page](https://www.whitecube.com/artists/howardena-pindell)
 
 ### Gaps
-- Positive proof of life after December 2025; full new gallery address; work details; all auction data; quotes.
+- Garth Greenan's exact postal line. Titles and details of her works in *Hard Art*. Auction data.
 
 ---
 
-## 2. Mary Heilmann — DECEASED (died 14 August 2026). Replaced by alternate Jim Dine
+## 2. Jim Dine
 
-### Takeaway
-Mary Heilmann died on 14 August 2026, aged 86, on Long Island, New York. No letter should be sent. The first alternate, Jim Dine, is researched below.
+### Alive? Birth, residence, latest dated activity
+- Born 16 June 1935, Cincinnati, Ohio (birth name James Lewis Dine); the infobox has no death date; article is in "Living people" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Jim_Dine)
+- The Whitney's artist page shows no death year and credits "© Jim Dine/Artists Rights Society (ARS), New York" — OPENED [Whitney](https://whitney.org/artists/361?q%5Bclassification_cont%5D=Paintings)
+- Residence: not stated in the Wikipedia article. Old-notes detail (Montrouge near Paris, Göttingen, Walla Walla) is SNIPPET.
+- Latest dated activity: none on any page opened. The Art Newspaper's "Jim Dine" keyword page lists only a 2021 article — OPENED [The Art Newspaper](https://www.theartnewspaper.com/keywords/jim-dine). The Palm Springs Art Museum show (21 Nov 2026 – 19 Apr 2027) is SNIPPET.
+- Alive evidence is therefore weaker than for the others: absence of a death record on Wikipedia, nothing positive from 2026.
 
-### Evidence of death
-- Hauser & Wirth and 303 Gallery, her galleries, announced that she died aged 86 on 14 August 2026 on Long Island, New York — [Hauser & Wirth](https://www.hauserwirth.com/news/in-memoriam-mary-heilmann-1940-2026/), [303 Gallery](https://www.303gallery.com/news/in-memoriam-mary-heilmann-1940-2026)
-- Obituaries: [The Art Newspaper, 17 Aug 2026](https://www.theartnewspaper.com/2026/08/17/mary-heilmann-fearless-colourist-singular-painter-obituary), [Boston Globe, 15 Aug 2026](https://www.bostonglobe.com/2026/08/15/nation/mary-heilmann-dies-at-86/), [Hyperallergic](https://hyperallergic.com/mary-heilmann-dies-at-86), [Artnet News](https://news.artnet.com/art-world/artist-mary-heilmann-dead-86-2798542), [East Hampton Star](https://www.easthamptonstar.com/obituaries/2026827/mary-heilmann-86-noted-painter), [Parrish Art Museum](https://parrishart.org/news/in-memoriam-mary-heilmann-1940-2026/)
-- Wikipedia gives the place of death as Riverhead, New York — [Wikipedia](https://en.wikipedia.org/wiki/Mary_Heilmann) (secondary; galleries say only "Long Island")
-
----
-
-## 2A. Jim Dine (alternate for Heilmann)
-
-### Takeaway
-No obituary or death report was found and museum shows are scheduled into 2027, but I could not positively confirm he is alive after spring 2026, and the search budget ran out before his galleries, address, works or market could be researched. This section is mostly gaps; if it cannot be completed, consider the second alternate, Martha Jungwirth (not researched).
-
-### Alive? Birth year, where he lives/works
-- Born 1935 — [Wikipedia mirror, March 2026 snapshot](https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jim_Dine) (secondary)
-- A death/obituary search returned no report for him. The nearest result was an Artnet obituary for his wife, Nancy Dine, who died on 6 September aged 83 (year not shown in the result) — [Artnet News](https://news.artnet.com/art-world/nancy-dine-obituary-1908482)
-- A March 2026 Galerie Templon item says he lives and works in Montrouge (near Paris), Göttingen and Walla Walla; other sources give Walla Walla and Paris — reported in search summary, Templon URL not captured; see [Cristea Roberts bio PDF](https://cristearoberts.com/usr/documents/artists/cv_download_url/65/jim-dine-bio.pdf), [Masterworks](https://www.masterworks.com/academy/artists/jim-dine)
-- Upcoming: *The Grammar of Jim Dine: Works from the Jordan Schnitzer Family Foundation*, Palm Springs Art Museum, 21 Nov 2026 – 19 Apr 2027, about 200 works — [Palm Springs Art Museum](https://www.psmuseum.org/art/exhibitions/jim-dine), [Jordan Schnitzer Family Foundation](https://jordanschnitzer.org/exhibitions/jimdinegrammarpsam)
-- A German regional report from March 2026 describes a Dine retrospective at Kunsthaus Göttingen — reported in search summary; URL not reliably captured.
-
-### Primary gallery and other galleries
-- UNVERIFIED. Gallery names that appeared in results, with no confirmation of current representation: Templon ([Artdaily, Brussels show](https://artdaily.com/news/121288/Galerie-Templon-Brussels-opens-an-exhibition-of-works-by-Jim-Dine)), Cristea Roberts ([bio PDF](https://cristearoberts.com/usr/documents/artists/cv_download_url/65/jim-dine-bio.pdf)), Gray ([news item](https://richardgraygallery.com/news/the-snite-museum-university-of-notre-dame)), Pace / 125 Newbury ([exhibition](https://www.pacegallery.com/exhibitions/jim-dine-the-sixties/)).
+### Galleries
+- Wikipedia's "long-term collaborations" list — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Jim_Dine):
+  - Daniel Templon, Paris–Brussels, 2000–present
+  - Alan Cristea (now Cristea Roberts Gallery), London, 1979–present
+  - Pace Gallery, New York, 1978–2016 (ended)
+  - Richard Gray, Chicago, 1983–2018; Gray Gallery, Chicago, 2016–2021 (ended)
+  - Publisher Gerhard Steidl, Göttingen, 1998–present
+- Pace: he is not on Pace's current artist list, and `/artists/jim-dine/` returns "not found" — OPENED [Pace artists](https://www.pacegallery.com/artists/)
+- Templon, Cristea Roberts and Gray sites are not on the allowed list; current representation there is UNVERIFIED on an official page.
+- On this evidence he has **no New York gallery** at present.
 
 ### Mailing address
-- UNVERIFIED. No gallery or studio address obtained.
+- **None verified.** No official gallery page for Dine could be opened.
+- Unofficial lead only: Cristea Roberts Gallery "is located at 43 Pall Mall, London" (no postcode given) — OPENED [Wikipedia, Cristea Roberts Gallery](https://en.wikipedia.org/wiki/Cristea_Roberts_Gallery). Not from an official page; check before use.
+- Templon's Paris address: not obtained (no Wikipedia article at "Galerie Templon"; site not reachable).
 
 ### Works to see in New York
-- UNVERIFIED. The museum search was not performed (budget exhausted).
+- *Double Isometric Self Portrait (Serape)*, 1964, oil on canvas with metal hardware and dowels, overall 57 3/8 × 84 5/8 in (145.7 × 214.9 cm), two canvases each with a 51 3/4 in chain. Whitney Museum, accession 76.35, "Gift of Helen W. Benjamin in memory of her husband, Robert M. Benjamin". **Not on view.** Image description: "Two colorful robe-shaped panels with bold geometric color blocks and hanging pull chains" — OPENED [Whitney](https://whitney.org/collection/works/2735)
+- *The Black Rainbow*, 1959–1960, oil and corrugated cardboard on paperboard, 39 5/8 × 59 3/4 in (100.7 × 151.8 cm). Whitney Museum, accession 74.112, "Gift of Andy Warhol". **Not on view.** Image description: "Concentric black and gray painted arches with gold accents and the words 'The Black Rainbow' at the top" — OPENED [Whitney](https://whitney.org/collection/works/2462)
+- The Whitney holds 93 works by him, six classed as paintings (also *Afternoon Robe*, 1976; *Long Island Landscape*, 1963; *The Toaster*, 1962; *A Black Shovel, Number 2*, 1962) — OPENED [Whitney](https://whitney.org/artists/361?q%5Bclassification_cont%5D=Paintings)
+- MoMA, Met and Guggenheim hold his work per Wikipedia's collections list; no page opened.
 
-### Market note
-- UNVERIFIED. Artnet lists many pages of his auction lots, with sales continuing through 2026; no prices captured — [Artnet](https://www.artnet.com/artists/jim-dine/22)
+### Market and institutions
+- Nothing on any reachable page. Artnet lot listings without prices: SNIPPET.
+- Museum shows since 2022: none confirmed on an opened page.
 
-### Human details / quotes
-- UNVERIFIED.
+### Quote
+- No quote about painting found. Nearest: on first seeing German Expressionist woodcuts in 1954, "I was shocked by them" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Jim_Dine) (Wikipedia quoting Dine's book; secondary).
 
 ### Gaps
-- Everything except birth year and upcoming Palm Springs show.
+- Positive 2026 evidence of life; residence; any official gallery address; market. He is the weakest entry for a letter sent "care of gallery", and the route would be Paris or London, not New York.
 
 ---
 
 ## 3. Alex Katz
 
-### Takeaway
-Katz is alive and working at 99: PBS NewsHour profiled him just after his 99th birthday (24 July 2026), and exhibitions run through autumn 2026 into January 2027. Gladstone Gallery in New York leads his representation, alongside Thaddaeus Ropac and Timothy Taylor.
+### Alive? Birth, residence, latest dated activity
+- Born 24 July 1927, Brooklyn, New York; death date fields empty — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Alex_Katz)
+- Wikipedia cites a New York Times piece dated 7 November 2026, "'It Gave Me a Lot of Anxiety': Alex Katz on Sharing the Room With Matisse", about *Henri Matisse – Alex Katz. The Silence of Painting*, Musée Matisse Nice, 28 October 2026 – 18 January 2027 — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Alex_Katz). The NYT article itself was not opened. The old notes gave 21 October as the opening date; Wikipedia says 28 October.
+- Photographed "in his downtown studio, New York City, 2024"; biography says "b. 1927, Brooklyn, New York" — OPENED [Timothy Taylor](https://www.timothytaylor.com/artists/alex-katz/)
+- Latest dated shows on a gallery's own page: *Various Trees*, Timothy Taylor London, 5 March – 11 April 2026 (landscapes of 2023–2025); group show *Timothy Taylor: 30 Years*, 23 April – 30 May 2026 — OPENED [Timothy Taylor](https://www.timothytaylor.com/artists/alex-katz/)
+- Residence "New York and Maine" and the PBS 99th-birthday segment: SNIPPET.
 
-### Alive? Birth year, where he lives/works
-- Born 24 July 1927, Sheepshead Bay, Brooklyn — [Britannica](https://www.britannica.com/biography/Alex-Katz-American-artist)
-- Lives and works in New York and Maine — [Ludorff CV](https://www.ludorff.com/en/artists/alex-katz/cv) (dealer page, secondary)
-- PBS NewsHour segment says he "just celebrated his 99th birthday" and reflects on his career ahead of his 100th — [PBS NewsHour](https://pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday) (publication date not shown in the result; it must post-date 24 July 2026)
-- A death/obituary search returned nothing.
-- 2026 exhibitions: *Black Roses*, Thaddaeus Ropac Salzburg, 28 Mar – 16 May 2026, new paintings all made within the last year — [Ropac](https://ropac.net/exhibitions/780-alex-katz-black-roses/); *Various Trees*, Timothy Taylor London, 5 Mar – 11 Apr 2026, landscapes of 2023–2025 — [Timothy Taylor](https://www.timothytaylor.com/exhibitions/260-alex-katz); *Dancing with Reality*, Kunsthalle Tübingen, 40 large paintings, through 13 Sept 2026 — [Ropac news](https://ropac.net/news/2745-alex-katz-dancing-with-reality-solo-exhibition-at-kunsthalle-tubingen/); *Out of Sight: A Drawing Survey*, Colby College Museum of Art, until 11 Oct 2026 — [Colby](https://museum.colby.edu/news/alex-katz-out-of-sight-a-drawing-survey)
-- He has his own website — [alexkatz.com](https://alexkatz.com/bibliography/selected_articles_and_reviews/Painterly_Virtues_Alex_Katzs_life_in_art-Tomkins_Calvin-The_New_Yorker)
-
-### Primary gallery and other galleries
-- Gladstone Gallery, New York: most recent solo ran 30 Oct – 20 Dec 2025 at 21st Street; earlier solos 2023–24 (24th Street) and 2021 — [Gladstone](https://gladstonegallery.com/exhibit/alex-katz-gg25/), [Gladstone 2023](https://gladstonegallery.com/exhibit/alex-katz-bgg23/)
-- Thaddaeus Ropac (Salzburg, Seoul shows in 2026) — [Ropac](https://ropac.net/exhibitions/780-alex-katz-black-roses/)
-- Timothy Taylor (London show in 2026) — [Timothy Taylor](https://www.timothytaylor.com/exhibitions/260-alex-katz)
-- Gray carries Katz news — [Gray](https://richardgraygallery.com/news/alex-katz25)
-- Other galleries with Katz pages, representation status UNVERIFIED: [Peter Blum](https://peterblumgallery.com/artists/alex-katz/biography), [Monica De Cardenas](https://monicadecardenas.com/alex-katz/)
-- Scheduling note: *In Plain Sight*, David Benrimon Fine Art, New York, 15 Oct – 20 Nov 2026 (a dealer exhibition) — [ArtRabbit](https://www.artrabbit.com/events/alex-katz-in-plain-sight); Musée Matisse, Nice, group show with Matisse, 21 Oct 2026 – 18 Jan 2027 — reported in search summary of Ropac/Timothy Taylor news pages.
-- UNVERIFIED: Gladstone's standalone artist page was not returned by search.
+### Galleries
+- "Katz is represented by Gladstone Gallery in New York, Timothy Taylor Gallery in London, and Galerie Thaddaeus Ropac in Paris/Salzburg"; earlier Pace (10 years) and Marlborough (30 years) — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Alex_Katz)
+- Timothy Taylor: artist page confirmed — OPENED [Timothy Taylor](https://www.timothytaylor.com/artists/alex-katz/)
+- Gladstone: artist page **not opened** (site refused). Gladstone solos of 2021, 2023–24 and 30 Oct – 20 Dec 2025 are SNIPPET.
+- Ropac: not on the allowed list.
 
 ### Mailing address
-- Gladstone Gallery New York addresses, from the gallery's own site via search — [Gladstone](https://gladstonegallery.com/en/about/):
-  - 515 West 24th Street, New York, NY 10011, tel 1 212 206 9300
-  - 530 West 21st Street, New York, NY 10011, tel 1 212 206 7606
-  - 130 East 64th Street, New York, NY 10065, tel 1 212 753 2200
-- Which location receives artist mail is not stated; 515 West 24th Street is listed first. Flag: not read on the live page.
+- **Not verified on an official page.** Gladstone's site could not be opened.
+- SNIPPET, from the old notes: 515 West 24th Street, New York, NY 10011 (tel 212 206 9300); 530 West 21st Street, New York, NY 10011; 130 East 64th Street, New York, NY 10065 — [Gladstone](https://gladstonegallery.com/en/about/)
+- Which location takes artist mail is not stated anywhere read.
 
 ### Works to see in New York
-- *The Red Smile*, 1963, oil on linen, 78 7/8 × 115 in (200.3 × 292.1 cm), Whitney Museum, accession 83.3. Page says **not on view** — [Whitney](https://whitney.org/collection/works/407). Visual detail: UNVERIFIED from the page (title indicates the subject's red smile; image not seen). Guggenheim audio guide exists — [Guggenheim](https://www.guggenheim.org/audio/track/the-red-smile-1963)
-- *Passing*, 1962–63, MoMA. Page says **not on view**. MoMA describes it as a self-portrait in which Katz appears as a businessman in a hat and suit — [MoMA](https://www.moma.org/collection/works/79217). Medium and dimensions: UNVERIFIED.
-- Both were in *Alex Katz: Gathering*, Guggenheim, 2022–23 — [Guggenheim press kit](https://www.guggenheim.org/wp-content/uploads/2022/10/alex-katz-gathering-press-kit-20221021.pdf)
-- MoMA also holds *Twilight* (1960) and *Canoe* (1951–52) — [MoMA](https://www.moma.org/collection/works/85801), [MoMA](https://www.moma.org/collection/works/68785)
+- *The Red Smile*, 1963, oil on linen, 78 7/8 × 115 in (200.3 × 292.1 cm). Whitney Museum, accession 83.3, "Purchase, with funds from the Painting and Sculpture Committee". **Not on view.** The page describes "a profile of his wife Ada's face, set against a smooth red background", "nearly 7 x 10 feet"; image description: "A woman wearing red lipstick smiles softly, her face in profile against a more vivid red background" — OPENED [Whitney](https://whitney.org/collection/works/407)
+- The Whitney holds 83 works by Katz, including *Bill 3* (2017; "Two large brown faces lean toward each other against a bright yellow background") and *Black Scarf* (1996) — OPENED [Whitney artist page](https://whitney.org/artists/676). On-view status of those not checked.
+- MoMA *Passing* (1962–63): SNIPPET, page blocked.
 
-### Market note
-- UNVERIFIED in full: no auction search could be run.
-- Major museum shows since 2022: Guggenheim retrospective *Gathering* (2022–23); Kunsthalle Tübingen survey (2026); Colby drawing survey (2026) — sources above.
+### Market and institutions
+- Museum shows since 2022 — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Alex_Katz), [Timothy Taylor](https://www.timothytaylor.com/artists/alex-katz/):
+  - *Alex Katz: Gathering*, Guggenheim, 21 Oct 2022 – 20 Feb 2023
+  - Thyssen, Madrid, 2022 (first show in Spain)
+  - *Theater and Dance*, Colby, then touring to Naples FL, Seattle, San Diego, Wichita (to 10 May 2026)
+  - *Dancing with Reality*, Kunsthalle Tübingen, 28 Mar – 13 Sep 2026
+  - *Out of Sight: A Drawing Survey*, Colby, 21 May – 11 Oct 2026
+  - *Quick Things Passing*, Colby, 12 Mar 2026 – 17 Jan 2027
+  - Musée Matisse Nice, 28 Oct 2026 – 18 Jan 2027
+- National Medal of Arts awarded by President Biden — headline dated 21 Oct 2024, OPENED [The Art Newspaper keyword page](https://www.theartnewspaper.com/keywords/alex-katz) (article not opened)
+- Auction prices: none found on any reachable page.
 
-### Human details / quotes
-- UNVERIFIED: no quote captured. Leads: [PBS NewsHour](https://pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday); Calvin Tomkins profile on [alexkatz.com](https://alexkatz.com/bibliography/selected_articles_and_reviews/Painterly_Virtues_Alex_Katzs_life_in_art-Tomkins_Calvin-The_New_Yorker)
-
-### Inferences
-- He turns 100 on 24 July 2027; centenary programming is likely, and a letter arriving before then is timely.
+### Quote
+- "I always try to paint in the present tense. If you paint stories, you're painting in the past tense." — OPENED [Timothy Taylor](https://www.timothytaylor.com/artists/alex-katz/)
+- On *The Red Smile*'s effect: the "immediate sensation you see before you focus" — OPENED [Whitney](https://whitney.org/collection/works/407)
 
 ### Gaps
-- Auction data; quotes; a NYC work confirmed on view.
+- Gladstone address and artist page on the official site. A New York work confirmed on view. He turns 100 on 24 July 2027.
 
 ---
 
 ## 4. Rose Wylie
 
-### Takeaway
-No death report was found; she had a major Royal Academy survey and a David Zwirner Paris show in spring 2026, with nothing dated later captured. She is British and lives in Kent, so a London gallery address may suit better than New York; only Zwirner's New York address was obtained.
+### Alive? Birth, residence, latest dated activity
+- Born 14 October 1934, Hythe, Kent; death date fields empty — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Rose_Wylie)
+- "Wylie lives and works in Kent, England" — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie). Wikipedia: she moved to Newnham, Kent in 1968.
+- Interviewed aged 91 by The Art Newspaper, published 24 February 2026 — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2026/02/24/rose-wylie-artist-interview)
+- Latest dated shows: *The Picture Comes First*, Royal Academy of Arts, London, 28 February – 19 April 2026 (more than 90 works); *Henri, Egypt...Bette, Bear*, David Zwirner Paris, 2026 — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie). Paris dates 2 April – 23 May 2026 are SNIPPET.
+- A 2026 work on paper, *Bear and Bette*, is listed as available; a 2026 video "Lunch with Rose Wylie (Part II)" was filmed after the RA opening — same page.
+- Nothing dated after May 2026 was found.
 
-### Alive? Birth year, where she lives/works
-- Born 1934, UK; lives and works in Kent — [Cure3](https://cure3.co.uk/artists/74/overview/) (secondary)
-- Birth date given as 14 October 1934 in search summary of Wikipedia-derived pages — [Wikipedia](https://wikipedia.com/wiki/Rose_Wylie) (secondary); she would have turned 92 in October 2026
-- A death/obituary search returned nothing.
-- *Rose Wylie: The Picture Comes First*, Royal Academy of Arts, London, 28 Feb – 19 Apr 2026, more than 90 works, her largest survey to date — [Art Fund](https://www.artfund.org/explore/exhibitions/2026/02/28/rose-wylie), [David Zwirner](https://davidzwirner.com/news/2025/rose-wylie-survey-exhibition-at-the-royal-academy)
-- *Henri, Egypt...Bette, Bear*, David Zwirner Paris, 2 Apr – 23 May 2026, new and recent canvases, multipanel works and works on paper — [David Zwirner](https://davidzwirner.com/exhibitions/2026/rose-wylie); reviewed 20 May 2026 — [Whitehot](https://whitehotmagazine.com/articles/bear-at-david-zwirner-paris/7805)
-- Latest dated evidence: May 2026. Nothing later captured.
-
-### Primary gallery and other galleries
-- David Zwirner (news, exhibitions and checklist pages on its site) — [David Zwirner](https://davidzwirner.com/exhibitions/2026/rose-wylie)
-- JARILAGER Gallery lists her and promoted the RA show; representation status UNVERIFIED — [Jari Lager](https://www.jarilagergallery.com/exhibitions/163-london-the-picture-comes-first-rose-wylie-at-the-royal-academy-of-arts/works/)
-- UNVERIFIED: Zwirner's artist page was not returned; any other representing galleries.
+### Galleries
+- "The artist's work has been represented by David Zwirner since 2017" — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie)
+- Earlier: Union Gallery (Wikipedia, marked "citation needed") — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Rose_Wylie)
+- Jarilager Gallery is credited for a privately owned painting in the RA show; representation UNVERIFIED — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2026/02/24/rose-wylie-artist-interview)
 
 ### Mailing address
-- David Zwirner New York, 19th Street: 519, 525 & 533 West 19th Street, New York, New York 10011; tel 1 212 727 2070; newyork@davidzwirner.com — [David Zwirner, official page via search](https://www.davidzwirner.com/galleries/new-york/19th-street)
-- UNVERIFIED: David Zwirner London address (probably the more natural route for a Kent-based artist).
+- **London (natural route for a Kent artist):** David Zwirner, 24 Grafton Street, London W1S 4EZ; tel +44 203 538 3165; london@davidzwirner.com — OPENED [David Zwirner London](https://www.davidzwirner.com/galleries/london)
+- **New York:** David Zwirner, 537 West 20th Street, New York, New York 10011; tel +1 212 517 8677; newyork@davidzwirner.com — OPENED [David Zwirner New York](https://www.davidzwirner.com/galleries/new-york)
+- Also: 519, 525 & 533 West 19th Street, New York, New York 10011; tel 1 212 727 2070 — OPENED [David Zwirner 19th Street](https://www.davidzwirner.com/galleries/new-york/19th-street)
+- Flag: both location pages state "we do not accept unsolicited materials". That is aimed at artist submissions, but a fan letter may or may not be forwarded.
 
 ### Works to see in New York / in a book
-- UNVERIFIED. The search for NYC museum holdings and monographs was not performed (budget exhausted).
-- Leads only: David Zwirner's 2026 Paris checklist — [checklist](https://www.davidzwirner.com/exhibitions/2026/rose-wylie/checklist); an ACC Art Books listing appeared in results (title not captured) — [ACC Art Books](https://www.accartbooks.com/uk/?p=71398)
+- No New York museum work found. A Whitney collection search for "Rose Wylie" returns "No matching works" — OPENED [Whitney search](https://whitney.org/collection/works?q%5Bsearch_cont%5D=Rose+Wylie). Zwirner's list of collections holding her work names no New York museum — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie). MoMA and Met could not be searched.
+- Monograph: *Rose Wylie: Which One*, David Zwirner Books, 2023, hardcover, 218 pages, ISBN 9781644230756; foreword by Nicholas Serota, texts by Judith Bernstein, David Salle and Barry Schwabsky, interview by Hans Ulrich Obrist — OPENED [David Zwirner Books](https://www.davidzwirner.com/collect/rose-wylie-which-one-book)
+- Also listed: *Rose Wylie: The Picture Comes First* (Royal Academy of Arts); *Rose Wylie* (Lund Humphries) — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie). Years not shown.
+- Large paintings named on the gallery page (location not New York): *Ballet Backdrop*, 2024, oil on canvas in four parts, 144 1/8 × 119 3/4 in (366 × 304 cm); *HAND, Drawing as Central*, 2022, triptych, 72 7/8 × 158 7/8 in, collection of S.M.A.K., Ghent — same page.
+- Works named in the RA show: *Yellow Strip* (2006); *Kill Bill (Film Notes)* (2007) — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2026/02/24/rose-wylie-artist-interview)
 
-### Market note
-- UNVERIFIED in full.
-- Major museum show since 2022: Royal Academy survey, 2026 — source above.
+### Market and institutions
+- "The first woman painter, and only the second female artist, to occupy the main galleries" of the Royal Academy — OPENED [The Art Newspaper](https://www.theartnewspaper.com/2026/02/24/rose-wylie-artist-interview)
+- Museum solos since 2022: S.M.A.K. Ghent (26 Nov 2022 – 30 Apr 2023); Zentrum Paul Klee, Bern (19 Jul – 5 Oct 2025); Royal Academy (2026) — OPENED [David Zwirner artist page](https://www.davidzwirner.com/artists/rose-wylie)
+- Zwirner took on her representation in November 2017, per an Art Newspaper headline cited by Wikipedia (article not opened) — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Rose_Wylie)
+- Auction prices: none found on any reachable page.
 
-### Human details / quotes
-- UNVERIFIED: no quote captured. Leads: David Salle essay "Going on Her Nerve" — [NYRB](https://www.nybooks.com/articles/2022/05/12/going-on-her-nerve-rose-wylie-david-salle/); "Reading Upside Down: A Conversation with Rose Wylie" — [David Zwirner](https://www.davidzwirner.com/news/2021/reading-upside-down-a-conversation-with-rose-wylie); [Monocle](https://monocle.com/culture/art/rose-wylie-frieze-london/)
+### Quote
+- "It's very, very fragile where a painting ends. All the time it sits on a precarious edge." — OPENED [The Art Newspaper, 24 Feb 2026](https://www.theartnewspaper.com/2026/02/24/rose-wylie-artist-interview)
+- "I love crossings-out. I love the first decision being left." — same source.
+- "The painting isn't illustrating an idea—the painting is the thing." — same source.
 
 ### Gaps
-- Proof of life after May 2026; London address; works; market; quotes.
+- Evidence of life after May 2026. A work viewable in New York. Auction data.
 
 ---
 
 ## 5. Larry Poons
 
-### Takeaway
-No death report was found; he had a Paris solo at Almine Rech in spring 2026 and a 2026-dated painting is listed by Yares Art, which calls itself his exclusive global representative. Nothing dated after May 2026 was captured.
+### Alive? Birth, residence, latest dated activity
+- Born 1 October 1937, Tokyo, Japan; death date fields empty — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Larry_Poons). The Whitney lists "1937–" and the same birth date — OPENED [Whitney](https://whitney.org/artists/1040)
+- "Poons splits his time between studios in New York City and East Durham, New York" — OPENED [Yares Art](https://www.yaresart.com/artists/larry-poons). Almine Rech: "Lives and works in New York, NY, US" — OPENED [Almine Rech](https://www.alminerech.com/artists/353-larry-poons)
+- Latest dated activity: *Kentucky Cols.*, Almine Rech Paris, 21 March – 21 May 2026 — OPENED [Almine Rech](https://www.alminerech.com/artists/353-larry-poons)
+- A 2026 painting is listed by Yares (see below); Yares' current group show *Fields of Color X* runs 1 July 2026 – 1 January 2027 (his inclusion not confirmed) — OPENED [Yares Art](https://www.yaresart.com/artists/larry-poons)
+- Latest Yares solo: *Provocation, Iliad: Powers + Spells*, 5 April – 15 August 2025 — OPENED [Yares exhibitions](https://www.yaresart.com/exhibitions)
+- Nothing dated after May 2026 names him directly.
 
-### Alive? Birth year, where he lives/works
-- Born 1937 — reported in search summary; see [Whitney artist page](https://whitney.org/artists/1040), [Wikipedia](https://en.wikipedia.org/wiki/Larry_Poons)
-- A death/obituary search returned nothing for him.
-- *Kentucky Cols.*, Almine Rech Paris, 21 Mar – 21 May 2026, his third solo with that gallery — [Ocula](https://ocula.com/art-galleries/almine-rech-gallery/exhibitions/larry-poons-kentucky-cols/)
-- Yares Art lists a 2026 painting (see below) — [Yares Art](https://yaresart.com/artists/larry-poons)
-- Teaches at the Art Students League of New York (since 1997) — [Wikipedia](https://en.wikipedia.org/wiki/Larry_Poons) (secondary, may be stale)
-- Where he lives/works: UNVERIFIED.
-
-### Primary gallery and other galleries
-- Yares Art states it "is the exclusive global representative of Larry Poons" — [Yares Art, official site via search](https://www.yaresart.com/artists/larry-poons)
-- Conflict: Almine Rech has given him three solo shows, the latest in 2026 — [Ocula](https://ocula.com/art-galleries/almine-rech-gallery/exhibitions/larry-poons-kentucky-cols/). Whether Almine Rech represents him or shows him by arrangement with Yares is UNVERIFIED.
-- Galleries with Poons pages that look like secondary-market or past relationships (UNVERIFIED): [Loretta Howard](https://www.lorettahoward.com/news/larry-poons-profile-in-art-antiques), [Lincoln Glenn](https://www.lincolnglenn.com/artists/985/works/4533/), [RK Gallery](https://www.rkgallery.com/exhibitions/larry-poons---solo-exhibition)
+### Galleries
+- "Yares Art is the exclusive global representative of Larry Poons" — OPENED [Yares Art contact page](https://www.yaresart.com/contact)
+- Almine Rech lists him on its artists index, with his own page and a 2026 Paris solo — OPENED [Almine Rech artists](https://www.alminerech.com/artists), [Almine Rech](https://www.alminerech.com/artists/353-larry-poons). The two claims sit side by side; how they are arranged is not stated.
+- Historic: Green Gallery, then Leo Castelli — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Larry_Poons)
 
 ### Mailing address
-- Yares Art, 745 Fifth Avenue, 4th Floor, New York, NY 10151; tel 212-256-0969; info@yaresart.com; Monday–Friday 10 am – 6 pm — [Yares Art contact page, via search](https://www.yaresart.com/contact)
-- The same page lists a Santa Fe office at 1570 Pacheco St. (an older release gives 1222 Flagman Way) — same source.
+- **Verified:** Yares Art, 745 Fifth Avenue, 4th Floor, New York, NY 10151; tel 212-256-0969; info@yaresart.com; Monday–Friday 10 am – 6 pm — OPENED [Yares Art contact page](https://www.yaresart.com/contact) (the page prints it once as "New York, NY, 10151" and once as "New York, NY 10151")
+- Other Yares offices: 1570 Pacheco St., Suite A1, Santa Fe, NM 87505; 479 Rodeo Drive, Beverly Hills, CA 90210 — same page.
 
 ### Works to see in New York
-- *Night on Cold Mountain*, 1962, synthetic polymer paint and dye on canvas, MoMA — [MoMA](https://www.moma.org/collection/works/79344). On-view status unverified; dimensions and visual detail UNVERIFIED.
-- *Number 23*, 1972, acrylic on canvas, about 94 × 123 in, Met, bought 1973 with the George A. Hearn Fund — [Met](https://www.metmuseum.org/art/collection/search/481164). On-view status unverified; visual detail UNVERIFIED.
-- *Untitled*, 1966, acrylic and graphite pencil on canvas, 130 × 90 in, Whitney — [Whitney](https://whitney.org/collection/works/412) (attribution of this URL to the 1966 work is from the search summary; on-view status unverified)
-- *Untitled*, 1967, acrylic on canvas, Whitney, gift of Larry L. Aldrich — [Whitney](https://whitney.org/collection/works/11713) (same caveat)
-- Recent work at his gallery: *I Face the Moon*, 2026, acrylic on canvas, 65 1/2 × 75 3/4 in — [Yares Art](https://yaresart.com/artists/larry-poons)
+- *Untitled*, 1966, acrylic and graphite pencil on canvas, 130 × 90 in (330.2 × 228.6 cm). Whitney Museum, accession 66.84, "Purchase". **Not on view.** Image description: "Teal background with evenly scattered small rounded leaf shapes in muted green, orange, and pink" — OPENED [Whitney](https://whitney.org/collection/works/412)
+- *Untitled*, 1967, acrylic on canvas, 78 3/4 × 127 1/8 in (200 × 322.9 cm). Whitney Museum, accession 98.20, "Gift of Larry L. Aldrich". **Not on view.** Image description: "Orange background with scattered multicolored oval shapes falling diagonally across the canvas" — OPENED [Whitney](https://whitney.org/collection/works/11713)
+- Recent work at his gallery: *I Face the Moon*, 2026, acrylic on canvas, 65 1/2 × 75 3/4 in (166.4 × 192.4 cm) — OPENED [Yares Art](https://www.yaresart.com/artists/larry-poons)
+- MoMA *Night on Cold Mountain* (1962) and Met *Number 23* (1972): SNIPPET, pages blocked.
 
-### Market note
-- UNVERIFIED in full. Artnet lists auction lots through 2026 (sale dates Feb–Sept 2026, e.g. *Two Untitled Works*, 1980, sale date 2 Sept 2026) but the result showed no prices — [Artnet](https://www.artnet.com/artists/larry-poons/past-auction-results)
+### Market and institutions
+- The Art Newspaper (2018) describes "his work's modest rise at auction in recent years" and says the market preferred his early "dot paintings" — OPENED [The Art Newspaper, 11 Nov 2018](https://www.theartnewspaper.com/2018/11/11/larry-poons-art-isnt-business)
+- Featured in the HBO documentary *The Price of Everything* (2018) — OPENED [Yares Art](https://www.yaresart.com/artists/larry-poons)
+- No museum solo since 2022 found on any opened page.
+- Artnet lots through 2026 without prices: SNIPPET.
 
-### Human details / quotes
-- UNVERIFIED: no quote captured. Lead: he began in music before painting — [Masterworks](https://www.masterworks.com/academy/artists/larry-poons) (low authority).
+### Quote
+- "There is no process except getting out of bed in the morning and feeling like painting and going to paint. The process is just painting." — OPENED [The Art Newspaper, 11 Nov 2018](https://www.theartnewspaper.com/2018/11/11/larry-poons-art-isnt-business)
+- "Success is in the studio. That's the only success there is." — same source.
+- "First colour, best colour. Next colour, next colour." — same source.
 
 ### Gaps
-- Proof of life after May 2026; residence; on-view status and visual details; market; quotes.
+- Direct evidence after May 2026. A New York work on view. Auction figures.
 
 ---
 
-## 6. Peter Bradley (b. 1940)
+## 6. Peter Bradley
 
-### Takeaway
-Bradley is alive and productive on the evidence of August 2026 reviews of fourteen new paintings at Karma, New York, which describe him as 85 and working. Karma is his gallery; its exact mailing address could not be confirmed.
+### Alive? Birth, residence, latest dated activity
+- Born 15 September 1940, Connellsville, Pennsylvania; no death date; article is in "Living people" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Peter_Bradley_(artist))
+- "Bradley lives in Upstate New York" — OPENED [Karma bio](https://karmakarma.org/artists/peter-bradley/bio/)
+- Latest solo: *Burning On*, Karma, 549 West 26th Street, New York, 9 July – 28 August 2026; before it *Ten Sculptures*, 188 East 2nd Street, 20 February – 14 March 2026 — OPENED [Karma exhibitions](https://karmakarma.org/artists/peter-bradley/exhibitions/)
+- Latest dated activity: Karma's artist page leads with installation views of *Hard Art*, MoMA PS1, 5 November 2026 – 15 March 2027 — OPENED [Karma artist page](https://karmakarma.org/artists/peter-bradley/)
+- "Now 85" in July–August 2026 reviews: SNIPPET.
 
-### Alive? Birth year, where he lives/works
-- Born 1940 in Pennsylvania; studied at the Society for Arts and Crafts, Detroit; came to New York in the 1960s; worked in the Guggenheim's installation department and as associate director at Perls Gallery — [Karma press release](https://karmakarma.org/exhibitions/peter-bradley-ruling-light-paintings-from-the-1970s-2022/press-release/)
-- Lives in Upstate New York — [Karma bio](https://karmakarma.org/artists/peter-bradley/bio/); studio in Saugerties, New York, per a 2021 New York Times profile — [Karma press page](https://karmakarma.org/press/bradley-nyt-2021-08-019/)
-- *Burning On*, Karma, 549 West 26th Street, New York, 9 Jul – 28 Aug 2026, fourteen new paintings — [Karma](https://karmakarma.org/exhibitions/peter-bradley-ny-2026/), [ArtRabbit](https://www.artrabbit.com/events/peter-bradley-burning-on)
-- Reviews describe him as "now 85" and the works as made in 2026 or the previous twelve months — [Two Coats of Paint, July 2026](https://twocoatsofpaint.com/2026/07/peter-bradley-pleasure-and-provocation.html), [Brooklyn Rail, 30 Jul 2026](https://karmakarma.org/press/2026-07-30_the-brooklyn-rail_peter-bradley/), [Artforum, 20 Aug 2026](https://karmakarma.org/press/2026-08-20_artforum_peter-bradley/)
-- *Ten Sculptures*, Karma, 188 East 2nd Street, 20 Feb – 14 Mar 2026 — [Frieze listing](https://www.frieze.com/ko/event/peter-bradley-ten-sculptures)
-- New York Times Style Magazine piece, 7 May 2026 — [Karma press page](https://karmakarma.org/press/2026-05-07_the-new-york-times-style-magazine_peter-bradley/)
-- A death/obituary search returned nothing. Latest dated evidence: 20–28 Aug 2026.
-
-### Primary gallery and other galleries
-- Karma, New York (artist page, bio, press, publications) — [Karma](https://karmakarma.org/artists/peter-bradley/)
-- Karma began working with him around 2020–21, per the NYT profile — [Karma press page](https://karmakarma.org/press/bradley-nyt-2021-08-019/)
-- Other representing galleries: none found. UNVERIFIED whether any exist.
+### Galleries
+- Karma (works, bio, exhibitions, publications pages) — OPENED [Karma artist page](https://karmakarma.org/artists/peter-bradley/)
+- "Bradley is currently represented by the Karma Gallery in New York City" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Peter_Bradley_(artist))
+- No other representing gallery found. Parker Gallery co-published a 2024 book with Karma; not evidence of representation.
 
 ### Mailing address
-- Karma New York addresses seen on Karma's own exhibition pages, via search: 549 West 26th Street, New York (Chelsea); 188 East 2nd Street, New York; 22 East 2nd Street, New York (2021 show) — [Karma](https://karmakarma.org/exhibitions/peter-bradley-chelsea-2026/), [Karma](https://karmakarma.org/exhibitions/peter-bradley-ny-2026/)
-- UNVERIFIED: zip codes and which address is the gallery's mailing address; no contact page was returned.
+- **Verified:** Karma, 549 West 26th Street, New York, NY 10001; tel (212) 717-1671; Tuesday–Saturday 10 am – 6 pm; info@karmakarma.org — OPENED [Karma information page](https://karmakarma.org/information/)
+- Second New York space: 38 White Street, New York, NY 10013 — same page.
+- The East 2nd Street addresses in the old notes are not on the current information page. Karma has no `/contact/` page (404); the address page is `/information/`.
 
-### Works to see in New York / in a book
-- New paintings named in reviews of *Burning On*: *Fran-Dance* (2026) and *Corcovado* (2026); acrylic poured onto canvas laid on the floor; "watery, amorphous washes of rich greens, blues, reds, and purples" — [Two Coats of Paint](https://twocoatsofpaint.com/2026/07/peter-bradley-pleasure-and-provocation.html), [Air Mail](https://airmail.news/arts-intel/events/peter-bradley-burning-on). Show closed 28 Aug 2026; dimensions UNVERIFIED.
-- Karma says his work is in the collections of MoMA and the Metropolitan Museum of Art — [Karma press release](https://karmakarma.org/exhibitions/peter-bradley/press-release/). Specific titles: UNVERIFIED (museum search not performed).
-- Possible lead, UNVERIFIED: MoMA PS1's *Hard Art* (abstraction by Black artists, 1969–today, through 15 Mar 2027) — [MoMA press](https://press.moma.org/exhibition/hard-art/). I did not confirm Bradley is included.
-- Karma lists publications on him — [Karma publications](https://karmakarma.org/artists/peter-bradley/publications/) (titles not captured).
+### Works to see in New York
+- *Ruling Light*, 1973, acrylic on canvas, 39 3/4 × 87 in (101 × 221 cm). Whitney Museum, accession 2024.322, "Purchase, with funds from the Jack E. Chachkes Endowed Purchase Fund". **Not on view.** Image description: "Abstract horizontal painting with pale background and sweeping orange and yellow paint strokes" — OPENED [Whitney](https://whitney.org/collection/works/68836). It is the Whitney's only Bradley, bought in 2024.
+- On view now, work titles not obtained: *Hard Art*, MoMA PS1, to 15 March 2027 — OPENED [Karma artist page](https://karmakarma.org/artists/peter-bradley/)
+- *Chinese Snowball II*, 1972, oil on canvas, 76 × 51 in, Studio Museum in Harlem, gift of Andre Emmerich, 2001.17 — OPENED [Karma artist page](https://karmakarma.org/artists/peter-bradley/). On-view status not checked.
+- Karma lists MoMA and the Met among collections holding his work — OPENED [Karma bio](https://karmakarma.org/artists/peter-bradley/bio/). No titles; museum pages blocked.
+- Monograph: *Peter Bradley: Ruling Light*, texts by Dieter Buchhart, Mia Matthias and Nancy Princenthal, Karma, New York, 2023. Also *Peter Bradley*, Karma, New York, 2022 — OPENED [Karma publications](https://karmakarma.org/artists/peter-bradley/publications/)
 
-### Market note
-- UNVERIFIED in full.
-- Context: curated the racially integrated *De Luxe Show*, Houston, 1971; then largely out of view until Karma — [Karma press page](https://karmakarma.org/press/bradley-nyt-2021-08-019/)
+### Market and institutions
+- Museum acquisitions since 2022: Whitney bought *Ruling Light* (accession 2024.322) — OPENED [Whitney](https://whitney.org/collection/works/68836); LACMA owns *Coravilas*, 2021, 77 × 131 in, shown in *New Abstracts: Recent Acquisitions*, 12 Nov 2022 – 29 May 2023 — OPENED [Karma artist page](https://karmakarma.org/artists/peter-bradley/)
+- Curated *The De Luxe Show*, Houston, 1971, one of the first racially integrated exhibitions in the United States — OPENED [Karma bio](https://karmakarma.org/artists/peter-bradley/bio/)
+- No Art Newspaper keyword page exists for him (404). Auction prices: none found.
 
-### Human details / quotes
-- UNVERIFIED: no direct quote captured. Checkable detail: he pours acrylic onto canvases on the floor — [Air Mail](https://airmail.news/arts-intel/events/peter-bradley-burning-on). Several of the 2026 titles (*Fran-Dance*, *Corcovado*) match jazz compositions; that link is my inference, not sourced.
+### Quote
+- Colour, "in his words 'supersedes subject'" — OPENED [Karma bio](https://karmakarma.org/artists/peter-bradley/bio/). A two-word quotation inside the gallery's text; no longer quote found.
+- Checkable detail: he embeds "glass, flowers, and butterfly wings into acrylic" and exposes canvases to the weather — same source. Titles such as *Miles Ahead*, *Love Supreme*, *Sun Ra* and *Scrapple From The Apple* appear on the works page; the bio says he draws on "the improvisatory and responsive language of jazz".
+
+### Gaps
+- Which Bradley paintings hang in *Hard Art*. Auction data. A longer first-person quote.
+
+---
+
+## 7. William T. Williams
+
+### Alive? Birth, residence, latest dated activity
+- Born 17 July 1942, Cross Creek, North Carolina; no death date; article is in "Living people" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams)
+- The Whitney lists "1942–" and the same birth date — OPENED [Whitney](https://whitney.org/artists/1428)
+- "Williams lives in both New York City and Connecticut" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams)
+- 2024 Murray Reich Distinguished Artist Award, New York Foundation for the Arts — same source.
+- Latest dated activity: none on any page opened in this run. *Word of Eye* at Michael Rosenfeld Gallery (early 2026, dates conflicting between 7 Feb – 4 Apr and 19 Mar – 26 Apr) is SNIPPET; the gallery site would not open.
+
+### Galleries
+- Michael Rosenfeld Gallery as exclusive representative since 2016: SNIPPET. Wikipedia cites the gallery's artist page as a source, which is consistent — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams)
+- No Art Newspaper keyword page exists for him (404).
+
+### Mailing address
+- **Not verified on an official page.** SNIPPET: Michael Rosenfeld Gallery, 100 Eleventh Avenue at 19th Street, New York, NY 10011; tel 212.247.0082 — [Michael Rosenfeld](https://www.michaelrosenfeldart.com/about)
+- New finding: `www.michaelrosenfeldart.com/contact` now redirects to `michaelrosenfeld.com/contact` (observed 16 Nov 2026). The gallery appears to have moved to the shorter domain, so the email info@michaelrosenfeld.com in the old notes is consistent with it rather than suspect.
+
+### Works to see in New York
+- *Drawing for an Epic Idea (Coonograph)*, 1970, pen and ink and watercolour on paper, sheet 17 1/2 × 23 in (44.5 × 58.4 cm). Whitney Museum, accession 71.47, "Purchase". **Not on view.** Image description: "Bright abstract painting with repeating fan and diamond shapes in red, pink, green, and blue" — OPENED [Whitney](https://whitney.org/collection/works/3333). It is the Whitney's only Williams and is a small drawing.
+- MoMA acquired his painting *Elbert Jackson L.A.M.F., Part II* in 1969 — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams) (secondary; MoMA page blocked, so medium, size and on-view status are UNVERIFIED).
+- Whether he is in *Hard Art* at MoMA PS1: UNVERIFIED.
+- Monograph: UNVERIFIED (gallery publications page not reachable).
+
+### Market and institutions
+- His 1971 first solo at Reese Palley Gallery "resulted in the sale of every painting"; work in more than thirty museum collections — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams)
+- Nothing on recent prices or museum shows since 2022 on any reachable page.
+
+### Quote
+- No quote about painting found. Nearest, on founding the Studio Museum's residency: "I wanted to create a context, namely an Artist-in-Residence program, through which money could be funnelled to artists" — OPENED [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams) (quoting a Studio Museum magazine piece; secondary).
+
+### Gaps
+- Official address; any 2026 dated activity read on a page; a painting viewable in New York; market; a quote about painting. Everything specific to the gallery waits on `michaelrosenfeld.com` being reachable.
+
+---
+
+## Deceased — Mary Heilmann
+
+- Died 14 August 2026, aged 86; Wikipedia gives the place as Riverhead, New York — OPENED [Wikipedia](https://en.wikipedia.org/wiki/Mary_Heilmann)
+- Gallery announcements and obituaries listed in the earlier notes are SNIPPET — [Hauser & Wirth](https://www.hauserwirth.com/news/in-memoriam-mary-heilmann-1940-2026/), [The Art Newspaper, 17 Aug 2026](https://www.theartnewspaper.com/2026/08/17/mary-heilmann-fearless-colourist-singular-painter-obituary)
+- No letter. Jim Dine takes her place on the list.
+
+---
+
+## Cross-cutting notes
+
+### Corrections to the earlier notes
+- Dia Beacon's Pindell exhibition opens 30 January 2027, not December 2026.
+- *Hard Art* at MoMA PS1 opened 5 November 2026; Pindell is in it, and Karma shows it on Bradley's page.
+- Karma's addresses are 549 West 26th Street (NY 10001) and 38 White Street (NY 10013), not East 2nd Street.
+- Pindell's Art Basel "Icon Artists" medal is confirmed by White Cube.
+- Poons is listed by Almine Rech as one of its artists as well as by Yares.
+- Katz's Musée Matisse show opened 28 October 2026 per Wikipedia.
+- Dine is no longer with Pace or Gray; his current dealers are in Paris/Brussels and London.
 
 ### Inferences
-- A late-career rediscovery with annual Karma shows and heavy 2026 press suggests a rising market, but no price evidence was gathered.
+- Three addresses are safe to write on an envelope today: Yares (Poons), Karma (Bradley), David Zwirner London or New York (Wylie). Pindell can go via White Cube New York if Garth Greenan's line cannot be confirmed.
+- Katz, Williams and Dine still need an address read on an official page.
+- No painting by any of the seven is confirmed on view in a Manhattan museum. The only current New York showing confirmed is *Hard Art* at MoMA PS1 (Pindell, Bradley).
+- Market momentum can be inferred only from institutions: strongest for Pindell (Dia acquisition of 21 works, Art Basel medal) and Bradley (Whitney and LACMA purchases since 2022); no price evidence for anyone.
 
 ### Gaps
-- Karma postal address; museum works; market; quotes.
-
----
-
-## 7. William T. Williams (b. 1942)
-
-### Takeaway
-No death report was found, and Michael Rosenfeld Gallery, his exclusive representative, showed a new series of paintings in New York in early 2026. Nothing dated after spring 2026 was captured.
-
-### Alive? Birth year, where he lives/works
-- Born 1942 (17 July 1942 per Wikipedia) — [Michael Rosenfeld](https://www.michaelrosenfeldart.com/index.php/artists/william-t-williams-b1942), [Wikipedia](https://en.wikipedia.org/wiki/William_T._Williams)
-- Lives and works between New York City and Connecticut — [Michael Rosenfeld](https://www.michaelrosenfeldart.com/index.php/artists/william-t-williams-b1942), [Whitney](https://whitney.org/artists/1428)
-- Grew up in rural North Carolina, moved to New York as a child; Pratt Institute; MFA Yale 1968; taught at Brooklyn College, CUNY, 1971–2008 (professor emeritus); helped establish the Studio Museum in Harlem's artist-in-residence programme; Smokehouse muralist 1968–70; National Academy 2017; 2024 Murray Reich Distinguished Artist Award — [Michael Rosenfeld](https://www.michaelrosenfeldart.com/index.php/artists/william-t-williams-b1942)
-- *William T. Williams: Word of Eye*, Michael Rosenfeld Gallery, 2026, the debut of a new series of paintings. **Dates conflict**: 7 Feb – 4 Apr 2026 per [GalleriesNow](https://www.galleriesnow.net/shows/william-t-williams-word-of-eye) and [ArtRabbit](https://www.artrabbit.com/people/william-t-williams/artist); 19 Mar – 26 Apr 2026 per [Art in America Guide](https://artinamericaguide.com/events/category/exhibition/2026-04/). See also [Meer](https://www.meer.com/en/105393-word-of-eye)
-- Group show *David C. Driskell & Friends*, FIU Frost Art Museum, 21 Feb – 11 Oct 2026 — [Frost](https://frost.fiu.edu/whats-on/events/2026/02/david-c-driskell-and-friends.html)
-- A death/obituary search returned nothing for him (results for William T. Wiley, d. 2021, are a different artist).
-
-### Primary gallery and other galleries
-- Michael Rosenfeld Gallery describes itself as his exclusive representative — [Michael Rosenfeld](https://www.michaelrosenfeldart.com/index.php/artists/william-t-williams-b1942); he joined in 2016, his first gallery representation in 40 years — [Culture Type](https://www.culturetype.com/2016/11/28/william-t-williams-joins-michael-rosenfeld-in-new-york-gaining-gallery-representation-for-the-first-time-in-40-years/)
-- No other representing gallery found.
-
-### Mailing address
-- Michael Rosenfeld Gallery, 100 Eleventh Avenue at 19th Street, New York, NY 10011; tel 212.247.0082; Tuesday–Saturday 10 am – 6 pm — [Michael Rosenfeld, official site via search](https://www.michaelrosenfeldart.com/about)
-- Email returned as info@michaelrosenfeld.com; the domain differs from the website (michaelrosenfeldart.com), so check before use — same source.
-
-### Works to see in New York
-- UNVERIFIED. The museum search was not performed (budget exhausted). Collection pages exist at [Whitney](https://whitney.org/artists/1428) and [Studio Museum in Harlem](https://www.studiomuseum.org/artists/william-t-williams) but no titles were captured.
-- Possible lead, UNVERIFIED: MoMA PS1's *Hard Art*, through 15 Mar 2027 — [MoMA press](https://press.moma.org/exhibition/hard-art/). I did not confirm Williams is included.
-
-### Market note
-- UNVERIFIED in full.
-
-### Human details / quotes
-- UNVERIFIED: no quote captured. The gallery has an artist video page — [Michael Rosenfeld videos](https://www.michaelrosenfeldart.com/artists/william-t-williams-b1942/videos)
-
-### Gaps
-- Proof of life after spring 2026; show dates; works; market; quotes.
-
----
-
-## Cross-cutting gaps and next steps
-
-- **Market notes are missing for all seven artists** (price ranges, auction results, records, trend judgment). No auction-house or market-press search was run before the search budget was exhausted.
-- **Interview quotes are missing for all seven.** Lead URLs are listed per artist.
-- **Concrete visual details for works are missing** except Katz's *Passing* (self-portrait as a businessman in hat and suit, per MoMA).
-- **Alternate Martha Jungwirth was not researched.** Jim Dine's section is too thin to write to him yet.
-- To finish: allow the gallery and museum hosts in the session network settings (or raise the web-search limit) and re-run, starting with Garth Greenan's new SoHo postal address, Karma's contact page, David Zwirner London, and Jim Dine's galleries.
+- Auction results and records for all seven: no reachable source.
+- MoMA and Met collection pages for all seven: blocked by a browser check.
+- Garth Greenan, Gladstone, Michael Rosenfeld, Templon and Cristea Roberts official pages: not reachable.
