@@ -9,7 +9,7 @@ Copy each by hand. Before mailing, read it once more and strike any line that is
 
 *Work: The Knowledge Transmitter #3, 2026, mixed media on canvas, 120 x 108 in. (304.8 x 274.3 cm); on view in "Ouattara Watts: New Paintings", Karma, 549 West 26th Street, until 19 Dec 2026*  
 ***SEE FIRST:** Karma, 549 West 26th Street, Tuesday-Saturday 10am-6pm, until 19 Dec 2026. The letter says you went. Go first.*  
-*Mail to: Ouattara Watts, c/o Karma, 549 West 26th Street, New York, NY 10001*
+*Mail to: Ouattara Watts, c/o Karma, 549 West 26th Street, New York, NY 10001, USA*
 
 Dear Ouattara Watts,
 
@@ -27,7 +27,7 @@ Sincerely,
 ### Nicole Eisenman
 
 *Work: Achilles Heel, 2014, oil on canvas, 82 x 65 1/4 in. (208.3 x 165.7 cm); Whitney Museum of American Art, accession 2015.55, gift of Andrew and Christine Hall; not on view*  
-*Mail to: Nicole Eisenman, c/o Anton Kern Gallery, 16 East 55th Street, New York, NY 10022*
+*Mail to: Nicole Eisenman, c/o Harlan & Weaver, 83 Canal Street, Room 501, New York, NY 10002, USA*
 
 Dear Nicole Eisenman,
 
@@ -47,7 +47,7 @@ With thanks,
 ### Eddie Martinez
 
 *Work: Oceanic, 2020, oil, acrylic and spray paint on canvas, 72 x 108 in.; Carnegie Museum of Art, accession 2021.9*  
-*Mail to: Eddie Martinez, c/o Timothy Taylor, 15 Bolton Street, London W1J 8BG, United Kingdom*
+*Mail to: Eddie Martinez, c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA*
 
 Dear Eddie Martinez,
 
@@ -65,7 +65,7 @@ Yours,
 ### Stanley Whitney
 
 *Work: Untitled, 2017, watercolor monotype on Lanaquarelle paper, sheet 47 5/8 x 72 in. (121 x 182.9 cm), printed and published by Two Palms; Whitney Museum of American Art, accession 2018.72; not on view*  
-*Mail to: Stanley Whitney, c/o Gagosian, 555 West 24th Street, New York, NY 10011*
+*Mail to: Stanley Whitney, c/o Two Palms, 476 Broadway, 3rd Floor, New York, NY 10013, USA*
 
 Dear Stanley Whitney,
 
@@ -85,7 +85,7 @@ Best,
 ### Rose Wylie
 
 *Work: Ballet Backdrop, 2024, oil on canvas in four parts, 144 1/8 x 119 3/4 in. (366 x 304 cm); named on the gallery's artist page, location not given*  
-*Mail to: Rose Wylie, c/o David Zwirner, 24 Grafton Street, London W1S 4EZ, United Kingdom*
+*Mail to: Rose Wylie, c/o JARILAGER Gallery, Wormser Strasse 23, 50677 Köln, Germany*
 
 Dear Rose Wylie,
 
@@ -109,7 +109,7 @@ Sincerely,
 
 *Work: In Creation, 2026, acrylic paint, oil paint, colored pencil, fabric, thread, and painted canvas on canvas, 121 x 121 x 1 1/2 in. (307.3 x 307.3 x 3.8 cm), gallery number TS 26/016; in "Tools of Worshi*  
 ***SEE FIRST:** Petzel, 520 W 25th Street, until 30 Jan 2027. The letter says you went. Go first.*  
-*Mail to: Tschabalala Self, c/o Petzel, 520 W 25th Street, New York, NY 10001*
+*Mail to: Tschabalala Self, Visiting Artist in Residence, Bard Studio Arts, Fisher Annex, 40 N Ravine Road, Annandale-on-Hudson, NY 12504, USA*
 
 Dear Tschabalala Self,
 
@@ -129,7 +129,7 @@ With thanks,
 ### Mark Bradford
 
 *Work: Bread and Circuses, 2007, found paper, metal foil, acrylic, and string on canvas, 134 1/4 x 253 1/2 in. (341 x 643.9 cm); Whitney Museum of American Art, accession 2008.42; not on view*  
-*Mail to: Mark Bradford, c/o Hauser & Wirth, 542 West 22nd Street, New York, NY 10011*
+*Mail to: Mark Bradford, c/o Art + Practice, 3401 W. 43rd Place, Los Angeles, CA 90008, USA*
 
 Dear Mark Bradford,
 
@@ -149,7 +149,7 @@ Best,
 ### Julian Schnabel
 
 *Work: Hope, 1982, oil and velvet on velvet, 110 x 158 in. (279.4 x 401.3 cm); Whitney Museum of American Art, accession 82.13, purchase with funds from an anonymous donor; not on view*  
-*Mail to: Julian Schnabel, c/o Pace Gallery, 540 West 25th Street, New York, NY 10001*
+*Mail to: Julian Schnabel, c/o Vito Schnabel Gallery, 455 West 19th Street, New York, NY 10011, USA*
 
 Dear Julian Schnabel,
 
@@ -170,7 +170,7 @@ Yours,
 
 *Work: ONE: Union of the Senses, 2014 (commissioned 2014, completed and installed 2015), mural, 15 x 90 ft; lobby of One World Trade Center, Manhattan*  
 ***SEE FIRST:** lobby of One World Trade Center, permanent. The letter says you went and walked its length twice. Whether non-tenants can enter the lobby in 2026 is UNVERIFIED: check access before you go.*  
-*Mail to: José Parlá, c/o Parlá Studios, Brooklyn, New York (NO STREET ADDRESS FOUND: do not post until one is supplied)*
+*Mail to: José Parlá, c/o Ben Brown Fine Arts, 12 Brook's Mews, London W1K 4DG, UK*
 
 Dear José Parlá,
 
@@ -190,7 +190,7 @@ Sincerely,
 ### Peter Saul
 
 *Work: Saigon, 1967, acrylic, oil, enamel, and fiber-tipped pen on canvas, 93 1/4 x 142 1/4 in. (236.9 x 361.3 cm); Whitney Museum of American Art, accession 69.103; not on view*  
-*Mail to: Peter Saul, c/o Gladstone Gallery, 515 West 24th Street, New York, NY 10011*
+*Mail to: Peter Saul, c/o George Adams Gallery, 38 Walker Street, New York, NY 10013, USA*
 
 Dear Peter Saul,
 
@@ -213,7 +213,7 @@ With thanks,
 ### Howardena Pindell
 
 *Work: Untitled, 1970, acrylic on canvas, 69 x 79 1/8 in (175.3 x 201 cm); Whitney Museum of American Art, accession 71.173, not on view*  
-*Mail to: Howardena Pindell, c/o Garth Greenan Gallery, 10 Greene Street, New York, NY (door number and ZIP UNVERIFIED, see ADDRESS_STATUS; verified fallback: Howardena Pindell, c/o White Cube, 1002 Madison Avenue, New York, NY 10075)*
+*Mail to: Prof. Howardena Pindell, Department of Art, Stony Brook University, 2224 Staller Center for the Arts, Stony Brook, NY 11794-5400, USA*
 
 Dear Howardena Pindell,
 
@@ -229,7 +229,7 @@ Sincerely,
 ### Amoako Boafo
 
 *Work: Joy Adenike, 2019, oil on canvas, 80 1/8 x 61 3/8 in (203.5 x 155.9 cm); Solomon R. Guggenheim Museum, New York; on-view status not found*  
-*Mail to: Amoako Boafo, c/o Gagosian, 555 West 24th Street, New York, NY 10011*
+*Mail to: Amoako Boafo, dot.ateliers, 254a Third Kaadjano Street, Osu, Accra, Ghana*
 
 Dear Amoako Boafo,
 
@@ -245,7 +245,7 @@ With thanks,
 ### Chris Ofili
 
 *Work: The Holy Virgin Mary, 1996; Museum of Modern Art, New York, gift of Steve Cohen reported 19 Apr 2018*  
-*Mail to: Chris Ofili, c/o David Zwirner, 537 West 20th Street, New York, NY 10011*
+*Mail to: Chris Ofili, c/o Victoria Miro, 16 Wharf Road, London N1 7RW, UK*
 
 Dear Chris Ofili,
 
@@ -261,7 +261,7 @@ Yours,
 ### Chris Martin
 
 *Work: Staring Into The Sun 748 Russell Hill Road, 2024, acrylic, collage, sequins and glitter on canvas, diptych, 135 x 236 in (342.9 x 599.4 cm); shown in "Speed of Light", Timothy Taylor, New York, 16 Jan*  
-*Mail to: Chris Martin, c/o Anton Kern Gallery, 16 East 55th Street, New York, NY 10022 (verified fallback: Chris Martin, c/o Timothy Taylor, 15 Bolton Street, London W1J 8BG, United Kingdom)*
+*Mail to: Chris Martin, c/o Anton Kern Gallery, 16 East 55th Street, New York, NY 10022, USA*
 
 Dear Chris Martin,
 
@@ -280,7 +280,7 @@ Best,
 
 *Work: Queens of the Night, 2021, glass mosaic; 1 Avenue station on the L line, New York, permanent*  
 ***SEE FIRST:** 1 Avenue L station, Manhattan; permanent, no end date. The letter says he went there to look at it, so he must go first.*  
-*Mail to: Katherine Bradford, c/o Canada, 60 Lispenard Street, New York, NY 10013*
+*Mail to: Katherine Bradford, c/o Caldbeck Gallery, 12 Elm Street, Rockland, ME 04841, USA*
 
 Dear Katherine Bradford,
 
@@ -300,7 +300,7 @@ Sincerely,
 
 *Work: Ciguapa Antellana, me llamo sueño de la madrugada (who more sci-fi than us), 2018, glass mosaic, fabricated by Mayer of Munich; 163 St-Amsterdam Av subway station, New York: two platform-level and two*  
 ***SEE FIRST:** 163 St-Amsterdam Av subway station, Manhattan; permanent, no end date. The letter says he went, so he must go first.*  
-*Mail to: Firelei Báez, c/o Hauser & Wirth, 542 West 22nd Street, New York, NY 10011*
+*Mail to: Firelei Báez, c/o James Cohan, 48 Walker Street, New York, NY 10013, USA*
 
 Dear Firelei Báez,
 
@@ -316,7 +316,7 @@ With thanks,
 ### Kerry James Marshall
 
 *Work: Souvenir IV, 1998, acrylic, glitter, and screenprint on paper on tarpaulin, with metal grommets, 107 5/8 x 157 1/2 in (273.4 x 400.1 cm); Whitney Museum of American Art, accession 98.56, not on view*  
-*Mail to: Kerry James Marshall, c/o Jack Shainman Gallery, 513 West 20th Street, New York, NY 10011*
+*Mail to: Kerry James Marshall, c/o Jack Shainman Gallery, 513 West 20th Street, New York, NY 10011, USA*
 
 Dear Kerry James Marshall,
 
@@ -332,7 +332,7 @@ Yours,
 ### Charline von Heyl
 
 *Work: Boogey, 2004, acrylic, oil, and charcoal on canvas, 82 1/16 x 78 1/8 in (208.4 x 198.4 cm); Whitney Museum of American Art, accession P.2011.472, promised gift of Thea Westreich Wagner and Ethan Wagne*  
-*Mail to: Charline von Heyl, c/o Petzel, 520 W 25th Street, New York, NY 10001*
+*Mail to: Charline von Heyl, c/o Petzel, 520 West 25th Street, New York, NY 10001, USA*
 
 Dear Charline von Heyl,
 
@@ -348,7 +348,7 @@ Best,
 ### Larry Poons
 
 *Work: Untitled, 1966, acrylic and graphite pencil on canvas, 130 x 90 in (330.2 x 228.6 cm); Whitney Museum of American Art, accession 66.84, not on view*  
-*Mail to: Larry Poons, c/o Yares Art, 745 Fifth Avenue, 4th Floor, New York, NY 10151*
+*Mail to: Larry Poons, Instructor, The Art Students League of New York, 215 West 57th Street, New York, NY 10019, USA*
 
 Dear Larry Poons,
 
@@ -364,7 +364,7 @@ With thanks,
 ### David Salle
 
 *Work: Splinter Man, 1982, oil and acrylic on canvas, two parts, overall 98 1/16 x 195 13/16 in (249.1 x 497.4 cm); Whitney Museum of American Art, accession 82.12a-b, not on view*  
-*Mail to: David Salle, c/o Skarstedt, 20 East 79th Street, New York, NY 10075*
+*Mail to: David Salle, c/o Lehmann Maupin, 501 West 24th Street, New York, NY 10011, USA*
 
 Dear David Salle,
 
@@ -383,7 +383,7 @@ Sincerely,
 ### Peter Bradley
 
 *Work: "Ruling Light", 1973, acrylic on canvas, 39 3/4 x 87 in (101 x 221 cm); Whitney Museum of American Art, accession 2024.322, not on view*  
-*Mail to: Peter Bradley, c/o Karma, 549 West 26th Street, New York, NY 10001*
+*Mail to: Peter Bradley, c/o Emerge Gallery, Main Street, Saugerties, NY (street number 228A or 222: confirm)*
 
 Dear Peter Bradley,
 
@@ -395,7 +395,7 @@ Sincerely,
 ### Lee Quiñones
 
 *Work: "Black and Blue", 2021, acrylic, spray paint, paint marker on linen, 80 x 132 inches; shown on the gallery's artist page, location not stated*  
-*Mail to: Lee Quiñones, c/o Charlie James Gallery, 969 Chung King Road, Los Angeles, CA 90012*
+*Mail to: Lee Quiñones, c/o Charlie James Gallery, 969 Chung King Road, Los Angeles, CA 90012, USA*
 
 Dear Lee Quiñones,
 
@@ -407,7 +407,7 @@ With thanks,
 ### Alvaro Barrington
 
 *Work: "Labor Day Parade '91", 2026, a painted haulage truck, size not found; shown in the Giardini at the 61st Venice Biennale*  
-*Mail to: Alvaro Barrington, c/o Anton Kern Gallery, 16 East 55th Street, New York, NY 10022*
+*Mail to: Alvaro Barrington, c/o Emalin, 1 Holywell Lane, London EC2A 3ET, UK*
 
 Dear Alvaro Barrington,
 
@@ -419,7 +419,7 @@ Yours,
 ### Amy Sillman
 
 *Work: "Still Life 1", 2013-2014, oil on canvas, 75 1/8 x 66 1/8 in (190.8 x 168 cm); Whitney Museum of American Art, accession 2014.149, not on view*  
-*Mail to: Amy Sillman, c/o David Zwirner, 537 West 20th Street, New York, NY 10011*
+*Mail to: Amy Sillman, c/o Capitain Petzel, Karl-Marx-Allee 45, 10178 Berlin, Germany*
 
 Dear Amy Sillman,
 
@@ -431,7 +431,7 @@ Best,
 ### Katherine Bernhardt
 
 *Work: "Jungle Snack (Orange and Green)", 2017, acrylic and spray paint on canvas, 120 x 180 in; shown at the Modern Art Museum of Fort Worth*  
-*Mail to: Katherine Bernhardt, c/o Canada, 60 Lispenard Street, New York, NY 10013*
+*Mail to: HOLD: Dragon, Crab and Turtle, Midtown St. Louis, MO (STREET ADDRESS NOT FOUND)*
 
 Dear Katherine Bernhardt,
 
@@ -446,7 +446,7 @@ Sincerely,
 ### Alex Katz
 
 *Work: "The Red Smile", 1963, oil on linen, 78 7/8 x 115 in (200.3 x 292.1 cm); Whitney Museum of American Art, accession 83.3, not on view*  
-*Mail to: Alex Katz, c/o Gladstone Gallery, 515 West 24th Street, New York, NY 10011*
+*Mail to: Alex Katz, c/o Alex Katz Foundation, 192 Lexington Avenue, Suite 1100, New York, NY 10016, USA*
 
 Dear Alex Katz,
 
@@ -459,7 +459,7 @@ With thanks,
 
 *Work: "Around the Way", 2019, laminated glass, 85 panels, size not found; Long Island Rail Road Nostrand Avenue station, Brooklyn (MTA commission) (commission and panel count OPENED, Wikipedia; title SNIPPE*  
 ***SEE FIRST:** LIRR Nostrand Avenue station, Brooklyn, a permanent public commission with no closing date. The letter says he went, walked the platforms, found the train in the glass and crossed one of the four bridges twice. Do all of that first, and change any line that do*  
-*Mail to: Derrick Adams, c/o Gagosian, 555 West 24th Street, New York, NY 10011*
+*Mail to: Derrick Adams, The Last Resort Artist Retreat, 521 Chestnut Hill Avenue, Baltimore, MD (ZIP to add)*
 
 Dear Derrick Adams,
 
@@ -471,7 +471,7 @@ Best,
 ### Angel Otero
 
 *Work: "Constellation", 2024, oil paint and fabric collaged on canvas, 95 1/4 x 95 1/8 in (241.9 x 241.6 cm); Whitney Museum of American Art, accession 2025.59, not on view*  
-*Mail to: Angel Otero, c/o Vito Schnabel Gallery, 455 West 19th Street, New York, NY 10011*
+*Mail to: HOLD: NO UNIQUE ROUTE FOUND (only Vito Schnabel Gallery, already used for Julian Schnabel, and Hauser & Wirth)*
 
 Dear Angel Otero,
 
@@ -483,7 +483,7 @@ Yours,
 ### Henry Taylor
 
 *Work: "Huey Newton", 2007, acrylic and collaged photocopies on canvas, 94 9/16 x 76 1/4 in (240.2 x 193.7 cm); Whitney Museum of American Art, accession 2016.86, not on view*  
-*Mail to: Henry Taylor, c/o Hauser & Wirth, 542 West 22nd Street, New York, NY 10011*
+*Mail to: Henry Taylor, c/o Paulson Fontaine Press, 2390 C Fourth Street, Berkeley, CA 94710, USA*
 
 Dear Henry Taylor,
 
@@ -496,7 +496,7 @@ With thanks,
 
 *Work: "Untitled", 1989, oil and enamel on canvas, 7 ft 10 1/2 in x 6 ft 6 3/4 in (240 x 200 cm); Museum of Modern Art, New York, reported "On view, Floor 2, Gallery 203"*  
 ***SEE FIRST:** MoMA, Floor 2, Gallery 203, no end date known. The on-view report is search-summary level and could not be rechecked; confirm on MoMA's site or at the museum that it is still up. An Oehlen was in MoMA's collection display "Post-Atomic Abstraction: Collection 1*  
-*Mail to: Albert Oehlen, c/o Skarstedt, 20 East 79th Street, New York, NY 10075*
+*Mail to: Albert Oehlen, c/o Galerie Bärbel Grässlin, Schäfergasse 46 B, 60313 Frankfurt am Main, Germany*
 
 Dear Albert Oehlen,
 
@@ -511,7 +511,7 @@ Sincerely,
 ### Julie Mehretu
 
 *Work: "Of other Planes of There (S.R.)", 2018-2019, ink and acrylic on canvas, 108 3/16 x 120 x 2 1/8 in. (274.8 x 304.8 x 5.4 cm); Whitney Museum of American Art, accession 2021.12, not on view on 16 Nov 2*  
-*Mail to: Julie Mehretu, c/o Marian Goodman Gallery, 385 Broadway, New York, NY 10013*
+*Mail to: Julie Mehretu, c/o Denniston Hill, P.O. Box 728, Glen Wild, NY 12738, USA*
 
 Dear Julie Mehretu,
 
@@ -531,7 +531,7 @@ Sincerely,
 ### Kenny Scharf
 
 *Work: "When the Worlds Collide", 1984, oil and acrylic spray paint on canvas, 122 5/16 x 209 5/16 in. (310.7 x 531.7 cm); Whitney Museum of American Art, accession 84.44, not on view on 16 Nov 2026*  
-*Mail to: Kenny Scharf, c/o Almine Rech, 361 Broadway, New York, NY 10013*
+*Mail to: Kenny Scharf, c/o TOTAH, 183 Stanton Street, New York, NY (ZIP to add)*
 
 Dear Kenny Scharf,
 
@@ -551,7 +551,7 @@ With thanks,
 ### William T. Williams
 
 *Work: "Drawing for an Epic Idea (Coonograph)", 1970, pen and ink and watercolor on paper, sheet 17 1/2 x 23 in. (44.5 x 58.4 cm); Whitney Museum of American Art, accession 71.47, not on view on 16 Nov 2026*  
-*Mail to: William T. Williams, c/o Michael Rosenfeld Gallery, 100 Eleventh Avenue, New York, NY 10011*
+*Mail to: William T. Williams, c/o Michael Rosenfeld Gallery, 100 Eleventh Avenue, New York, NY 10011, USA*
 
 Dear William T. Williams,
 
@@ -571,7 +571,7 @@ Yours,
 ### Oscar Murillo
 
 *Work: "7+.", 2013-14, oil, oil stick, spray and graphite on canvas and linen, 82 1/2 x 82 1/2 in. (209.6 x 209.6 cm); cited on a MoMA event page; whether MoMA owns it and whether it is on view are unverifie*  
-*Mail to: Oscar Murillo, c/o David Zwirner, 537 West 20th Street, New York, NY 10011*
+*Mail to: Oscar Murillo, c/o Carlos/Ishikawa, Unit 4, 88 Mile End Road, London E1 4UN, UK*
 
 Dear Oscar Murillo,
 
@@ -589,7 +589,7 @@ Best,
 ### Cecily Brown
 
 *Work: "All of Your Troubles Come from Yourself", 2006-2009, oil on linen, 97 1/8 x 103 1/16 in. (246.7 x 261.8 cm); Whitney Museum of American Art, accession 2011.115, "Gift of the artist", not on view on 1*  
-*Mail to: Cecily Brown, c/o Paula Cooper Gallery, 534 West 21st Street, New York, NY 10011*
+*Mail to: Cecily Brown, c/o Paula Cooper Gallery, 534 West 21st Street, New York, NY 10011, USA*
 
 Dear Cecily Brown,
 
@@ -613,7 +613,7 @@ Sincerely,
 
 *Work: "New Poetry", 2023, installation: 8mm film (color, silent, 4:42 min., transferred to video) with two monitors, steel, lights, plants, ceramics, books, and shea butter, overall 190 x 359 1/2 x 65 in.*  
 ***SEE FIRST:** Whitney Museum of American Art, Floor 1, Restaurant. No end date is given in the notes; confirm it is still installed on the day, watch the film through (4:42), and correct any detail in the letter that does not match what he sees.*  
-*Mail to: Rashid Johnson, c/o Hauser & Wirth, 542 West 22nd Street, New York, NY 10011*
+*Mail to: Rashid Johnson, c/o David Kordansky Gallery, 520 West 20th Street, New York, NY 10011, USA*
 
 Dear Rashid Johnson,
 
@@ -633,7 +633,7 @@ With thanks,
 ### Joan Snyder
 
 *Work: "My August", 2023, oil and acrylic paint, papier-mâché, straw, flower stems, rosebuds, ink and paper on linen, 52 x 72 in.; Museum of Modern Art, gift of Agnes Gund; shown in "Hyundai Card First Look:*  
-*Mail to: Joan Snyder, c/o Canada, 60 Lispenard Street, New York, NY 10013*
+*Mail to: Joan Snyder, c/o CANADA, 60 Lispenard Street, New York, NY 10013, USA*
 
 Dear Joan Snyder,
 
@@ -653,7 +653,7 @@ Yours,
 ### Nina Chanel Abney
 
 *Work: "LOVE NYC", 2025, mural at the MoMA Design Store, SoHo; medium and size not found; still installed in November 2026: unverified. market_notes_b.md lists it as "Modern Mural: LOVE NYC, MoMA, from 27 Se*  
-*Mail to: Nina Chanel Abney, c/o Jack Shainman Gallery, 513 West 20th Street, New York, NY 10011*
+*Mail to: Nina Chanel Abney, c/o Pace Prints, 536 West 22nd Street, New York, NY 10011, USA*
 
 Dear Nina Chanel Abney,
 
@@ -673,7 +673,7 @@ Best,
 ### Jadé Fadojutimi
 
 *Work: "Hope", 2021, oil, oil sticks and acrylic on canvas, 86 3/4 in. x 9 ft 10 1/8 in. (220.3 x 300 cm); The Metropolitan Museum of Art, listed as not on view; accession number and credit line not found*  
-*Mail to: Jadé Fadojutimi, c/o Gagosian, 555 West 24th Street, New York, NY 10011*
+*Mail to: Jadé Fadojutimi, c/o Galerie Gisela Capitain, St.-Apern-Strasse 26, 50667 Köln, Germany*
 
 Dear Jadé Fadojutimi,
 
@@ -693,7 +693,7 @@ Sincerely,
 ### George Condo
 
 *Work: "Brown expanding Drawing Painting", 1991, oil on canvas and linen, 71 15/16 x 85 1/4 in. (182.7 x 216.5 cm); Whitney Museum of American Art, accession 92.18a-d, Gift of Gilbert de Botton, not on view*  
-*Mail to: George Condo, c/o Sprüth Magers, 22 East 80th Street, 2nd Floor, New York, NY 10075*
+*Mail to: George Condo, c/o Skarstedt, 20 East 79th Street, New York, NY 10075, USA*
 
 Dear George Condo,
 
@@ -716,7 +716,7 @@ With thanks,
 ### Jim Dine
 
 *Work: The Black Rainbow, 1959-1960, oil and corrugated cardboard on paperboard, 39 5/8 x 59 3/4 in (100.7 x 151.8 cm); Whitney Museum of American Art, accession 74.112, Gift of Andy Warhol, not on view*  
-*Mail to: Jim Dine, c/o Cristea Roberts Gallery, 43 Pall Mall, London, United Kingdom (postcode not found)*
+*Mail to: Jim Dine, c/o Steidl Verlag, Düstere Strasse 4, 37073 Göttingen, Germany*
 
 Dear Jim Dine,
 
@@ -732,7 +732,7 @@ Sincerely,
 ### Katharina Grosse
 
 *Work: CHOIR, 2025, site commission on the Messeplatz for Art Basel, June 2025; medium and size not found; known from White Cube's news page*  
-*Mail to: Katharina Grosse, c/o White Cube, 1002 Madison Avenue, New York, NY 10075*
+*Mail to: Katharina Grosse, c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria*
 
 Dear Katharina Grosse,
 
@@ -746,7 +746,7 @@ With thanks,
 ### Francesco Clemente
 
 *Work: Dormiveglia VI, 1998, oil on canvas, about 325.8 x 162.9 cm; The Metropolitan Museum of Art, not on view*  
-*Mail to: Francesco Clemente, c/o Vito Schnabel Gallery, 455 West 19th Street, New York, NY 10011*
+*Mail to: Francesco Clemente, c/o LeRoy Neiman Center for Print Studies, Columbia University, 310 Dodge Hall, MC 1806, 2960 Broadway, New York, NY 10027, USA*
 
 Dear Francesco Clemente,
 
@@ -760,7 +760,7 @@ Yours,
 ### Dana Schutz
 
 *Work: Fight in an Elevator, 2015, oil on canvas, 96 x 90 in (243.8 x 228.6 cm); Whitney Museum of American Art, accession P.2016.13, promised gift of Steven A. Cohen and Alexandra Cohen, not on view*  
-*Mail to: Dana Schutz, c/o David Zwirner, 537 West 20th Street, New York, NY 10011*
+*Mail to: Dana Schutz, c/o Thomas Dane Gallery, 3 Duke Street St James's, London SW1Y 6BN, UK*
 
 Dear Dana Schutz,
 
@@ -774,7 +774,7 @@ Best,
 ### Genesis Tramaine
 
 *Work: Madonna, 2025, "Acrylic, Holy Spirit, womb energy, Nana's kitchen salt, mustard Seed, rain water, oil sticks, oil pastel on canvas", 182.9 x 182.9 cm (72 x 72 in); shown on the gallery's artist page*  
-*Mail to: Genesis Tramaine, c/o Almine Rech, 361 Broadway, New York, NY 10013*
+*Mail to: Genesis Tramaine, c/o Richard Beavers Gallery, 408 Marcus Garvey Boulevard, Brooklyn, NY 11216, USA*
 
 Dear Genesis Tramaine,
 
@@ -793,7 +793,7 @@ With thanks,
 ### Peter Doig
 
 *Work: Two Trees, 2017, 94 1/2 in x 11 ft 7 3/4 in (240 x 355 cm), medium not found; The Metropolitan Museum of Art, gift of George Economou, 2018, not on view*  
-*Mail to: Peter Doig, c/o HOLD: no verified address*
+*Mail to: Peter Doig, c/o TRAMPS, 15 Micawber Street, London N1 7TB, UK*
 
 Dear Peter Doig,
 
@@ -807,7 +807,7 @@ Sincerely,
 ### Sean Scully
 
 *Work: Ookbar, 1993-1994, medium and size not found; Toledo Museum of Art, acquisition year not found*  
-*Mail to: Sean Scully, c/o Lisson Gallery, New York, NY (street address not found; do not post until copied from the gallery's page)*
+*Mail to: Sean Scully Studio, 447 West 17th Street, New York, NY 10011, USA*
 
 Dear Sean Scully,
 
@@ -821,7 +821,7 @@ Yours,
 ### Robert Nava
 
 *Work: Red River Storm, 2023, acrylic, grease pencil and oil on canvas, 195.6 x 233.7 cm; Blanca and Borja Thyssen-Bornemisza Collection, listed by the Museo Nacional Thyssen-Bornemisza, Madrid*  
-*Mail to: Robert Nava, c/o Pace Gallery, 540 West 25th Street, New York, NY 10001*
+*Mail to: Robert Nava, c/o Night Gallery, 2276 E 16th Street, Los Angeles, CA 90021, USA*
 
 Dear Robert Nava,
 
@@ -835,7 +835,7 @@ Best,
 ### Frank Bowling
 
 *Work: Dan Johnson's Surprise, 1969, acrylic on canvas, 115 15/16 x 104 1/8 in (294.5 x 264.5 cm); Whitney Museum of American Art, accession 70.14, purchase with funds from the Friends of the Whitney, not on*  
-*Mail to: Frank Bowling, c/o Hauser & Wirth, 542 West 22nd Street, New York, NY 10011*
+*Mail to: Frank Bowling Studio / The Frank Bowling Foundation, 5A Peacock Yard, Iliffe Street, London SE17 3LH, UK*
 
 Dear Frank Bowling,
 
@@ -849,7 +849,7 @@ With thanks,
 ### Mickalene Thomas
 
 *Work: Qusuquzah, Une Très Belle Négresse #4, 2023, rhinestones, silkscreen and acrylic on wood panel, 67 x 57 in; Toledo Museum of Art, Libbey Endowment purchase, on-view status not found*  
-*Mail to: Mickalene Thomas, c/o Jack Shainman Gallery, 513 West 20th Street, New York, NY 10011*
+*Mail to: Mickalene Thomas, c/o Durham Press, 892 Durham Road, PO Box 159, Durham, PA 18039, USA*
 
 Dear Mickalene Thomas,
 
