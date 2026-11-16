@@ -73,13 +73,13 @@ Dear Rose Wylie,
 
 It took four canvases to hold Ballet Backdrop, and the four together stand twelve feet tall.
 
-I learned that from your gallery's website, which is the only place I have seen the painting. I am one of four brothers, so four separate things that have to hang together as one is a situation I know something about. It rarely goes smoothly. What I like is that in 2024 you did not settle for one canvas when the picture needed four.
+I learned that from your gallery's website, which is the only place I have seen the painting. I am one of four brothers, and we are close, so four separate things that hold together as one is something I know from home. What I like is that in 2024 you did not settle for one canvas when the picture needed four.
 
 A lot of what gets called big is only large. Twelve feet of oil paint in four parts is a different thing, and looking at it loosened how I was thinking for the rest of that day.
 
 Your book Which One is next on my list. I live in New York, a long way from Kent, but I would love to see the studio someday.
 
-Four brothers rarely hang together as well as the four parts of Ballet Backdrop.
+The four parts of Ballet Backdrop hang together the way my brothers and I do, and I like the painting more for it.
 
 Sincerely,
 [Your name]
@@ -733,7 +733,7 @@ Sincerely,
 
 Dear Dana Schutz,
 
-An elevator is about eight feet tall, and so is "Fight in an Elevator," 2015. That is nearly everything I know about it. The Whitney's page lists it as not on view and shows no image, only the title, the year and the measurements, 96 by 90 inches. I'm one of four brothers, so a fight with nowhere to go is a subject I recognize. Since reading that page I have been building the painting in my head from three facts. How many people are in it. Whether anyone is winning. It is the most work a museum listing has ever gotten out of me, and I liked doing it.
+An elevator is about eight feet tall, and so is "Fight in an Elevator," 2015. That is nearly everything I know about it. The Whitney's page lists it as not on view and shows no image, only the title, the year and the measurements, 96 by 90 inches. I ride a lot of elevators in New York, and I had never thought of one as a place where anything happens. Since reading that page I have been building the painting in my head from three facts. How many people are in it. Whether anyone is winning. It is the most work a museum listing has ever gotten out of me, and I liked doing it.
 
 I'd love to see your studio someday, and what a fight looks like when you are the one deciding. In my version the elevator doors are shut.
 
