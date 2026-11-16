@@ -1,0 +1,52 @@
+# Addresses already assigned (do not reuse any of these for a new artist)
+
+- Ouattara Watts: c/o Karma, 549 West 26th Street, New York, NY 10001, USA
+- Nicole Eisenman: c/o Harlan & Weaver, 83 Canal Street, Room 501, New York, NY 10002, USA
+- Eddie Martinez: c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA
+- Stanley Whitney: c/o Two Palms, 476 Broadway, 3rd Floor, New York, NY 10013, USA
+- Rose Wylie: c/o JARILAGER Gallery, Wormser Strasse 23, 50677 Köln, Germany
+- Tschabalala Self: Visiting Artist in Residence, Bard Studio Arts, Fisher Annex, 40 N Ravine Road, Annandale-on-Hudson, NY 12504, USA
+- Mark Bradford: c/o Art + Practice, 3401 W. 43rd Place, Los Angeles, CA 90008, USA
+- Julian Schnabel: c/o Vito Schnabel Gallery, 455 West 19th Street, New York, NY 10011, USA
+- José Parlá: c/o Ben Brown Fine Arts, 12 Brook's Mews, London W1K 4DG, UK
+- Peter Saul: c/o George Adams Gallery, 38 Walker Street, New York, NY 10013, USA
+- Howardena Pindell: Prof. Howardena Pindell, Department of Art, Stony Brook University, 2224 Staller Center for the Arts, Stony Brook, NY 11794-5400, USA
+- Amoako Boafo: dot.ateliers, 254a Third Kaadjano Street, Osu, Accra, Ghana
+- Chris Ofili: c/o Victoria Miro, 16 Wharf Road, London N1 7RW, UK
+- Chris Martin: c/o Anton Kern Gallery, 16 East 55th Street, New York, NY 10022, USA
+- Katherine Bradford: c/o Caldbeck Gallery, 12 Elm Street, Rockland, ME 04841, USA
+- Firelei Báez: c/o James Cohan, 48 Walker Street, New York, NY 10013, USA
+- Kerry James Marshall: c/o Jack Shainman Gallery, 513 West 20th Street, New York, NY 10011, USA
+- Charline von Heyl: c/o Petzel, 520 West 25th Street, New York, NY 10001, USA
+- Larry Poons: Instructor, The Art Students League of New York, 215 West 57th Street, New York, NY 10019, USA
+- David Salle: c/o Lehmann Maupin, 501 West 24th Street, New York, NY 10011, USA
+- Peter Bradley: c/o Emerge Gallery, Main Street, Saugerties, NY (street number 228A or 222: confirm)
+- Lee Quiñones: c/o Charlie James Gallery, 969 Chung King Road, Los Angeles, CA 90012, USA
+- Alvaro Barrington: c/o Emalin, 1 Holywell Lane, London EC2A 3ET, UK
+- Amy Sillman: c/o Capitain Petzel, Karl-Marx-Allee 45, 10178 Berlin, Germany
+- Katherine Bernhardt: Dragon, Crab and Turtle, Midtown St. Louis, MO (STREET ADDRESS NOT FOUND)
+- Alex Katz: c/o Alex Katz Foundation, 192 Lexington Avenue, Suite 1100, New York, NY 10016, USA
+- Derrick Adams: The Last Resort Artist Retreat, 521 Chestnut Hill Avenue, Baltimore, MD (ZIP to add)
+- Angel Otero: NO UNIQUE ROUTE FOUND (only Vito Schnabel Gallery, already used for Julian Schnabel, and Hauser & Wirth)
+- Henry Taylor: c/o Paulson Fontaine Press, 2390 C Fourth Street, Berkeley, CA 94710, USA
+- Albert Oehlen: c/o Galerie Bärbel Grässlin, Schäfergasse 46 B, 60313 Frankfurt am Main, Germany
+- Julie Mehretu: c/o Denniston Hill, P.O. Box 728, Glen Wild, NY 12738, USA
+- Kenny Scharf: c/o TOTAH, 183 Stanton Street, New York, NY (ZIP to add)
+- William T. Williams: c/o Michael Rosenfeld Gallery, 100 Eleventh Avenue, New York, NY 10011, USA
+- Oscar Murillo: c/o Carlos/Ishikawa, Unit 4, 88 Mile End Road, London E1 4UN, UK
+- Cecily Brown: c/o Paula Cooper Gallery, 534 West 21st Street, New York, NY 10011, USA
+- Rashid Johnson: c/o David Kordansky Gallery, 520 West 20th Street, New York, NY 10011, USA
+- Joan Snyder: c/o CANADA, 60 Lispenard Street, New York, NY 10013, USA
+- Nina Chanel Abney: c/o Pace Prints, 536 West 22nd Street, New York, NY 10011, USA
+- Jadé Fadojutimi: c/o Galerie Gisela Capitain, St.-Apern-Strasse 26, 50667 Köln, Germany
+- George Condo: c/o Skarstedt, 20 East 79th Street, New York, NY 10075, USA
+- Jim Dine: c/o Steidl Verlag, Düstere Strasse 4, 37073 Göttingen, Germany
+- Katharina Grosse: c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria
+- Francesco Clemente: c/o LeRoy Neiman Center for Print Studies, Columbia University, 310 Dodge Hall, MC 1806, 2960 Broadway, New York, NY 10027, USA
+- Dana Schutz: c/o Thomas Dane Gallery, 3 Duke Street St James's, London SW1Y 6BN, UK
+- Genesis Tramaine: c/o Richard Beavers Gallery, 408 Marcus Garvey Boulevard, Brooklyn, NY 11216, USA
+- Peter Doig: c/o TRAMPS, 15 Micawber Street, London N1 7TB, UK
+- Sean Scully: Sean Scully Studio, 447 West 17th Street, New York, NY 10011, USA
+- Robert Nava: c/o Night Gallery, 2276 E 16th Street, Los Angeles, CA 90021, USA
+- Frank Bowling: Frank Bowling Studio / The Frank Bowling Foundation, 5A Peacock Yard, Iliffe Street, London SE17 3LH, UK
+- Mickalene Thomas: c/o Durham Press, 892 Durham Road, PO Box 159, Durham, PA 18039, USA
