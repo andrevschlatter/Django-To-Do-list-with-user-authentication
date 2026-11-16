@@ -37,7 +37,7 @@ That gap is what got me writing. The museum's website says the painting dates fr
 
 Your name stopped me for a second reason. I grew up in Toledo, Ohio, and the museum there owns your lithograph Sloppy Barroom Kiss. The title alone tells me more about a bar than most photographs do.
 
-My walls are bare at the moment. When I am able, I hope a print of yours is the first thing on them.
+My walls are bare at the moment. When I can afford a painting one day, I want one of yours to be the first thing on them.
 
 Somewhere in Toledo there is a sloppy barroom kiss with your name on it, and I like knowing that.
 
@@ -57,7 +57,7 @@ I think of watercolor as small and careful. Yours is neither. It also went throu
 
 I should be honest that I have only seen it on a screen. The museum lists it as not on view, and the sheet is nearly four feet by six, so I am missing most of it.
 
-Nothing hangs in my apartment yet. When I am able, I hope a print of yours is where that starts.
+Nothing hangs in my apartment yet. When I can afford a painting one day, I want one of yours to be where that starts.
 
 One pass through the press at Two Palms, and six feet of watercolor stayed put.
 
@@ -93,7 +93,7 @@ Dear Katharina Grosse,
 
 Magenta runs across the ground, up a clock tower, over a fountain and straight across the fair's own logo. That is "CHOIR," 2025, as I met it on White Cube's website, and the logo is the part I have not stopped thinking about. You did not paint around it. I find a lot of architecture boring, and it had never occurred to me that someone could simply disagree with a plaza in color, in public, at that size. Since then I look at lobbies and squares differently. I catch myself deciding where the paint would start and what it would refuse to stop for.
 
-I hope to own a small piece of yours someday, when I'm able, something that stays in one place. I did not expect a fairground in Basel to change how I walk through New York.
+When I can afford a painting one day, I will put one of yours on my wall, something that stays in one place. I did not expect a fairground in Basel to change how I walk through New York.
 
 With thanks,
 [Your name]
@@ -115,7 +115,7 @@ I went to Petzel to see Tools of Worship. Most frames are built to stay out of t
 
 I walked out onto West 25th Street noticing edges everywhere, where one thing stops and the next begins.
 
-I hope to own a small piece of yours when I am able.
+One day, when I can afford a painting, yours is the one going on my wall.
 
 It was the fabric border on In Creation that slowed me down, well before I ever reached the figures.
 
@@ -155,7 +155,7 @@ I have only seen the painting on the museum's website. It dates from 1982, runs 
 
 My mom used to take me to the Toledo Museum of Art when I was a kid. I found out recently that the museum owns your Portrait of a Freedom Fighter, which made the place feel closer.
 
-I hope to own a small piece of yours when I am able.
+When I can afford a painting one day, I will put one of yours on my wall.
 
 Until Hope, I did not know velvet could carry thirteen feet of paint.
 
@@ -196,7 +196,7 @@ I found Saigon on the Whitney Museum's website, where it is listed as not on vie
 
 I live in New York, and a lot of what I walk past every day is boring. Your picture is nearly sixty years old and it is not.
 
-I hope to own a print of yours when I am able. I would like something in the room that refuses to behave.
+When I can afford a painting one day, I will put one of yours on my wall. I would like something in the room that refuses to behave.
 
 The headless officer in blue still has his three stars, and that is the detail I cannot put down.
 
@@ -215,7 +215,7 @@ Dear Howardena Pindell,
 
 Pink, orange, yellow, green and blue specks, more than I could count, settle into one soft field in your Untitled from 1970. I have only seen the painting on the Whitney's website, where it is listed as not on view. I kept zooming in and back out. Up close it is countless small decisions. From a distance it looks calm, like it happened all at once. That switch stayed with me for days, and I caught myself looking at other problems the same way, near and then far.
 
-My mom used to take me to the Toledo Museum of Art when I was a kid, and I was glad to learn that it owns two of your works. I hope to own a print or a small piece of yours one day, when I'm able.
+My mom used to take me to the Toledo Museum of Art when I was a kid, and I was glad to learn that it owns two of your works. When the day comes that I can afford a painting, one of yours will go on my wall.
 
 Somewhere in those specks one color stops and the next one starts, and I still have not found the place.
 
@@ -247,7 +247,7 @@ Dear Chris Ofili,
 
 At eight feet tall, The Holy Virgin Mary is bigger than any screen I have seen her on. I know the 1996 painting only from reproductions, a few inches high. Even at that size she does not behave like a reproduction. She is a Black Madonna, and she is built from things nobody told me a painting could hold, elephant dung and magazine cutouts alongside the paint. I did not expect those materials to look cared for, and they do. Every one of them seems chosen and put exactly where it belongs. It changed what I think counts as a serious material for a serious subject, and I have been looking harder at what things are made of ever since.
 
-I have no art on my walls right now, and I hope to own a print or a small piece of yours when I am able.
+I have no art on my walls right now. When I can afford a painting one day, I will put one of yours there.
 
 MoMA owns her, which means that one day I can stand in front of all eight feet.
 
@@ -282,7 +282,7 @@ Dear Katherine Bradford,
 
 Somebody set Queens of the Night into the First Avenue L station one piece of glass at a time. I went there just to look at your 2021 mosaic instead of walking past it. What struck me is the setting. A station is built for hurrying, and here is a picture made of small pieces of glass that asks for the opposite. I stood still while everyone else moved, and it put me in a more creative frame of mind than anything else I did that day.
 
-My mom makes jewelry, and I think she would like the way the glass is set, every piece placed by hand. I hope to own a print or a small piece of yours when I am able.
+My mom makes jewelry, and I think she would like the way the glass is set, every piece placed by hand. I can't afford a painting yet. When I can, I will hang one of yours.
 
 Queens of the Night is on my way now, any day I ride the L.
 
@@ -318,7 +318,7 @@ Dear Kerry James Marshall,
 
 It took me a while to see the wings on the woman in Souvenir IV. She sits so calmly on the sofa in that gray living room that I read her as someone's grandmother first, and only then noticed what was on her shoulders. I know the 1998 painting from the Whitney's website, where I also made out the words We Mourn Our Loss along the bottom and the names of the musicians on the scroll. A room that plain, with that going on inside it, changed how I look at plain rooms.
 
-I grew up one of four brothers in Toledo, Ohio, and the museum there has owned an early painting of yours since 2022. I hope to own a print or a small piece of yours when I am able.
+I grew up one of four brothers in Toledo, Ohio, and the museum there has owned an early painting of yours since 2022. When the day comes that I can afford a painting, one of yours will go on my wall.
 
 A woman with wings on a sofa, not needing anyone to notice them, is a picture I expect to carry for a long time.
 
@@ -409,7 +409,7 @@ With thanks,
 
 Dear Alvaro Barrington,
 
-A haulage truck painted all over, driven by you from London to Venice, and then left in the Giardini with its front tires punctured so it could not leave: that is how I first heard of Labor Day Parade '91. I read about it in The Art Newspaper and have only seen photographs. I grew up one of four brothers in Toledo, Ohio, a long way from Venice, and the idea of a painting you have to drive across a continent made me laugh and then made me think. A painting usually waits on a wall for people to come to it. Yours went to them under its own power and then gave up the power to go home. That is a better idea than most of what I come across in a year. I hope to own a print or a small piece of yours when I'm able. Two flat front tires, and a whole parade held in place by them.
+A haulage truck painted all over, driven by you from London to Venice, and then left in the Giardini with its front tires punctured so it could not leave: that is how I first heard of Labor Day Parade '91. I read about it in The Art Newspaper and have only seen photographs. I grew up one of four brothers in Toledo, Ohio, a long way from Venice, and the idea of a painting you have to drive across a continent made me laugh and then made me think. A painting usually waits on a wall for people to come to it. Yours went to them under its own power and then gave up the power to go home. That is a better idea than most of what I come across in a year. One day, when I can afford a painting, yours is the one going on my wall. Two flat front tires, and a whole parade held in place by them.
 
 Yours,
 [Your name]
@@ -433,7 +433,7 @@ Best,
 
 Dear Katherine Bernhardt,
 
-Ten feet by fifteen is a lot of room to give a painting called Jungle Snack (Orange and Green). I know the 2017 canvas only from pictures of it at the Modern in Fort Worth. I have never stood in front of it. The title got me before the image did. It promises two colors and something to eat, and then the painting is bigger than the wall of any room I have lived in. A lot of what I see in a day is boring. A fifteen-foot painting in acrylic and spray paint named after a snack is not, and it loosened up my own thinking for an afternoon. I grew up in Toledo, Ohio, and I like that work this size gets made in St. Louis. When I'm able, I hope to own a small piece of yours, or a print. A snack that big, in orange and green, is a good thing to carry around in my head.
+Ten feet by fifteen is a lot of room to give a painting called Jungle Snack (Orange and Green). I know the 2017 canvas only from pictures of it at the Modern in Fort Worth. I have never stood in front of it. The title got me before the image did. It promises two colors and something to eat, and then the painting is bigger than the wall of any room I have lived in. A lot of what I see in a day is boring. A fifteen-foot painting in acrylic and spray paint named after a snack is not, and it loosened up my own thinking for an afternoon. I grew up in Toledo, Ohio, and I like that work this size gets made in St. Louis. When I can afford a painting one day, I will put one of yours on my wall. A snack that big, in orange and green, is a good thing to carry around in my head.
 
 Sincerely,
 [Your name]
@@ -448,7 +448,7 @@ Sincerely,
 
 Dear Alex Katz,
 
-Red on red should not work, and in The Red Smile it is the whole point: Ada's lipstick against a background that is even redder. I know the painting from the Whitney's website, where I also learned it is nearly ten feet wide. That is a lot of red for one profile to hold, and she holds it with a small smile. My mother makes jewelry, and when I was a boy she used to take me to the Toledo Museum of Art. I found out only recently that the museum owns your print Ada with Glasses, from 1977. So Ada has been in my hometown too, fourteen years on from the Whitney picture, and I never knew to look for her. I hope to own a print of yours when I'm able. More than sixty years later, her smile in all that red still looks like it happened this morning.
+Red on red should not work, and in The Red Smile it is the whole point: Ada's lipstick against a background that is even redder. I know the painting from the Whitney's website, where I also learned it is nearly ten feet wide. That is a lot of red for one profile to hold, and she holds it with a small smile. My mother makes jewelry, and when I was a boy she used to take me to the Toledo Museum of Art. I found out only recently that the museum owns your print Ada with Glasses, from 1977. So Ada has been in my hometown too, fourteen years on from the Whitney picture, and I never knew to look for her. One day, when I can afford a painting, yours is the one going on my wall. More than sixty years later, her smile in all that red still looks like it happened this morning.
 
 With thanks,
 [Your name]
@@ -473,7 +473,7 @@ Best,
 
 Dear Henry Taylor,
 
-My eye went straight to the floor in your Huey Newton from 2007, a rust-colored floor with a zebra rug cut in no shape I can name. Only after that did I take in the peacock chair, and then the spear and the rifle, one in each hand. I know the painting from the Whitney's website and have not stood in front of it. It is nearly eight feet tall. The listing says acrylic and collaged photocopies, and I spent a while hunting for where the photocopies are. I could not tell from a screen, which made me want the real surface in front of me. I work in finance and my own walls are bare, and that one floor has more going on than my whole apartment. When I'm able, I hope to own a print or a small piece of yours. It is the zebra rug, crooked on the rust floor, that I see first every time I pull the painting up again.
+My eye went straight to the floor in your Huey Newton from 2007, a rust-colored floor with a zebra rug cut in no shape I can name. Only after that did I take in the peacock chair, and then the spear and the rifle, one in each hand. I know the painting from the Whitney's website and have not stood in front of it. It is nearly eight feet tall. The listing says acrylic and collaged photocopies, and I spent a while hunting for where the photocopies are. I could not tell from a screen, which made me want the real surface in front of me. I work in finance and my own walls are bare, and that one floor has more going on than my whole apartment. When I can afford a painting one day, one of yours is going on those walls. It is the zebra rug, crooked on the rust floor, that I see first every time I pull the painting up again.
 
 With thanks,
 [Your name]
@@ -486,7 +486,7 @@ With thanks,
 
 Dear Albert Oehlen,
 
-On the second floor of MoMA, in Gallery 203, your Untitled from 1989 stands close to eight feet tall and offers no title to lean on. I have been spending more time at MoMA and the Met this year, and on my last visit I went looking for it. What I noticed first was [ONE THING YOU SAW IN THE PAINTING: write it here in your own words after the visit]. I stood there trying to tell the enamel from the oil and could not always do it. Without a title I had to decide for myself where to start, and I started over three or four times. That is the frame of mind I go to museums hoping to get into, and most of the building does not put me there. Your canvas did. I hope a print or a small piece of yours will be something I can own one day. On my next visit I plan to head for Gallery 203 first, on account of one canvas from 1989.
+On the second floor of MoMA, in Gallery 203, your Untitled from 1989 stands close to eight feet tall and offers no title to lean on. I have been spending more time at MoMA and the Met this year, and on my last visit I went looking for it. What I noticed first was [ONE THING YOU SAW IN THE PAINTING: write it here in your own words after the visit]. I stood there trying to tell the enamel from the oil and could not always do it. Without a title I had to decide for myself where to start, and I started over three or four times. That is the frame of mind I go to museums hoping to get into, and most of the building does not put me there. Your canvas did. I can't afford a painting yet. When I can, I will hang one of yours. On my next visit I plan to head for Gallery 203 first, on account of one canvas from 1989.
 
 Sincerely,
 [Your name]
@@ -502,7 +502,7 @@ In Rememor with Membry the words run through the branches, the sky and the fores
 
 I met the painting on the Whitney's website, where it is listed as not on view. The museum's note says the view is the one The Legend has, looking up into the trees. That stopped me. I had been reading the canvas like a page, from the outside. After that I was on my back in the woods. Five feet by six feet of acrylic on collaged canvas turns out to be plenty of room to lie down in.
 
-The Whitney also holds the nine etchings of Bye and Bye from 2002. I hope to own one of your prints when I am able.
+When I can afford a painting one day, I will put one of yours on my wall.
 
 I have said "rememor with membry" out loud more than once this week, and it still refuses to come out as "remember."
 
@@ -543,7 +543,7 @@ I have only seen the painting on the museum's website, since it is not on view. 
 
 I grew up in Toledo, Ohio, one of four brothers. Big, colorful and bold is what I go looking for in a painting, and yours is all three. It also made me laugh on a workday, which most things on my screen do not. I closed the tab in a better frame of mind than I opened it in.
 
-I hope to own one of your prints or a small piece when I am able.
+One day, when I can afford a painting, yours is the one going on my wall.
 
 It is good to know a seventeen-foot painting has room for a thank-you that small.
 
@@ -581,7 +581,7 @@ A plus sign and a period make up most of the title of "7+." (2013-14), and I hav
 
 That list did something to me. Four ways of making a mark and two kinds of cloth in one square read to me like someone who would not settle for a single tool. I caught myself thinking about my own work that way the next morning, which does not usually happen after a museum website.
 
-The walls of my apartment are bare right now. I hope to own one of your prints or a small piece when I am able.
+The walls of my apartment are bare right now. When I can afford a painting one day, I will put one of yours on them.
 
 I have decided to read "7+." as a count that is still going.
 
@@ -644,7 +644,7 @@ There is another reason I looked you up. The Toledo Museum of Art, which I grew 
 
 What the mural did for me was simple. It made the most famous objects in a museum feel like things a person is allowed to play with. I have been looser with my own ideas since.
 
-I hope to own one of your prints or a small piece when I am able.
+When the day comes that I can afford a painting, one of yours will go on my wall.
 
 Thank you for putting Kahlo and a soup can on the same wall.
 
@@ -664,7 +664,7 @@ What I can tell you is what the listing set off. The oil sticks made me picture 
 
 A lot of what I look at all day is boring. This was not, even as a thumbnail, and I thought more freely for the rest of the evening.
 
-I hope to own one of your prints or a small piece when I am able.
+When I can afford a painting one day, I will put one of yours on my wall.
 
 For a painting I have only read about, "Hope" has taken up a lot of room, close to ten feet of it.
 
@@ -700,7 +700,7 @@ Dear André Butzer,
 
 Wir gehen zu McDonald's is more than eight feet tall, and on Skarstedt's website it sits beside a second painting from 2024 whose title says you are not going after all. I missed the New York show last year, so the gallery's pictures and the list of titles are all I have. I am one of four brothers, and I laughed at how fast the second title takes back the first. Then I kept looking at the tall figure standing alone in the canvas, and it stopped being a joke. A title about lunch on a painting that size made me think about how much weight ordinary things can carry. I have been trying to give small decisions at work the same room.
 
-I hope to own a print or a small work on paper of yours one day, when I'm able.
+One day, when I can afford a painting, yours is the one going on my wall.
 
 I still have not decided which of the two paintings is telling the truth about McDonald's.
 
@@ -721,7 +721,7 @@ A rainbow called black, painted on corrugated cardboard, is not what I expected 
 
 I grew up in Toledo, so I notice when a painter turns out to be from Ohio. Cincinnati and Ohio University both count.
 
-I hope to own one of your prints someday, when I'm able. A black rainbow on cardboard has turned out to be harder to forget than most of the colorful ones.
+I can't afford a painting yet. When I can, I will hang one of yours. A black rainbow on cardboard has turned out to be harder to forget than most of the colorful ones.
 
 Sincerely,
 [Your name]
@@ -751,7 +751,7 @@ Nana's kitchen salt, mustard seed and rain water are listed right beside the acr
 
 My mom makes jewelry, and I think she would have understood that list faster than I did.
 
-I hope to own a print or a small piece of yours someday, when I'm able. A line of materials that sounds like a grandmother's house is a new thing to me.
+When the day comes that I can afford a painting, one of yours will go on my wall. A line of materials that sounds like a grandmother's house is a new thing to me.
 
 With thanks,
 [Your name]
@@ -765,7 +765,7 @@ Dear Mary Weatherford,
 
 A single yellow neon tube runs across the blue of Pier 'n' Ocean, and its power box sits in plain view below. I found the 2017 painting on the Whitney's website, where it is listed as not on view, so a screen is all I have had. What got me was the power box. You did not hide how the light works. The painting is nearly ten feet tall and in three parts, and the plainest piece of hardware in it is the part I keep thinking about. I catch myself now trying to leave the wiring showing in my own work, instead of polishing things until nobody can tell how they were made.
 
-There is nothing on my walls in New York yet. I hope to own one of your prints or a small piece one day, when I'm able.
+There is nothing on my walls in New York yet. When I can afford a painting one day, I will put one of yours there.
 
 Until the Whitney hangs it again, I can only guess what that yellow line does to the blue once it is switched on.
 
@@ -830,7 +830,7 @@ Dear Frank Bowling,
 
 Dan Johnson got a surprise in 1969, and it is close to ten feet tall. "Dan Johnson's Surprise" belongs to the Whitney and is not on view, so I have only the small image on the museum's website. A painting that tall, shrunk to a few inches on a screen, still made me stop. I don't know who Dan Johnson was or what surprised him, and I have decided I like not knowing. A lot of the paintings I come across from those years are untitled or numbered. Yours has a man's name and a piece of news in it, and that made me look at it as something that happened to someone. I work in finance, where nothing gets named that warmly.
 
-I hope to own a print or a small work of yours someday, when I'm able. Whatever Dan Johnson found out in 1969, I'm glad you made it ten feet tall.
+When I can afford a painting one day, I will put one of yours on my wall. Whatever Dan Johnson found out in 1969, I'm glad you made it ten feet tall.
 
 With thanks,
 [Your name]

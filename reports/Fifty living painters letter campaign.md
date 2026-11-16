@@ -109,7 +109,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Used in the letter: title, year, height (almost seven feet), not on view (OPENED) [https://whitney.org/collection/works/46314] CHECK: the only description in the notes is image alt text that reads as automated ("A worried baker shapes dough at a messy table while three figures watch closely"); it was NOT used. Look at the image and, if you can, add one thing you actually see.
 - **Second work:** Sloppy Barroom Kiss, lithograph, year not found, size not found; Toledo Museum of Art (SNIPPET) [https://emuseum.toledomuseum.org/objects/78163/sloppy-barroom-kiss]
 - **See before mailing:** no: met in reproduction (Whitney website; both works are off view)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Her lead gallery is Hauser & Wirth; this letter is routed to Anton Kern only to avoid a gallery clash. The group notes say which of her three galleries handles mail is unknown and that Anton Kern "was not researched". (2) Anton Kern address unverified, see above. (3) Salutation uses the full name because Wikipedia says she uses both she/her and they/them (OPENED). (4) The Toledo print is SNIPPET level with no year and no acquisition date: open the eMuseum record before mailing. The letter says only that the museum owns it. (5) Notes are thin here: no curator description of any Eisenman painting, so the letter leans on size and title.
 
 #### Stanley Whitney
@@ -122,7 +122,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Used in the letter: watercolor monotype, six feet wide, Lanaquarelle paper, Two Palms, not on view (OPENED) [https://whitney.org/collection/works/57867] CHECK: the page's image description ("Bright hand-painted rectangles in blue, yellow, red, and orange arranged in a loose grid") is automated alt text and was NOT used. Look at the image and add the colors yourself if you want them in.
 - **Second work:** none
 - **See before mailing:** no: met in reproduction (Whitney Museum website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Gagosian address unverified on the gallery's page. (2) The Whitney Museum holds ten works by him, all on paper, no painting, all off view (OPENED), so the letter is about a monotype, which suits the print door. (3) No curator-written description exists in the notes; the letter uses medium and size only. Notes are thin for this artist. (4) He lives between Bridgehampton, New York, and Italy per Wikipedia (OPENED), so gallery mail may be slow to reach him.
 
 #### Rose Wylie
@@ -148,7 +148,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** "sweeping strokes of magenta that flowed across the ground, clock tower, fountain and fair logo" (gallery-written description, OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube] CHECK: the notes do not say the page shows a photograph; the letter says only that he met the work on White Cube's website.
 - **Second work:** Book: Katharina Grosse: Spectrum Without Traces, Galerie Max Hetzler Berlin | Paris | London | Marfa, 2024, distributed by Holzwarth Publications, texts by Jurriaan Benschop and Ulrich Loock, EUR 50 (OPENED) [https://www.maxhetzler.com/artists/katharina-grosse]. Also Rockaway (2016), a painted derelict military building on the Rockaway peninsula, Queens (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube]
 - **See before mailing:** no: met in reproduction (gallery website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) She lives and works in Berlin and New Zealand (OPENED) [https://www.whitecube.com/artists/katharina-grosse]; nothing says White Cube's New York branch handles her mail. (2) The routing calls Gagosian her lead; the notes say no page names a lead, and Gagosian's listing and address (555 West 24th Street, NY 10011) are SNIPPET only. (3) No painting of hers was confirmed in a New York museum. (4) The letter uses his own remark that a lot of architecture is boring. (5) "A fairground in Basel": the notes say Art Basel's Messeplatz; confirm the city on the page.
 
 
@@ -164,7 +164,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Gallery text: in In Creation "collaged-fabric borders frame the compositions, setting the characters apart from their surroundings" (OPENED) [https://www.petzel.com/exhibitions/tschabalala-self2] CHECK: confirm in the room that the border runs all the way around and that "figures" is the right word for what is inside it.
 - **Second work:** none
 - **See before mailing:** yes: Petzel, 520 W 25th Street, until 30 Jan 2027. The letter says you went. Go first.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) The letter claims a visit: see "Tools of Worship" before mailing and fix anything that does not match what you saw. (2) The letter goes to the gallery where her show is hanging, which is the right door while it is up (until 30 Jan 2027). (3) She lives in the Hudson Valley (OPENED, Petzel). (4) The word "icons", which the gallery text uses, is kept out of the letter on purpose.
 
 #### Mark Bradford
@@ -190,7 +190,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Used in the letter: the medium line "oil and velvet on velvet", the year, the width of more than thirteen feet, not on view (OPENED) [https://whitney.org/collection/works/292] CHECK: the page's image description ("A painted standing human figure surrounded by abstract animals and a small skull-like skeleton") is alt text and was NOT used. Look at the image before mailing.
 - **Second work:** Portrait of a Freedom Fighter, 1984, medium not found, 181.9 x 153 cm; Toledo Museum of Art (SNIPPET) [https://emuseum.toledomuseum.org/objects/60254/portrait-of-a-freedom-fighter]
 - **See before mailing:** no: met in reproduction (Whitney Museum website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Hope was chosen as the main work because its record was OPENED; the Toledo painting is SNIPPET with size only and no medium. Open the Toledo eMuseum record before mailing. The letter says only that the museum owns it, not that you saw it. (2) Toledo's acquisition year is not in the notes, so the letter does not say it was there when you were a child. (3) The Toledo galleries are closed for reinstallation until fall 2027 (SNIPPET, https://toledomuseum.org/reimagining-our-galleries); the letter does not say the work hangs. (4) Basquiat is not mentioned; the notes document only that he directed the 1996 film. (5) Alternative verified address: Vito Schnabel Gallery, 455 West 19th Street, New York, NY 10011 (his son's gallery; OPENED, https://www.vitoschnabel.com/contact).
 
 #### José Parlá
@@ -216,7 +216,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Curator text: a "Day-Glo palette", "uprooted palm trees, a river of blood, and a spiked American bomb", and "a headless, three-star officer in blue" (OPENED) [https://whitney.org/collection/works/1388] (curator-written, not alt text; the lettered inscription in the lower corners is left out of the letter on purpose)
 - **Second work:** none
 - **See before mailing:** no: met in reproduction (Whitney Museum website; all 12 Whitney works by him are off view)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Gladstone representation, the 2026 show and the address all rest on snippets; Gladstone has three Manhattan addresses (515 West 24th, 530 West 21st, 130 East 64th, all SNIPPET). (2) Evidence that he is living is weaker than for most on the list: nothing dated after spring 2026 was opened. Check for news before mailing. (3) The painting's subject is brutal; the letter names the palm trees, the river of blood and the officer but not the inscription. Read the Whitney page so the letter's tone sits right with you. (4) The print door leans on Pace Prints having a Saul page (SNIPPET).
 
 
@@ -232,7 +232,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** "Innumerable specks of pink, orange, yellow, green, and blue, densely accumulated into a soft and smooth polychromatic abstraction" (OPENED, image description on the Whitney page) [https://whitney.org/collection/works/298] CHECK: this is the page's image description, which may be machine-written; look at the image on the Whitney page before mailing and confirm the five colors and the "soft field" reading.
 - **Second work:** Toledo Museum of Art holdings, mentioned in the letter only as "two of your works": Art Crow / Jim Crow, 1988, accordion-fold artist's book, and Untitled #32, 1974 (medium and size not found) (SNIPPET) [https://emuseum.toledomuseum.org/objects/42956] CHECK: snippet only; confirm both records on the Toledo page before mailing.
 - **See before mailing:** no: met in reproduction (Whitney website; the painting is not on view). Optional: she is in "Hard Art" at MoMA PS1 through 15 Mar 2027 (OPENED [https://www.whitecube.com/news/richard-hunt-at-moma-ps1]), but the notes have no verified titles for her works there, so the letter does not use that show.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Garth Greenan's postal line is not confirmed; confirm 10 vs 25 Greene Street and the ZIP by phone or on the gallery site, or send via White Cube. (2) A market snippet says White Cube represents her "in Europe and Asia" [https://ocula.com/magazine/art-news/howardena-pindell-joins-white-cube/], so the Madison Avenue fallback may forward more slowly. (3) Birth date conflict: Wikipedia says 14 April 1943, the Whitney's own field says 4 April 1943 (both OPENED); not used in the letter. (4) The Toledo ownership line rests on a snippet. (5) The visual detail is the Whitney's image description; check the image.
 
 #### Amoako Boafo
@@ -258,7 +258,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** "depicts a black Madonna amidst porn magazine cutouts and elephant dung" (OPENED) [https://www.theartnewspaper.com/2018/04/19/controversial-hip-hop-version-of-the-virgin-mary-given-to-moma]; eight feet tall (OPENED) [https://en.wikipedia.org/wiki/Chris_Ofili] CHECK: the detail is from news text, not a museum record; the letter names no colors because the notes give none.
 - **Second work:** none
 - **See before mailing:** no: met in reproduction. MoMA's on-view status could not be checked; he should look it up on moma.org, and if it is on view, go, and change the first and last sentences to match.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Zwirner's page states: "While we appreciate your interest, we do not accept unsolicited materials and we are currently not accepting new artist submissions." (OPENED) [https://www.davidzwirner.com/galleries/new-york]. Whether a letter is forwarded is not stated; Victoria Miro, 16 Wharf Road, London N1 7RW (OPENED) [https://www.victoria-miro.com/contact/] is a second route. (2) Notes conflict on verification: the group file says the Zwirner address was OPENED on the gallery page, the coordinator's file lists Zwirner as not verifiable from its environment. Routing kept; read the page once by hand. (3) He lives in Trinidad, so forwarding will be slow. (4) Turin dates differ by a day between Zwirner and Victoria Miro; not used in the letter.
 
 #### Chris Martin
@@ -284,7 +284,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Glass mosaic set in a working subway station (SNIPPET) [https://www.mta.info/agency/arts-design/collection/queens-of-the-night] CHECK: the notes contain NO description of what the mosaic shows (no figures, colors or layout). The letter therefore uses only the title, year, medium and place. After visiting, he should add one thing he actually saw and confirm the sentences about standing still.
 - **Second work:** Swimmers Under Orange Moon, 2025, acrylic on canvas, 80 1/16 x 68 in (203.4 x 172.7 cm); Whitney Museum, accession 2026.18, not on view (OPENED) [https://whitney.org/collection/works/70803]. Not used in the letter.
 - **See before mailing:** yes: 1 Avenue L station, Manhattan; permanent, no end date. The letter says he went there to look at it, so he must go first.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) He must visit the station before mailing and rewrite any sentence that does not match what he saw; the notes give no visual description of the mosaic. (2) The work's own record (MTA) is SNIPPET; the Wikipedia caption says the unveiling covered both the 1 Av and Bedford Av stations, so confirm on site which station carries "Queens of the Night". (3) Canada's address is unverified. (4) The letter mentions that his mom makes jewelry and guesses she would like the setting of the glass; cut that sentence if it is not something he would say.
 
 
@@ -313,7 +313,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Painted in grisaille; "On a sofa in a well-appointed living room ... sits a dignified older black woman, her bearing so calm that it is easy to overlook the massive pair of wings on her shoulders"; a central scroll lists musicians; the words "We Mourn Our Loss" run along the bottom (OPENED, museum text) [https://whitney.org/collection/works/11971]
 - **Second work:** Portrait of a Black Man in a World of Trouble, 1990, described as acrylic on a burned American flag (size not found); Toledo Museum of Art, accession 2022.22, bought 2022, listed as not on view (SNIPPET) [https://emuseum.toledomuseum.org/objects/81508/portrait-of-a-black-man-in-a-world-of-trouble]. Mentioned in the letter only as "an early painting of yours" owned since 2022. CHECK: snippet only.
 - **See before mailing:** no: met in reproduction (Whitney website; the painting is not on view)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Two New York addresses on the gallery's About page: 513 West 20th Street (regular hours) and 46 Lafayette Street, New York, NY 10013 (Tribeca flagship, appointment-only when read); the page does not say which takes mail. The researcher's choice of 513 West 20th Street is a judgment. (2) The coordinator's recheck found the street address on the home page but no ZIP; 10011 comes from the About page per the group file. (3) David Zwirner, 537 West 20th Street, is a second route. (4) The Toledo ownership line is SNIPPET. (5) Chose Souvenir IV over the Toledo painting because its detail was read on the museum's page.
 
 #### Charline von Heyl
@@ -394,7 +394,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** A haulage truck "decorated with scenes linked to his background"; he said he drove it from London to Venice; the front tyres were punctured so it cannot move (OPENED) [https://www.theartnewspaper.com/2026/05/06/alvaro-barrington-takes-a-road-trip-to-the-venice-biennale] CHECK: the notes do not say what the painted scenes show, so the letter does not describe them. The Biennale's closing date, 22 November 2026, is SNIPPET; the letter uses the past tense for that reason.
 - **Second work:** Book: "Alvaro Barrington. Garvey.", Sadie Coles HQ, London, 2019, ISBN 978-0-9926556-9-3 (OPENED) [https://en.wikipedia.org/wiki/Alvaro_Barrington]
 - **See before mailing:** no: met in reproduction (The Art Newspaper report and photographs). No work in a New York collection found; the Whitney search returned nothing (OPENED) [https://whitney.org/collection/works?q%5Bsearch_cont%5D=Barrington]
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) The address needs finding: see ADDRESS_STATUS. Do not post to Anton Kern until the gallery's own page shows him. (2) The chosen work is in Venice, not New York, and he has not seen it; the letter says so. (3) Read the Art Newspaper piece and look at its photographs before mailing, since the letter says he has. (4) "Dear Mr. Barrington" rests on The Art Newspaper's "he".
 
 #### Amy Sillman
@@ -420,7 +420,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Title, medium and size only: ten feet by fifteen, acrylic and spray paint, orange and green named in the title (SNIPPET) [https://www.themodern.org/exhibition/focus-katherine-bernhardt] CHECK: no page was opened for this artist's works and the notes hold no description of the image. Confirm the title, year and size, look at the picture, and confirm that the canvas really is orange and green before mailing.
 - **Second work:** none (no book and no New York museum holding found)
 - **See before mailing:** no: met in reproduction. Her last New York show, "Peanut Butter and Jelly" at Canada, closed 20 June 2026 (SNIPPET) [https://artinnewyorkcity.com/2026/06/20/peanut-butter-and-jelly-katherine-bernhardt-at-canada-gallery-tribeca-nyc/]
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Thin notes: every fact about her works is search-summary level and there is no described image, so the letter leans on title, size and medium. (2) The letter says she works in St. Louis: Wikipedia says so (OPENED by the coordinator), but Artnet says New York and an older CV says Brooklyn (SNIPPET). Confirm or cut that sentence. (3) Canada's address and which gallery leads are both unconfirmed; David Zwirner, 537 West 20th Street, New York, NY 10011 is the alternative but is already used in this week for another artist. (4) "Dear Ms. Bernhardt" rests on "her" in the market notes.
 
 
@@ -436,7 +436,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** "a profile of his wife Ada's face, set against a smooth red background", "nearly 7 x 10 feet"; image description: "A woman wearing red lipstick smiles softly, her face in profile against a more vivid red background" (OPENED) [https://whitney.org/collection/works/407]
 - **Second work:** "Ada with Glasses", 1977, print; Toledo Museum of Art (SNIPPET) [https://emuseum.toledomuseum.org/objects/images?filter=collections%3AWorks+on+Paper&page=10] CHECK: found in a search summary of a listing page, not an object record. Confirm the title and year on the museum's collection site before mailing, since the letter names it.
 - **See before mailing:** no: met in reproduction (Whitney website). No New York work confirmed on view.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) He is 99 and turns 100 on 24 July 2027; do not delay this one. (2) The Toledo print is SNIPPET: see WORK_2. The letter states ownership only, never that he saw it; the Toledo galleries are closed until fall 2027. (3) The Toledo museum also owns Chuck Close's portrait of Katz, "Alex" (SNIPPET); left out of the letter because it would name another artist. (4) "Fourteen years" is 1977 minus 1963; it fails if either date is wrong.
 
 #### Derrick Adams
@@ -462,7 +462,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Newton "sits in a peacock chair ... He holds a spear in his left hand and a rifle in the other. The floor is rust colored with an irregularly shaped zebra print rug." (OPENED) [https://whitney.org/collection/works/48413] CHECK: this is the Whitney's alt text and may be machine-written. Confirm the rug, the floor color, the chair and which hand holds what on the image before mailing; the letter says "one in each hand" and does not say which.
 - **Second work:** "THE TIMES THAY AINT A CHANGING, FAST ENOUGH!", 2017, acrylic on canvas, 72 x 96 in; Whitney, accession 2017.192, not on view (OPENED) [https://whitney.org/collection/works/55931]. Not used: it shows the killing of Philando Castile, which a short fan letter cannot handle with tact.
 - **See before mailing:** no: met in reproduction (Whitney website). No Taylor work confirmed on view in New York.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Hauser & Wirth's address is unconfirmed, and he lives in Los Angeles, so the letter depends on forwarding. (2) The subject is Huey Newton holding weapons; the letter stays on what the painting looks like and makes no comment on the man. Read it once more with that in mind. (3) "Dear Mr. Taylor" rests on the Whitney description's "he".
 
 #### Albert Oehlen
@@ -475,7 +475,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** not found. The notes hold only title, year, medium, size and the reported gallery number (SNIPPET) [https://www.moma.org/collection/works/151039] CHECK: the letter contains one bracketed line that he must replace, in his own words, with something he actually saw in the painting. Without that line the letter is not specific enough to send.
 - **Second work:** "Duchamp", 1995, MoMA, reported not on view (SNIPPET) [https://www.moma.org/collection/works/427690]
 - **See before mailing:** yes: MoMA, Floor 2, Gallery 203, no end date known. The on-view report is search-summary level and could not be rechecked; confirm on MoMA's site or at the museum that it is still up. An Oehlen was in MoMA's collection display "Post-Atomic Abstraction: Collection 1980s-Present" in 2025 (OPENED) [https://www.maxhetzler.com/artists/albert-oehlen], but which work, and whether it is still hanging, is unverified.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Thin notes: no visual detail for the chosen work, so the letter cannot be mailed as drafted. Go to MoMA, fill in the bracketed line, and check the two sentences about the enamel and oil and about the lack of a title against what you see. (2) If the painting is no longer on view, the letter must be rewritten from a reproduction. (3) Skarstedt deals heavily in the secondary market and may not be his primary representation, so forwarding is uncertain; his lead galleries are Max Hetzler (no New York space) and, unverified, Gagosian. (4) He lives in Switzerland and Spain. (5) "Dear Mr. Oehlen" rests on Wikipedia's "He".
 
 #### Trenton Doyle Hancock
@@ -488,7 +488,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Whitney curatorial text: the painting "depicts the forest from The Legend's perspective after the vegans have punctured The Legend with holes. Looking up into the trees, The Legend sees the branches, sky, and forest floor interlaced with the words 'rememor with membry.' This invented phrase appears to mix together the words 'remember' with 'memory'" (OPENED) [https://whitney.org/collection/works/13870]. Curator's text, safe to use. The page's alt text adds a black-and-white pattern of gnarled trees filled with letters; not used.
 - **Second work:** Choir, 2003, acrylic, piled and felted fabric, and graphite pencil on cut canvas, 97 5/8 x 137 7/8 in. (248 x 350.2 cm); Whitney, accession 2003.194; not on view (OPENED) [https://whitney.org/collection/works/19339]. This is the big colorful one (over eight feet by eleven), but its only description is alt text: "Among a cluttered expanse of yellow, red, green, blue, and orange flowers, a number of black and white, horizontal stripe mounds protrude, some with big round cartoonish heads and zany expressions." If you look and that is what you see, it would suit your taste better than the black-and-white forest. Also at the Whitney: the Bye and Bye portfolio, 2002, nine etchings printed by Flatbed Press (OPENED, https://whitney.org/collection/works/19676), which the letter mentions.
 - **See before mailing:** no: met in reproduction (Whitney website; all 28 of his works there are marked not on view)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Route is a fallback and unverified; check mindofthemound.com for a studio contact first. (2) No 2026 activity of his own found; living status rests on Wikipedia (edited 6 Sept 2026) and the show that closed 31 Dec 2025. (3) The chosen painting is black and white by the alt text; see WORK_2 if you want the colorful one. (4) "Dear Mr. Hancock" follows "he/his" in the Whitney and Wikipedia texts (OPENED). (5) "The Legend" in the letter is the name of his character, taken from the Whitney text, not praise. (6) The letter's "nine etchings" comes from the portfolio's own title page as transcribed in alt text, backed by the Phillips lot title (SNIPPET).
 
 
@@ -517,7 +517,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** "on the bottom right there's my version of a Keith Haring baby on a little pedestal", from the artist's own words in the Whitney audio transcript, which also says he painted it in Keith Haring's studio (OPENED) [https://whitney.org/collection/works/2060] CHECK: the alt text ("a large red smiling creature with wide eyes amid swirling shapes") reads as machine-written and was NOT used. "Colorful" in the letter is his own word and he should confirm it against the image.
 - **Second work:** none (the Whitney's only other Scharf is a 2010 monoprint, accession 2012.155.4, not on view, OPENED https://whitney.org/collection/works/42050)
 - **See before mailing:** no: met in reproduction (Whitney website and audio; painting not on view)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) He lives and works in Los Angeles (OPENED, Almine Rech), so the gallery will be forwarding across the country; the door is the print, not the studio. (2) The Haring reference is one clause and comes from Scharf's own audio remark; Basquiat is not mentioned. (3) Do not use the old 39 East 78th Street address from earlier notes. (4) He should listen to the Whitney audio clip before mailing, since the letter says he did.
 
 #### William T. Williams
@@ -543,7 +543,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Title punctuation, medium list and square format only (SNIPPET) [https://www.moma.org/calendar/events/840] CHECK: no visual description exists in the notes and the MoMA page was never opened. He must open the page, confirm the title, date, medium and size, and confirm an image of the painting is there before the letter says he "came across it" on MoMA's website.
 - **Second work:** none (outside New York only: "Untitled (Drawing Off the Wall)", 2011, Pérez Art Museum Miami, SNIPPET https://www.pamm.org/en/artwork/2017.257)
 - **See before mailing:** no: met in reproduction (MoMA website listing; nothing confirmed on view in New York)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** THIN NOTES. (1) Everything about the work is SNIPPET and there is no visual detail at all; the letter is honest that he knows it from a listing, but it is the weakest-sourced letter in the batch. (2) Zwirner's location page states "we do not accept unsolicited materials and we are currently not accepting new artist submissions" (OPENED https://www.davidzwirner.com/galleries/new-york); that is aimed at artists' submissions, but forwarding of a fan letter is not guaranteed. (3) He "lives and works in various locations" and his current show is in Paris, so the print door was used, not the studio. (4) No Toledo link was checked for him ("barely checked" in toledo_museum.md).
 
 #### Cecily Brown
@@ -585,7 +585,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** The mural reworks collection icons including Warhol's soup cans, Dalí's melting clock, Duchamp's bicycle wheel and a Kahlo self-portrait (SNIPPET) [https://www.ourtownny.com/city-arts/nina-chanel-abney-launches-debut-monograph-at-new-moma-design-store-in-soho-ML5508178] CHECK: from a search summary of a local news article; confirm all four objects against photographs, and confirm which he really found first.
 - **Second work:** "Super Punk #198", a digital work purchased by the Toledo Museum of Art in 2024; year made and visual detail not found (SNIPPET) [https://toledomuseum.org/news/toledo-museum-of-art-acquires-over-250-artworks-in-2024]. Also MoMA: "She Was a Real Trouper - Acts of Service", 2020, details not obtained (SNIPPET https://www.moma.org/collection/artists/132942)
 - **See before mailing:** no: met in reproduction (photographs of the mural). The notes do not confirm it is still up, so the letter says he has seen only pictures and plans to go. If it is still installed, go first and rewrite the second paragraph and the opening to say so.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Every fact about the work and the Toledo purchase is SNIPPET; check the Toledo news page before mailing, since the letter states the purchase as fact. (2) "Super Punk #198" is a digital work and the Toledo galleries are closed until fall 2027; the letter speaks of ownership only. (3) The letter names the MoMA Design Store in SoHo as the place; one note points to MoMA itself, so confirm the site. (4) The street address is verified but her place on the Shainman roster was not read on the gallery's page.
 
 #### Jadé Fadojutimi
@@ -598,7 +598,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Title, size and medium only, in particular the oil sticks (SNIPPET) [https://www.metmuseum.org/art/collection/search/856990] CHECK: the Met page was never opened and the notes hold no description of the picture. He must open the page, confirm the facts, and look at the image; the letter calls it a "thumbnail", which should be true of what he sees.
 - **Second work:** "The Land of Sustainable Burdens", 2020, oil and oil stick on canvas, 74 3/4 x 90 1/2 in.; Studio Museum in Harlem, 2022.1, on-view status unverified (SNIPPET) [https://www.studiomuseum.org/artists/jade-fadojutimi]
 - **See before mailing:** no: met in reproduction (Met website; listed as not on view). The Studio Museum work is worth a phone call; if it is on view he could see it and rebuild the letter around it.
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** THIN NOTES. (1) No page about her work was opened and there is no visual detail; the letter is honest that he knows the painting from a listing. (2) She lives and works in London, so the gallery forwards overseas; print door used. (3) Address unverified. (4) Salutation uses her full name because the notes establish her pronouns only from search summaries. (5) No Toledo link found.
 
 #### George Condo
@@ -624,7 +624,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** The same show listed a companion, Wir gehen nicht zu McDonald's [We're not going to McDonald's], 2024, 98 7/16 x 70 7/8 in (250 x 180 cm) (OPENED, same page). Gallery press release on the ten paintings as a group: "huge, solitary figures, as austere as ludicrous"; "towering, composite bodies"; "the pervasive verticality of the canvases" (OPENED) [https://www.skarstedt.com/exhibitions/andre-butzer/press-release]. CHECK: the "single tall figure" is the release's description of the whole group, not of this canvas, and no colors are sourced. Look at the image on the Skarstedt page and confirm one standing figure before mailing; the letter names no colors.
 - **Second work:** none
 - **See before mailing:** no: met in reproduction (the New York show closed 26 April 2025)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Address rests on flyers from 2023 or earlier; confirm on the gallery's site. (2) Where he lives is inconsistent across sources (Berlin-Wannsee per Wikipedia); the letter names no city. (3) The figure detail is group-level; confirm on the image. (4) Toledo Museum holding: not checked.
 
 
@@ -640,7 +640,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Letter uses only the title, the date, the corrugated cardboard in the medium line and the width (under five feet) (OPENED) [https://whitney.org/collection/works/2462] CHECK: the page's image description ("Concentric black and gray painted arches with gold accents and the words 'The Black Rainbow' at the top") is Whitney alt text, which the notes warn reads as automated; it was not used. Look at the image and confirm the letter's "a rainbow called black" still fits.
 - **Second work:** Double Isometric Self Portrait (Serape), 1964, oil on canvas with metal hardware and dowels, overall 57 3/8 x 84 5/8 in, two canvases each with a 51 3/4 in chain; Whitney Museum, accession 76.35, not on view (OPENED) [https://whitney.org/collection/works/2735]
 - **See before mailing:** no: met in reproduction (Whitney website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) No verified address; the envelope cannot be written until the Cristea Roberts or Templon contact page is read by hand, and overseas postage is needed. (2) Alive evidence is the weakest kind: no death date on Wikipedia, nothing positive from 2026 on an opened page. (3) The Ohio facts in the letter (born in Cincinnati; BFA Ohio University, 1957) are SNIPPET from the Toledo notes [https://en.wikipedia.org/wiki/Jim_Dine] [https://www.annexgalleries.com/artists/biography/590]; birth in Cincinnati is also OPENED in the group notes. (4) The Toledo Museum of Art owns his print "Vermont (The Autumn)" (SNIPPET) [https://emuseum.toledomuseum.org/objects/images?filter=collections%3AWorks+on+Paper&page=10]; not used in the letter. (5) The letter says he usually goes for paintings that are "big, colorful and bold", his own words about Basquiat, used without the name.
 
 #### Dana Schutz
@@ -666,7 +666,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** The materials line and the six-foot square size only (OPENED) [https://www.alminerech.com/artists/405-genesis-tramaine] CHECK: the notes hold no description of what the painting looks like, so the letter describes nothing visual. Look at the image and consider adding one thing he sees.
 - **Second work:** Jesus Take the Wheel, 2024, "Acrylic, Holy Spirit, womb energy, salt, rain water, oil sticks, oil pastel", 243.8 x 182.9 cm (96 x 72 in) (OPENED) [https://www.alminerech.com/artists/405-genesis-tramaine]. Book: Gimme Some Sugar, 2025, publisher not found (OPENED) [https://www.alminerech.com/artists/405-genesis-tramaine]
 - **See before mailing:** no: met in reproduction (gallery website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) Living status rests on gallery pages only: no Wikipedia article, no dated 2026 solo activity, no death notice. Check the gallery page again before mailing. (2) No visual description of any painting is in the notes; the letter is about the materials line. (3) Salutation uses the full name because no title is established in the notes. (4) "Grandmother" in the letter is his reading of "Nana". (5) The line about his mom is his guess about her, not a fact; cut it if it does not sound like him.
 
 #### Mary Weatherford
@@ -679,7 +679,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Whitney image description: "Large abstract blue painting with a glowing yellow neon tube mounted across and a power box below." (OPENED, same page) CHECK: this is the page's image alt text, possibly machine-written, and no curator text for this painting was found. Open the Whitney page, look at the image, and confirm the blue ground, the yellow neon and the visible power box before mailing. Title, year, size, medium and "three parts" are from the museum record and safe.
 - **Second work:** Drift, 2026, lithograph, 39 x 28 in, edition of 45, Cirrus Editions (SNIPPET) [https://www.cirrusgallery.com/new-releases/new-release-mary-weatherford]. Not used in the letter.
 - **See before mailing:** no: met in reproduction (the Whitney lists the painting as not on view; if that changes, go, and rewrite the second and last sentences)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) The visual detail is alt text; confirm by eye. (2) Address ZIP is snippet level. (3) Toledo Museum holding: not checked. (4) Exact birth date not found; year only.
 
 #### Luis Cruz Azaceta
@@ -734,7 +734,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Visual detail:** Letter uses only the title, year, height (close to ten feet) and "not on view" (OPENED) [https://whitney.org/collection/works/477] CHECK: the page's alt text changed between two loads ("soft gray cloud shapes across the middle and thin colored borders" / "Three soft gray cloud shapes drift across a pale peach background") and the notes think it misreads a map painting; it was not used. Look at the image before mailing.
 - **Second work:** Advice and Concent, 1972-1973, acrylic on canvas, 57 1/8 x 90 in; Whitney, accession 73.10, not on view (OPENED) [https://whitney.org/collection/works/1308]
 - **See before mailing:** no: met in reproduction (Whitney website)
-- **Door opened in the letter:** print or small piece
+- **Door opened in the letter:** a painting on his wall one day
 - **Flags:** (1) He lives in London and gave up his New York studio in 2018 (OPENED) [https://www.theartnewspaper.com/2021/06/10/frank-bowling-my-art-isnt-about-politics-its-about-paint]. A London route may reach him better: Hauser & Wirth London (address not found) or the Frank Bowling Foundation, launched 24 June 2026 (SNIPPET) [https://www.artforum.com/news/frank-bowling-foundation-to-formally-launch-on-june-24-1234752395/]; check frankbowling.com for a postal address. (2) The New York address is not verified on the gallery's page. (3) Salutation: Wikipedia styles him "Sir" (OPENED), so the letter opens "Dear Sir Frank," which is the usual form for a knight; change it to "Dear Mr. Bowling," if he prefers the plain form. (4) The notes do not say who Dan Johnson was; the letter says so honestly. (5) He is 92.
 
 #### Mickalene Thomas
