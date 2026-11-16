@@ -44,24 +44,6 @@ Somewhere in Toledo there is a sloppy barroom kiss with your name on it, and I l
 With thanks,
 [Your name]
 
-### Eddie Martinez
-
-*Work: Oceanic, 2020, oil, acrylic and spray paint on canvas, 72 x 108 in.; Carnegie Museum of Art, accession 2021.9*  
-*Mail to: Eddie Martinez, c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA*
-
-Dear Eddie Martinez,
-
-Spray paint sits on the same nine feet of canvas as oil and acrylic in Oceanic, your 2020 painting at the Carnegie Museum of Art.
-
-I have not stood in front of it. I know it only from the museum's website, six feet by nine reduced to a screen. But three kinds of paint on one surface told me something before I looked at the image. Nothing was ruled out ahead of time. I work in finance, where most of the day goes to ruling things out, and an afternoon with Oceanic open did the opposite to my head.
-
-I hear Phaidon is publishing a book on your twenty years of painting, and I plan to spend real time with it. Your studio is the place I would most like to see someday.
-
-All nine feet of Oceanic are still open on my screen, spray paint included.
-
-Yours,
-[Your name]
-
 ### Stanley Whitney
 
 *Work: Untitled, 2017, watercolor monotype on Lanaquarelle paper, sheet 47 5/8 x 72 in. (121 x 182.9 cm), printed and published by Two Palms; Whitney Museum of American Art, accession 2018.72; not on view*  
@@ -100,6 +82,20 @@ Your book Which One is next on my list. I live in New York, a long way from Kent
 Four brothers rarely hang together as well as the four parts of Ballet Backdrop.
 
 Sincerely,
+[Your name]
+
+### Katharina Grosse
+
+*Work: CHOIR, 2025, site commission on the Messeplatz for Art Basel, June 2025; medium and size not found; known from White Cube's news page*  
+*Mail to: Katharina Grosse, c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria*
+
+Dear Katharina Grosse,
+
+Magenta runs across the ground, up a clock tower, over a fountain and straight across the fair's own logo. That is "CHOIR," 2025, as I met it on White Cube's website, and the logo is the part I have not stopped thinking about. You did not paint around it. I find a lot of architecture boring, and it had never occurred to me that someone could simply disagree with a plaza in color, in public, at that size. Since then I look at lobbies and squares differently. I catch myself deciding where the paint would start and what it would refuse to stop for.
+
+I hope to own a small piece of yours someday, when I'm able, something that stays in one place. I did not expect a fairground in Basel to change how I walk through New York.
+
+With thanks,
 [Your name]
 
 
@@ -361,20 +357,22 @@ Sixty years after you painted it, I am the one doing the wandering, green to ora
 With thanks,
 [Your name]
 
-### David Salle
+### Aboudia
 
-*Work: Splinter Man, 1982, oil and acrylic on canvas, two parts, overall 98 1/16 x 195 13/16 in (249.1 x 497.4 cm); Whitney Museum of American Art, accession 82.12a-b, not on view*  
-*Mail to: David Salle, c/o Lehmann Maupin, 501 West 24th Street, New York, NY 10011, USA*
+*Work: We the Children, 2024, mixed media on canvas, 84 x 122 in.; shown in "Aboudia Studio New York", Ethan Cohen Gallery, 225 West 17th Street, 10-25 May 2024; current location not found*  
+*Mail to: Aboudia, c/o Ethan Cohen Gallery, 251 West 19th Street, New York, NY 10011, USA*
 
-Dear David Salle,
+Dear Aboudia,
 
-Splinter Man puts a figure flying apart in black and white right next to two people holding each other in a red mirror. I have only seen the 1982 painting on the Whitney's website, and at sixteen feet wide it is a lot to take in even there. What held me is that neither half wins. I kept trying to make the left side explain the right, and the painting kept refusing. It is rare for me to look at two things side by side and not be asked to pick one. I came away thinking I rush to pick too often.
+We the Children is seven feet tall and ten feet wide, and you made it in a room on West 17th Street that was your studio before it was a gallery.
 
-I live in New York and have no art on my walls right now. I hope to own a print or a small piece of yours when I am able.
+I know the painting from the photographs Ethan Cohen Gallery published with the 2024 show. I live in New York, and it is odd to learn from a press release that a canvas that size was being worked on in the same city where I go to my desk every morning. The title has stayed with me more than I expected. It does not say "the children." It says "we," and that one word moves me from the outside of the picture to somewhere inside it. I grew up as one of four brothers, so I know a little about a crowd of kids that speaks as one.
 
-The seam between the explosion and the embrace is where I keep ending up.
+I would love to see wherever you are painting now, in Brooklyn or in Abidjan, someday.
 
-Sincerely,
+For now I have a ten-foot picture and a two-letter word to think about.
+
+With thanks,
 [Your name]
 
 
@@ -468,18 +466,6 @@ Around the Way keeps going after the platform ends, up onto the four pedestrian 
 Best,
 [Your name]
 
-### Angel Otero
-
-*Work: "Constellation", 2024, oil paint and fabric collaged on canvas, 95 1/4 x 95 1/8 in (241.9 x 241.6 cm); Whitney Museum of American Art, accession 2025.59, not on view*  
-*Mail to: HOLD: NO UNIQUE ROUTE FOUND (only Vito Schnabel Gallery, already used for Julian Schnabel, and Hauser & Wirth)*
-
-Dear Angel Otero,
-
-Nothing in Constellation explains why a floral couch is hanging from a metal swing frame over rough blue water, and I am glad nothing does. I found the painting on the Whitney's website. It is almost eight feet square, in oil paint and fabric collaged on canvas. I did not expect fabric, and now I want to know which parts of that couch are painted and which are cloth. The small colored ornaments hanging around the couch made me think of a party that had been set up for a room and then moved out over the sea. I looked at it for a long time and came away with my head working differently, which is what I want from a painting. I would love to see your studio someday, to learn how fabric and oil end up as one surface. That couch stays calmer over those waves than I manage to on dry land.
-
-Yours,
-[Your name]
-
 ### Henry Taylor
 
 *Work: "Huey Newton", 2007, acrylic and collaged photocopies on canvas, 94 9/16 x 76 1/4 in (240.2 x 193.7 cm); Whitney Museum of American Art, accession 2016.86, not on view*  
@@ -505,27 +491,43 @@ On the second floor of MoMA, in Gallery 203, your Untitled from 1989 stands clos
 Sincerely,
 [Your name]
 
+### Trenton Doyle Hancock
+
+*Work: Rememor with Membry, 2001, acrylic on collaged canvas, 59 7/8 x 72 1/4 in. (152.1 x 183.5 cm); Whitney Museum of American Art, accession 2001.229, purchase with funds from the Contemporary Painting an*  
+*Mail to: Trenton Doyle Hancock, c/o Hales Gallery, 547 West 20th Street, New York, NY 10011, USA*
+
+Dear Trenton Doyle Hancock,
+
+In Rememor with Membry the words run through the branches, the sky and the forest floor alike, so that I cannot find a part of the picture that is not also a sentence.
+
+I met the painting on the Whitney's website, where it is listed as not on view. The museum's note says the view is the one The Legend has, looking up into the trees. That stopped me. I had been reading the canvas like a page, from the outside. After that I was on my back in the woods. Five feet by six feet of acrylic on collaged canvas turns out to be plenty of room to lie down in.
+
+The Whitney also holds the nine etchings of Bye and Bye from 2002. I hope to own one of your prints when I am able.
+
+I have said "rememor with membry" out loud more than once this week, and it still refuses to come out as "remember."
+
+Best,
+[Your name]
+
 
 ## Week 7
 
-### Julie Mehretu
+### Eddie Martinez
 
-*Work: "Of other Planes of There (S.R.)", 2018-2019, ink and acrylic on canvas, 108 3/16 x 120 x 2 1/8 in. (274.8 x 304.8 x 5.4 cm); Whitney Museum of American Art, accession 2021.12, not on view on 16 Nov 2*  
-*Mail to: Julie Mehretu, c/o Denniston Hill, P.O. Box 728, Glen Wild, NY 12738, USA*
+*Work: Oceanic, 2020, oil, acrylic and spray paint on canvas, 72 x 108 in.; Carnegie Museum of Art, accession 2021.9*  
+*Mail to: Eddie Martinez, c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA*
 
-Dear Julie Mehretu,
+Dear Eddie Martinez,
 
-Somewhere in "Of other Planes of There (S.R.)" (2018-19) there are two figures about to fight, and I have spent more time looking for them than I planned to. I know they are there because I played the audio clip on the Whitney's page for the painting. I am fairly sure of one of them.
+Spray paint sits on the same nine feet of canvas as oil and acrylic in Oceanic, your 2020 painting at the Carnegie Museum of Art.
 
-I should say I have only seen it on a screen. The museum lists it as not on view, so nine feet by ten of ink and acrylic has been about four inches wide for me.
+I have not stood in front of it. I know it only from the museum's website, six feet by nine reduced to a screen. But three kinds of paint on one surface told me something before I looked at the image. Nothing was ruled out ahead of time. I work in finance, where most of the day goes to ruling things out, and an afternoon with Oceanic open did the opposite to my head.
 
-I work in finance, where everything I look at is built to be read fast. Your painting would not be read fast. Each time I went back, I started somewhere different in the ink, and I left the page thinking more loosely than when I arrived.
+I hear Phaidon is publishing a book on your twenty years of painting, and I plan to spend real time with it. Your studio is the place I would most like to see someday.
 
-I would love to see your studio someday, if only to learn how large those marks are next to a person.
+All nine feet of Oceanic are still open on my screen, spray paint included.
 
-If the Whitney hangs it again, I will be there the first week, looking for the second fighter.
-
-Sincerely,
+Yours,
 [Your name]
 
 ### Kenny Scharf
@@ -609,27 +611,6 @@ Sincerely,
 
 ## Week 8
 
-### Rashid Johnson
-
-*Work: "New Poetry", 2023, installation: 8mm film (color, silent, 4:42 min., transferred to video) with two monitors, steel, lights, plants, ceramics, books, and shea butter, overall 190 x 359 1/2 x 65 in.*  
-***SEE FIRST:** Whitney Museum of American Art, Floor 1, Restaurant. No end date is given in the notes; confirm it is still installed on the day, watch the film through (4:42), and correct any detail in the letter that does not match what he sees.*  
-*Mail to: Rashid Johnson, c/o David Kordansky Gallery, 520 West 20th Street, New York, NY 10011, USA*
-
-Dear Rashid Johnson,
-
-There are plants growing in the Whitney's restaurant because of you, and I went down to the first floor to see them. "New Poetry" (2023) is bigger than I had pictured from the museum's page. The steel shelving runs about thirty feet, with books, ceramics and shea butter set in among the plants, and two monitors playing a silent film. I stayed for all of it, a little under five minutes.
-
-What stuck with me is that the piece has to be looked after. Most art I walk past is finished. Yours is still growing while people eat lunch beside it, and that changed how I thought about the rest of my day.
-
-I work in finance and live here in New York, so I can go back and see what has changed on the shelves.
-
-I hope to own one of your prints or a small piece when I am able.
-
-Next visit I am going to read the spines of the books you chose.
-
-With thanks,
-[Your name]
-
 ### Joan Snyder
 
 *Work: "My August", 2023, oil and acrylic paint, papier-mâché, straw, flower stems, rosebuds, ink and paper on linen, 52 x 72 in.; Museum of Modern Art, gift of Agnes Gund; shown in "Hyundai Card First Look:*  
@@ -710,6 +691,22 @@ Some days I say the title with the drawing first, and some days the painting.
 With thanks,
 [Your name]
 
+### André Butzer
+
+*Work: Wir gehen zu McDonald's [We're going to McDonald's], 2024, oil, acrylic and lacquer on canvas, 102 3/8 x 70 7/8 in (260 x 180 cm); shown in "André Butzer", Skarstedt Chelsea, New York, 13 Feb to 26 Ap*  
+*Mail to: André Butzer, c/o Galerie Christine Mayer, Liebigstraße 39, 80538 München, Germany*
+
+Dear André Butzer,
+
+Wir gehen zu McDonald's is more than eight feet tall, and on Skarstedt's website it sits beside a second painting from 2024 whose title says you are not going after all. I missed the New York show last year, so the gallery's pictures and the list of titles are all I have. I am one of four brothers, and I laughed at how fast the second title takes back the first. Then I kept looking at the tall figure standing alone in the canvas, and it stopped being a joke. A title about lunch on a painting that size made me think about how much weight ordinary things can carry. I have been trying to give small decisions at work the same room.
+
+I hope to own a print or a small work on paper of yours one day, when I'm able.
+
+I still have not decided which of the two paintings is telling the truth about McDonald's.
+
+Yours,
+[Your name]
+
 
 ## Week 9
 
@@ -727,34 +724,6 @@ I grew up in Toledo, so I notice when a painter turns out to be from Ohio. Cinci
 I hope to own one of your prints someday, when I'm able. A black rainbow on cardboard has turned out to be harder to forget than most of the colorful ones.
 
 Sincerely,
-[Your name]
-
-### Katharina Grosse
-
-*Work: CHOIR, 2025, site commission on the Messeplatz for Art Basel, June 2025; medium and size not found; known from White Cube's news page*  
-*Mail to: Katharina Grosse, c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria*
-
-Dear Katharina Grosse,
-
-Magenta runs across the ground, up a clock tower, over a fountain and straight across the fair's own logo. That is "CHOIR," 2025, as I met it on White Cube's website, and the logo is the part I have not stopped thinking about. You did not paint around it. I find a lot of architecture boring, and it had never occurred to me that someone could simply disagree with a plaza in color, in public, at that size. Since then I look at lobbies and squares differently. I catch myself deciding where the paint would start and what it would refuse to stop for.
-
-I hope to own a small piece of yours someday, when I'm able, something that stays in one place. I did not expect a fairground in Basel to change how I walk through New York.
-
-With thanks,
-[Your name]
-
-### Francesco Clemente
-
-*Work: Dormiveglia VI, 1998, oil on canvas, about 325.8 x 162.9 cm; The Metropolitan Museum of Art, not on view*  
-*Mail to: Francesco Clemente, c/o LeRoy Neiman Center for Print Studies, Columbia University, 310 Dodge Hall, MC 1806, 2960 Broadway, New York, NY 10027, USA*
-
-Dear Francesco Clemente,
-
-"Dormiveglia VI," 1998, is more than ten feet tall and about half as wide, and your gallery's notes say the canvases in that series bring tarot cards to mind. I first knew your name from the years you painted alongside Warhol and Basquiat, but this is the picture I keep going back to. I know it only from the Met's online record, which lists it as not on view. What stays with me most is the title. I had no word for the state between sleep and waking. I notice that state more now that it has a name, and a card ten feet tall seems like the right size for it.
-
-I live in New York and learned about "Travel Diary" on 19th Street only after it had closed. I'd love to see your studio someday. Dormiveglia is a word I am glad to have, and I owe it to a ten-foot canvas at the Met.
-
-Yours,
 [Your name]
 
 ### Dana Schutz
@@ -787,22 +756,42 @@ I hope to own a print or a small piece of yours someday, when I'm able. A line o
 With thanks,
 [Your name]
 
+### Mary Weatherford
 
-## Week 10
+*Work: Pier 'n' Ocean, 2017, Flashe and neon on linen, three parts, overall 117 x 105 x 4 in (297.2 x 266.7 x 10.2 cm); Whitney Museum of American Art, New York, accession 2018.152a-c; listed "Not on view"*  
+*Mail to: Mary Weatherford, c/o Cirrus Gallery & Cirrus Editions Ltd., 2011 S. Santa Fe Avenue, Los Angeles, CA 90021, USA*
 
-### Peter Doig
+Dear Mary Weatherford,
 
-*Work: Two Trees, 2017, 94 1/2 in x 11 ft 7 3/4 in (240 x 355 cm), medium not found; The Metropolitan Museum of Art, gift of George Economou, 2018, not on view*  
-*Mail to: Peter Doig, c/o TRAMPS, 15 Micawber Street, London N1 7TB, UK*
+A single yellow neon tube runs across the blue of Pier 'n' Ocean, and its power box sits in plain view below. I found the 2017 painting on the Whitney's website, where it is listed as not on view, so a screen is all I have had. What got me was the power box. You did not hide how the light works. The painting is nearly ten feet tall and in three parts, and the plainest piece of hardware in it is the part I keep thinking about. I catch myself now trying to leave the wiring showing in my own work, instead of polishing things until nobody can tell how they were made.
 
-Dear Peter Doig,
+There is nothing on my walls in New York yet. I hope to own one of your prints or a small piece one day, when I'm able.
 
-Two trees, and the canvas is almost twelve feet across. That is what the Met's record of "Two Trees," 2017, gave me, along with the words "not on view," and it has been enough to keep me busy. I've been spending more time at the Met lately, and I like knowing a painting that size is in the museum's keeping, out of my reach. The title is about as plain as a title gets. The measurements are not plain at all. I keep turning over what could need that much room between two trees, or around them, and I land on a different answer each time.
+Until the Whitney hangs it again, I can only guess what that yellow line does to the blue once it is switched on.
 
-I hope to own a print of yours someday, when I'm able. Until the Met brings it out, I'll go on guessing at twelve feet of two trees.
+With thanks,
+[Your name]
+
+### Luis Cruz Azaceta
+
+*Work: The Actor, 1981, watercolor, colored pencil and pastel on paper, sheet (sight) 44 1/8 x 26 in. (112.1 x 66 cm); Whitney Museum of American Art, accession 2019.18, purchase with funds from the Drawing*  
+*Mail to: Luis Cruz Azaceta, c/o Arthur Roger Gallery, 432 Julia Street, New Orleans, LA 70130, USA*
+
+Dear Luis Cruz Azaceta,
+
+The Actor is almost four feet of paper carrying watercolor, colored pencil and pastel all at once, and I keep wondering which of the three you reached for first.
+
+I found it on the Whitney's website. The museum lists it as a drawing from 1981 and says it is not on view, so a screen is the only way I have met it. Even there the title does a lot of work. Once I had read it I started looking for the performance in the figure, and I kept looking well after I meant to stop. My job is in finance, where most of what I look at is built to be read once. Your drawing would not let me do that.
+
+I read that you left New York in 1992 for a warehouse studio in New Orleans. I would love to see that studio someday.
+
+Until then I will keep going back to an actor who has held the same pose since 1981.
 
 Sincerely,
 [Your name]
+
+
+## Week 10
 
 ### Sean Scully
 
@@ -856,6 +845,22 @@ Dear Mickalene Thomas,
 Rhinestones come before the silkscreen and the acrylic in the materials for "Qusuquzah, Une Très Belle Négresse #4," 2023, a wood panel 67 by 57 inches. That is how the Toledo Museum of Art records it. Toledo is where I grew up, and that is the museum my mom took me to. She makes jewelry. I had never connected what she does to what was on the museum's walls. Your panel made the connection for me, from a catalog page, years later, in New York. The galleries are closed for a rehanging, so I have not stood in front of it.
 
 I'd love to see your studio someday. Rhinestones on a panel in my mom's museum is a link I would not have made without Qusuquzah.
+
+Sincerely,
+[Your name]
+
+### Daniel Richter
+
+*Work: Tarifa, 2001, oil on canvas, 350 x 280 cm (137 3/4 x 110 1/4 in) per a Christie's lot page*  
+*Mail to: Univ.-Prof. Daniel Richter, Erweiterter malerischer Raum, Akademie der bildenden Künste Wien, Schillerplatz 3, 1010 Wien, Austria*
+
+Dear Daniel Richter,
+
+The people crowded into the small boat in Tarifa are painted in bright, unnatural colors, and the sea around them is black. I know the 2001 painting only from reproductions. I also know it stands about eleven feet tall, so I am missing most of it. Even at the size of a page it stopped me. The color pulled me in before I understood what I was looking at, and by then it was too late to look away. I work in finance, where a hard subject usually gets a gray chart. Your painting made me think that being bold and being serious are not opposites.
+
+I live in New York and would love to see your studio in Berlin someday.
+
+I still do not understand how a black sea can hold that much color without swallowing it.
 
 Sincerely,
 [Your name]

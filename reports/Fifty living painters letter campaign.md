@@ -7,12 +7,13 @@ Compiled 16 November 2026. Companion files: `Fifty letters.md` (the letters only
 - **All fifty artists are living as far as could be established today.** For 48, the English Wikipedia article was opened on 16 November 2026 and gives a birth date and no death date. Robert Nava and Genesis Tramaine have no Wikipedia article; their status rests on dated gallery activity.
 - **Four artists on the first draft list died in 2026 and were removed:** David Hockney (11 June), Pat Steir (25 March), Mary Heilmann (14 August) and the alternate Georg Baselitz (30 April), all per Wikipedia opened the same day. Jim Dine, Sean Scully and Nicole Eisenman replace them.
 - **Addresses were re-routed on 16 November 2026.** Every artist now has a different address and none goes to a mega-gallery. Most routes are a go-between (a foundation or residency the artist runs, a teaching post, a print studio, a small gallery close to them), because almost no artist publishes a studio address. 8 of 50 were read on the organisation's own page; the rest come from search summaries and must be checked by hand. The Excel workbook `Fifty painters letter campaign.xlsx` carries the reason and a confidence rating for each route, plus price estimates.
-- **Not postable yet:** Katherine Bernhardt (street address of her own St. Louis gallery not found) and Angel Otero (no route that is not shared or a mega-gallery).
+- **Not postable yet:** Katherine Bernhardt (street address of her own St. Louis gallery not found).
+- **List changes, 16 November 2026:** Peter Doig, Julie Mehretu, Rashid Johnson, Francesco Clemente, David Salle and Angel Otero were replaced by Daniel Richter, Mary Weatherford, André Butzer, Luis Cruz Azaceta, Aboudia and Trenton Doyle Hancock. Katharina Grosse moved to week 1 and Eddie Martinez to week 7.
 - **No home addresses were looked for or recorded.**
 - **Almost nothing is on the wall.** Every Whitney painting checked was listed "not on view", and MoMA's and the Met's pages could not be opened. The letters are therefore honest about meeting the work on a screen or in a book. No sighting is invented.
-- **Eight letters describe a visit you have not made yet.** They are marked SEE FIRST: Ouattara Watts (Karma, to 19 December 2026), Tschabalala Self (Petzel, to 30 January 2027), José Parlá (One World Trade Center lobby), Katherine Bradford (1 Av L station), Firelei Báez (163 St-Amsterdam Av station), Derrick Adams (LIRR Nostrand Avenue), Albert Oehlen (MoMA, on-view status unconfirmed), Rashid Johnson (Whitney restaurant). Go, then adjust the letter to what you actually saw. The Mehretu and Scharf letters say you played the Whitney's audio clip; do that first too.
+- **Seven letters describe a visit you have not made yet.** They are marked SEE FIRST: Ouattara Watts (Karma, to 19 December 2026), Tschabalala Self (Petzel, to 30 January 2027), José Parlá (One World Trade Center lobby), Katherine Bradford (1 Av L station), Firelei Báez (163 St-Amsterdam Av station), Derrick Adams (LIRR Nostrand Avenue), Albert Oehlen (MoMA, on-view status unconfirmed). Go, then adjust the letter to what you actually saw. The Scharf letter says you played the Whitney's audio clip; do that first too.
 - **Albert Oehlen's letter has a blank for you to fill.** No reliable description of the painting was found, so the letter leaves one bracketed line for what you notice in front of it.
-- **Thin letters.** Where no trustworthy description of a work existed, the letter leans on title, size and materials only. These are the weakest and worth improving after you have looked at the work: Eddie Martinez, Stanley Whitney, Nicole Eisenman, Lee Quiñones, Katherine Bernhardt, William T. Williams, Oscar Murillo, Jadé Fadojutimi, Dana Schutz, Peter Doig, Sean Scully, Robert Nava, Genesis Tramaine.
+- **Thin letters.** Where no trustworthy description of a work existed, the letter leans on title, size and materials only. These are the weakest and worth improving after you have looked at the work: Eddie Martinez, Stanley Whitney, Nicole Eisenman, Lee Quiñones, Katherine Bernhardt, William T. Williams, Oscar Murillo, Jadé Fadojutimi, Dana Schutz, Sean Scully, Robert Nava, Genesis Tramaine.
 - **Lines about you.** A few letters say small things about your life beyond what you told me (for example that four brothers rarely get along, or that you had never connected your mom's jewelry to the museum). Strike anything that is not true.
 - **Toledo Museum of Art.** Its galleries are closed for reinstallation until fall 2027, so the letters mention what the museum owns, never what hangs there. Those ownership facts come from search summaries of the museum's catalog and should be checked on the museum's site before you rely on them.
 
@@ -31,9 +32,9 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 |---|---|---|---|---|
 | 1 | Ouattara Watts | Basquiat's circle | Karma (OPENED | Verified |
 | 1 | Nicole Eisenman | blue-chip | Hauser & Wirth (since 2019); also Sadie Coles (London) and Anton Kern | Check by hand |
-| 1 | Eddie Martinez | mid-career | Not settled. Galerie Max Hetzler leads the 2026 programme and is the o | Check by hand |
 | 1 | Stanley Whitney | older artist | Gagosian, since 2022 (OPENED | Check by hand |
 | 1 | Rose Wylie | older artist | David Zwirner, since 2017 (OPENED | Check by hand |
+| 1 | Katharina Grosse | blue-chip | Jointly represented by White Cube, Gagosian, Galerie Max Hetzler and G | Check by hand |
 | 2 | Tschabalala Self | mid-career | Petzel, New York, joined 2025 (OPENED | Check by hand |
 | 2 | Mark Bradford | blue-chip | Hauser & Wirth (OPENED indirectly: The Art Newspaper calls the gallery | Check by hand |
 | 2 | Julian Schnabel | Basquiat's circle | Pace (OPENED | Verified |
@@ -48,7 +49,7 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 | 4 | Kerry James Marshall | blue-chip | Jack Shainman Gallery, New York (first solo there in 1993; OPENED) | Verified |
 | 4 | Charline von Heyl | blue-chip | Petzel, New York, showing with the gallery since 1996 | Verified |
 | 4 | Larry Poons | older artist | Yares Art, "the exclusive global representative of Larry Poons" | Check by hand |
-| 4 | David Salle | Basquiat's circle | Gladstone Gallery reported as lead gallery since April 2023; listed to | Check by hand |
+| 4 | Aboudia | mid-career | Galerie Cécile Fakhoury, Abidjan, Dakar and Paris (SNIPPET | Check by hand |
 | 5 | Peter Bradley | older artist | Karma, New York | Check by hand |
 | 5 | Lee Quiñones | Basquiat's circle | Charlie James Gallery, Los Angeles | Check by hand |
 | 5 | Alvaro Barrington | mid-career | No primary gallery; he works with several by design. Named: Sadie Cole | Check by hand |
@@ -56,29 +57,29 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 | 5 | Katherine Bernhardt | mid-career | Canada, New York, and David Zwirner; which one leads is not establishe | Hold |
 | 6 | Alex Katz | older artist | Gladstone Gallery, New York; Timothy Taylor, London; Galerie Thaddaeus | Check by hand |
 | 6 | Derrick Adams | mid-career | Gagosian, joined March 2023 | Check by hand |
-| 6 | Angel Otero | mid-career | Hauser & Wirth, reported lead | Hold |
 | 6 | Henry Taylor | blue-chip | Hauser & Wirth since 2020 | Check by hand |
 | 6 | Albert Oehlen | blue-chip | Galerie Max Hetzler | Check by hand |
-| 7 | Julie Mehretu | blue-chip | Marian Goodman Gallery (New York; OPENED | Check by hand |
+| 6 | Trenton Doyle Hancock | mid-career | James Cohan, New York (long-term; already used in this campaign for Fi | Check by hand |
+| 7 | Eddie Martinez | mid-career | Not settled. Galerie Max Hetzler leads the 2026 programme and is the o | Check by hand |
 | 7 | Kenny Scharf | Basquiat's circle | Almine Rech (OPENED | Check by hand |
 | 7 | William T. Williams | older artist | Michael Rosenfeld Gallery, New York, reported exclusive representative | Check by hand |
 | 7 | Oscar Murillo | mid-career | David Zwirner (SNIPPET | Check by hand |
 | 7 | Cecily Brown | blue-chip | Paula Cooper Gallery, New York (OPENED | Verified |
-| 8 | Rashid Johnson | blue-chip | Hauser & Wirth (OPENED indirectly: the Whitney rights line reads "cour | Check by hand |
 | 8 | Joan Snyder | older artist | Canada, New York, represents her in the US; Thaddaeus Ropac for Europe | Check by hand |
 | 8 | Nina Chanel Abney | mid-career | Jack Shainman Gallery (SNIPPET | Check by hand |
 | 8 | Jadé Fadojutimi | mid-career | Gagosian (SNIPPET | Check by hand |
 | 8 | George Condo | Basquiat's circle | Contested. Sprüth Magers lists him and has a named 2027 solo show (OPE | Check by hand |
+| 8 | André Butzer | blue-chip | Galerie Max Hetzler (current mega-gallery, excluded); Skarstedt, New Y | Check by hand |
 | 9 | Jim Dine | older artist | No New York gallery. Templon, Paris-Brussels (2000-present) and Criste | Check by hand |
-| 9 | Katharina Grosse | blue-chip | Jointly represented by White Cube, Gagosian, Galerie Max Hetzler and G | Check by hand |
-| 9 | Francesco Clemente | Basquiat's circle | Vito Schnabel Gallery (on its artist index, seven years of representat | Check by hand |
 | 9 | Dana Schutz | blue-chip | David Zwirner, since 2020; Thomas Dane Gallery lists her; Contemporary | Verified |
 | 9 | Genesis Tramaine | mid-career | Almine Rech; earlier Richard Beavers Gallery, New York, current status | Check by hand |
-| 10 | Peter Doig | blue-chip | None. Left Michael Werner in February 2023; "is not represented by any | Check by hand |
+| 9 | Mary Weatherford | blue-chip | Gagosian (current mega-gallery, excluded) | Check by hand |
+| 9 | Luis Cruz Azaceta | older artist | Arthur Roger Gallery, New Orleans (SNIPPET | Check by hand |
 | 10 | Sean Scully | older artist | Lisson Gallery (New York among its locations), on Wikipedia's list onl | Check by hand |
 | 10 | Robert Nava | mid-career | Pace, since November 2020 | Check by hand |
 | 10 | Frank Bowling | older artist | Hauser & Wirth; Marc Selwyn Fine Art and Alexander Gray Associates, st | Verified |
 | 10 | Mickalene Thomas | blue-chip | Jack Shainman Gallery, on the roster with a 2026 CV; joining date of J | Check by hand |
+| 10 | Daniel Richter | blue-chip | Thaddaeus Ropac (current mega-gallery, excluded) | Check by hand |
 
 ## Artist dossiers
 
@@ -111,19 +112,6 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** print or small piece
 - **Flags:** (1) Her lead gallery is Hauser & Wirth; this letter is routed to Anton Kern only to avoid a gallery clash. The group notes say which of her three galleries handles mail is unknown and that Anton Kern "was not researched". (2) Anton Kern address unverified, see above. (3) Salutation uses the full name because Wikipedia says she uses both she/her and they/them (OPENED). (4) The Toledo print is SNIPPET level with no year and no acquisition date: open the eMuseum record before mailing. The letter says only that the museum owns it. (5) Notes are thin here: no curator description of any Eisenman painting, so the letter leans on size and title.
 
-#### Eddie Martinez
-
-- **Alive:** Wikipedia lead reads "(born 1977) is a New York-based artist" with no death date (OPENED by coordinator); solo show "Purple Flopper", Galerie Max Hetzler, Paris, 28 May-1 Aug 2026 (SNIPPET) [https://en.wikipedia.org/wiki/Eddie_Martinez_(artist)] [https://maxhetzler.com/exhibitions/eddie-martinez-purple-flopper-2026]
-- **Gallery:** Not settled. Galerie Max Hetzler leads the 2026 programme and is the only gallery Ocula lists (SNIPPET, https://ocula.com/artists/eddie-martinez/); Timothy Taylor has an artist page and showed him at Art Basel Miami Beach 2025 (SNIPPET, https://www.timothytaylor.com/artists/eddie-martinez/); Mitchell-Innes & Nash still has a page, status unknown (SNIPPET, https://www.miandn.com/artists/eddie-martinez)
-- **Mail to:** Eddie Martinez, c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA
-- **Address status:** UNVERIFIED: check by hand. Search summary; confirm. Route: Print studio that publishes his editions. Confidence it reaches the artist: Medium.
-- **Work:** Oceanic, 2020, oil, acrylic and spray paint on canvas, 72 x 108 in.; Carnegie Museum of Art, accession 2021.9 (SNIPPET) [https://collection.carnegieart.org/objects/5fc5d48f-2714-40e1-b2c0-b40d69471f64]
-- **Visual detail:** Used in the letter: the three kinds of paint and the six by nine foot size, nothing else (SNIPPET) [https://collection.carnegieart.org/objects/5fc5d48f-2714-40e1-b2c0-b40d69471f64] CHECK: the notes hold no visual description of any Martinez work, and this record was never opened. Open the Carnegie page, confirm title, year, medium and size, and add one thing you see in the image.
-- **Second work:** Book: "Eddie Martinez: 20 Years of Painting", Phaidon, due November 2026 (SNIPPET) [https://www.maxhetzler.com/news/2026-07-20-eddie-martinez-eddie-martinez-20-years-painting-publication-published-phaidon-2026]
-- **See before mailing:** no: met in reproduction (Carnegie Museum of Art website)
-- **Door opened in the letter:** studio
-- **Flags:** (1) Lead gallery is unsettled between Timothy Taylor and Max Hetzler; Hetzler looks like the more active one in 2026. (2) The notes contradict themselves on Timothy Taylor's New York space: the group file gives 74 Leonard Street, New York, NY 10013 from a dealers' directory (SNIPPET), while the gallery's own contact page no longer prints a New York address (OPENED). Routing kept to London as decided. (3) He lives and works in Brooklyn (SNIPPET, Max Hetzler page), so a London envelope is a long way round. (4) Every Martinez fact except the Wikipedia lead and the London address is SNIPPET. (5) The Phaidon book was "due November 2026": confirm it exists before mailing or cut that sentence. (6) Notes too thin for a visual observation: the letter is honest but rests on medium and size only.
-
 #### Stanley Whitney
 
 - **Alive:** Wikipedia: born November 11, 1946, no death date, "Living people", edited 27 July 2026 (OPENED); "Isn't Love the Strangest Thing", Gagosian Hong Kong, 10 Sept-7 Nov 2026 (SNIPPET) [https://en.wikipedia.org/wiki/Stanley_Whitney] [https://gagosian.com/media/gallery/press-releases/2026/Whitney-Stanley-2026-Isnt-Love-the-Strangest-Thing-Gagosian-Hong-Kong-2026-07-24.pdf]
@@ -149,6 +137,19 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **See before mailing:** no: met in reproduction (gallery website). No New York museum work was found.
 - **Door opened in the letter:** studio
 - **Flags:** (1) David Zwirner's London and New York location pages both state "we do not accept unsolicited materials" (OPENED). That line is aimed at artist submissions; a fan letter may or may not be forwarded. (2) She lives in Kent; London is the natural route. (3) No evidence of activity after May 2026 was found. Check for news before mailing. (4) The letter says the book is "next on my list". If you have not read it by mailing day that is still true; if you have, say so instead.
+
+#### Katharina Grosse
+
+- **Alive:** Wikipedia lead reads "(born 2 October 1961)", no death date, fetched 16 Nov 2026 (OPENED); "Black Bed", MUNCH, Oslo, open to 3 Jan 2027 on gallery pages (OPENED) [https://en.wikipedia.org/wiki/Katharina_Grosse] [https://www.whitecube.com/artists/katharina-grosse]
+- **Gallery:** Jointly represented by White Cube, Gagosian, Galerie Max Hetzler and Galerie nächst St. Stephan (White Cube announcement of 13 Nov 2025, OPENED); no page names a lead; her Gagosian page could not be opened [https://www.whitecube.com/news/katharina-grosse-joins-white-cube] [https://www.maxhetzler.com/artists/katharina-grosse]
+- **Mail to:** Katharina Grosse, c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria
+- **Address status:** UNVERIFIED: check by hand. Search summary; confirm. Route: Single-location gallery that has shown her for years. Confidence it reaches the artist: Low-medium.
+- **Work:** CHOIR, 2025, site commission on the Messeplatz for Art Basel, June 2025; medium and size not found; known from White Cube's news page (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube]
+- **Visual detail:** "sweeping strokes of magenta that flowed across the ground, clock tower, fountain and fair logo" (gallery-written description, OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube] CHECK: the notes do not say the page shows a photograph; the letter says only that he met the work on White Cube's website.
+- **Second work:** Book: Katharina Grosse: Spectrum Without Traces, Galerie Max Hetzler Berlin | Paris | London | Marfa, 2024, distributed by Holzwarth Publications, texts by Jurriaan Benschop and Ulrich Loock, EUR 50 (OPENED) [https://www.maxhetzler.com/artists/katharina-grosse]. Also Rockaway (2016), a painted derelict military building on the Rockaway peninsula, Queens (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube]
+- **See before mailing:** no: met in reproduction (gallery website)
+- **Door opened in the letter:** print or small piece
+- **Flags:** (1) She lives and works in Berlin and New Zealand (OPENED) [https://www.whitecube.com/artists/katharina-grosse]; nothing says White Cube's New York branch handles her mail. (2) The routing calls Gagosian her lead; the notes say no page names a lead, and Gagosian's listing and address (555 West 24th Street, NY 10011) are SNIPPET only. (3) No painting of hers was confirmed in a New York museum. (4) The letter uses his own remark that a lot of architecture is boring. (5) "A fairground in Basel": the notes say Art Basel's Messeplatz; confirm the city on the page.
 
 
 ### Week 2
@@ -341,18 +342,18 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** studio
 - **Flags:** (1) The visual detail is the Whitney's image description; check the image. (2) The Toledo ownership line is SNIPPET from a listing page. (3) "Almost eleven feet tall" is from the height of 130 in; "sixty years" counts from 1966 to 2026, so change it if the letter is mailed in 2027.
 
-#### David Salle
+#### Aboudia
 
-- **Alive:** Wikipedia lead reads "David Salle (born September 28, 1952 ...) is an American Postmodern painter", no death date, fetched 16 Nov 2026 (OPENED) [https://en.wikipedia.org/wiki/David_Salle]; solo "My Frankenstein", Sprüth Magers Los Angeles, 24 Feb to 25 Apr 2026 (OPENED) [https://spruethmagers.com/artists/david-salle/]
-- **Gallery:** Gladstone Gallery reported as lead gallery since April 2023 (SNIPPET; Gladstone's site could not be opened, so this is NOT verified); listed today by Skarstedt (OPENED) [https://www.skarstedt.com/artists] and Sprüth Magers (OPENED) [https://spruethmagers.com/artists/]; Thaddaeus Ropac named as representing him (OPENED) [https://www.theartnewspaper.com/2026/02/04/thaddaeus-ropac-expands-to-new-york-emilio-steinberger]; Lehmann Maupin (SNIPPET)
-- **Mail to:** David Salle, c/o Lehmann Maupin, 501 West 24th Street, New York, NY 10011, USA
-- **Address status:** UNVERIFIED: check by hand. Search summary; check davidsallestudio.net for a studio contact first. Route: Gallery fallback. Confidence it reaches the artist: Low.
-- **Work:** Splinter Man, 1982, oil and acrylic on canvas, two parts, overall 98 1/16 x 195 13/16 in (249.1 x 497.4 cm); Whitney Museum of American Art, accession 82.12a-b, not on view (OPENED) [https://whitney.org/collection/works/5460]
-- **Visual detail:** "Diptych showing black-and-white exploding figure on the left and two nude figures embracing in a red mirror on the right." (OPENED, image alt text on the Whitney page) [https://whitney.org/collection/works/5460] CHECK: alt text, may be machine-written; look at the image before mailing and confirm the two halves and the red mirror.
-- **Second work:** none
-- **See before mailing:** no: met in reproduction (Whitney website; not on view)
-- **Door opened in the letter:** print or small piece
-- **Flags:** (1) Gladstone, his reported lead gallery (515 West 24th Street, SNIPPET), could not be verified on its own site; Skarstedt lists him today but its exhibition list for him ends with a spring 2023 group show, so forwarding may be slow. Sprüth Magers, 22 East 80th Street, 2nd Floor, New York, NY 10075 (OPENED) [https://spruethmagers.com/locations/] gave him a 2026 solo and is a verified second route. (2) Residence conflict: East Hampton (Wikipedia) vs New York (Sprüth Magers); not used. (3) No documented personal link to Basquiat was found; the letter does not mention him. (4) "Sixteen feet wide" is from 195 13/16 in. (5) The visual detail is alt text; check the image.
+- **Alive:** Wikipedia infobox reads "Born Abdoulaye Diarrassouba, October 21, 1983 (age 43)", no death date, category "Living people", page last edited 15 August 2026; "an Ivorian contemporary artist based in Brooklyn, New York, and who works from his studios in Abidjan and New York City" (OPENED) [https://en.wikipedia.org/wiki/Aboudia]. Latest report of him in person: AllAfrica, 1 December 2025, "Le peintre ivoirien Aboudia de retour à Abidjan pour une nouvelle exposition" (SNIPPET) [https://fr.allafrica.com/stories/202512010311.html]. Dated 2026 activity: his work is in "(Dé)colonisations: African Artists Question History", Mémorial de Caen, 20 May-11 November 2026, on loan from the Fondation Gandur pour l'Art (SNIPPET) [https://www.fg-art.org/en/exhibition-loans/decolonisations-african-artists-question-history]. That is a loan show, not proof he was present; nothing from 2026 in his own voice was found.
+- **Gallery:** Galerie Cécile Fakhoury, Abidjan, Dakar and Paris (SNIPPET, https://cecilefakhoury.com/en/artists/25-aboudia/exhibitions); Ethan Cohen Gallery, New York and Beacon (SNIPPET, https://www.ecfa.com/artists/41-aboudia/exhibitions). Neither is a mega-gallery. He has also sold directly through auction houses (SNIPPET, https://news.artnet.com/market/aboudia-art-market-analysis-2134548).
+- **Mail to:** Aboudia, c/o Ethan Cohen Gallery, 251 West 19th Street, New York, NY 10011, USA
+- **Address status:** UNVERIFIED: check by hand. Search summary; The gallery has two Manhattan addresses in the snippets: 251 West 19th Street, NY 10011 (its listing, tel 212-625-1250, ecfa@ecfa.com) and 225 West 17. Route: Small New York gallery that has worked with him for about a decade (seven solo shows by its own count) and. Confidence it reaches the artist: Low-medium.
+- **Work:** We the Children, 2024, mixed media on canvas, 84 x 122 in.; shown in "Aboudia Studio New York", Ethan Cohen Gallery, 225 West 17th Street, 10-25 May 2024; current location not found (SNIPPET: the gallery's press release as reprinted) [https://martincid.com/?p=1656872] [https://www.ecfa.com/exhibitions/122-aboudia-studio-new-york-new-york-ny-225-west-17th-street/]
+- **Visual detail:** Used in the letter: title, year, size (seven feet by ten feet), and that the show "inaugurates the gallery's relocation to Chelsea, which has served as Aboudia's New York studio in recent months" (SNIPPET, martincid link above). CHECK: no description of this painting's figures or colors was found. The release says only, of the recent paintings in general, that they place street children in dreamlike landscapes full of cultural references and contemporary symbols (SNIPPET, same link); that was not used. Open the gallery's page for the show, look at the picture, and add one thing you see. Also confirm the title and size there, since they come from a third-party reprint.
+- **Second work:** X-Ray Tag, 2024, mixed media on canvas, 84 x 122 in., same show (SNIPPET, same link); no description found.
+- **See before mailing:** no: met in reproduction (the 2024 show is over; no current New York showing found)
+- **Door opened in the letter:** studio
+- **Flags:** (1) Address unverified, two candidates. (2) No work-specific description: see CHECK. (3) Salutation is "Dear Aboudia," because he works under one name. (4) No Basquiat comparison is made; Wikipedia notes that others make it (OPENED), so keep it out if you edit. (5) The letter's line about the room on West 17th Street rests on a reprinted press release. (6) He divides his time between New York and Abidjan (AllAfrica, Dec 2025), so a letter to New York may wait.
 
 
 ### Week 5
@@ -451,19 +452,6 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** studio
 - **Flags:** (1) Do not mail before the station visit: see SEE_BEFORE_MAILING. (2) The title "Around the Way" is not on Wikipedia; it comes from a search summary of the MTA page, so read it off the station signage or the MTA page. (3) Gagosian's address is unconfirmed. (4) "Dear Mr. Adams" rests on Wikipedia's "his".
 
-#### Angel Otero
-
-- **Alive:** Born 1981, no death date, "Living people" (OPENED); Vito Schnabel Gallery news items dated 6 May 2026 and 8 July 2026 (OPENED) [https://en.wikipedia.org/wiki/Angel_Otero] [https://www.vitoschnabel.com/artists/angel-otero/news]
-- **Gallery:** Hauser & Wirth, reported lead (SNIPPET; site blocked) [https://hauserwirth.com/news/36360-angel-otero-joins-hauser-wirth]; Vito Schnabel Gallery lists him on its current artist list (OPENED) [https://www.vitoschnabel.com/artists]; Lehmann Maupin and Kavi Gupta status UNVERIFIED
-- **Mail to:** HOLD: NO UNIQUE ROUTE FOUND (only Vito Schnabel Gallery, already used for Julian Schnabel, and Hauser & Wirth)
-- **Address status:** UNVERIFIED: check by hand. Hold, or accept a shared address. Route: None. Confidence it reaches the artist: Not postable yet.
-- **Work:** "Constellation", 2024, oil paint and fabric collaged on canvas, 95 1/4 x 95 1/8 in (241.9 x 241.6 cm); Whitney Museum of American Art, accession 2025.59, not on view (OPENED) [https://whitney.org/collection/works/69410]
-- **Visual detail:** "A floral couch suspended on a metal swing frame above churning blue waves, with colorful hanging ornaments." (OPENED) [https://whitney.org/collection/works?q%5Bsearch_cont%5D=Angel+Otero] CHECK: this is the Whitney's image description and may be machine-written. Confirm the couch, the swing frame, the waves and the hanging ornaments on the image before mailing.
-- **Second work:** "The Sea", 2023, same medium, 95 1/2 x 143 1/8 in, "a piano in a bathtub flooded in water"; on the gallery's page, location not stated (OPENED) [https://www.vitoschnabel.com/artists/angel-otero]
-- **See before mailing:** no: met in reproduction (Whitney website)
-- **Door opened in the letter:** studio
-- **Flags:** (1) His lead gallery is reported to be Hauser & Wirth, 542 West 22nd Street, New York, NY 10011 (SNIPPET, unverified); this letter goes to Vito Schnabel Gallery by decision, to avoid a clash, and that gallery's last Otero exhibition ended in March 2025, so forwarding is less certain. (2) Residence conflict in the notes (Brooklyn and Upstate New York per Wikipedia; New York and Puerto Rico per Vito Schnabel); the letter names no place. (3) "Dear Mr. Otero" rests on the gallery's "his".
-
 #### Henry Taylor
 
 - **Alive:** "Henry Taylor (born 1958) is an American artist and painter who lives and works in Los Angeles, California", no death date, last edited 7 Nov 2026 (OPENED); Whitney artist page gives "1958-" (OPENED) [https://en.wikipedia.org/wiki/Henry_Taylor_(artist)] [https://whitney.org/artists/14238]
@@ -490,21 +478,34 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** print or small piece
 - **Flags:** (1) Thin notes: no visual detail for the chosen work, so the letter cannot be mailed as drafted. Go to MoMA, fill in the bracketed line, and check the two sentences about the enamel and oil and about the lack of a title against what you see. (2) If the painting is no longer on view, the letter must be rewritten from a reproduction. (3) Skarstedt deals heavily in the secondary market and may not be his primary representation, so forwarding is uncertain; his lead galleries are Max Hetzler (no New York space) and, unverified, Gagosian. (4) He lives in Switzerland and Spain. (5) "Dear Mr. Oehlen" rests on Wikipedia's "He".
 
+#### Trenton Doyle Hancock
+
+- **Alive:** Wikipedia infobox reads "Born 1974 (age 51-52), Oklahoma City, Oklahoma", no death date, category "Living people", page last edited 6 September 2026 (OPENED) [https://en.wikipedia.org/wiki/Trenton_Doyle_Hancock]. Exact birth date: not found. Lives and works in Houston, TX (SNIPPET, undated James Cohan CV) [https://jamescohan.com/attachment/en/599f12405a4091c6048b4568/TextOneColumnWithFile/599f124a5a4091c6048b499c]. Latest dated activity: "Draw Them In, Paint Them Out: Trenton Doyle Hancock Confronts Philip Guston", Skirball Cultural Center, Los Angeles, 16 October-31 December 2025, with new collage paintings (SNIPPET) [https://www.artrabbit.com/people/trenton-doyle-hancock/artist]; reviewed by Artforum in a page the search dated April 2026 (SNIPPET) [https://www.artforum.com/events/draw-them-in-paint-them-out-skirball-review-1234746388/]. No 2026 show, edition or statement of his own was found.
+- **Gallery:** James Cohan, New York (long-term; already used in this campaign for Firelei Báez); Hales Gallery, London and New York (shows and fairs through 2022; SNIPPET, https://halesgallery.com/news/763-trenton-doyle-hancock-and-ebony-g.-patterson/); Braverman Gallery, Tel Aviv, lists him (SNIPPET, https://bravermangallery.com/artists/trenton-doyle-hancock/); Dolan/Maxwell, Philadelphia, has an artist page (SNIPPET, https://dolanmaxwell.com/artists/75-trenton-doyle-hancock/exhibitions). None is a mega-gallery. Current 2026 roster of any of them: not confirmed.
+- **Mail to:** Trenton Doyle Hancock, c/o Hales Gallery, 547 West 20th Street, New York, NY 10011, USA
+- **Address status:** UNVERIFIED: check by hand. Search summary; Confirm on https://halesgallery.com/ that he is still on the artist list in 2026 and that the New York space is still at 547 West 20th Street (tel +1 . Route: Fallback: the smaller of his two New York galleries with a street address I could find; no studio contact,. Confidence it reaches the artist: Low-medium.
+- **Work:** Rememor with Membry, 2001, acrylic on collaged canvas, 59 7/8 x 72 1/4 in. (152.1 x 183.5 cm); Whitney Museum of American Art, accession 2001.229, purchase with funds from the Contemporary Painting and Sculpture Committee; not on view (OPENED) [https://whitney.org/collection/works/13870]
+- **Visual detail:** Whitney curatorial text: the painting "depicts the forest from The Legend's perspective after the vegans have punctured The Legend with holes. Looking up into the trees, The Legend sees the branches, sky, and forest floor interlaced with the words 'rememor with membry.' This invented phrase appears to mix together the words 'remember' with 'memory'" (OPENED) [https://whitney.org/collection/works/13870]. Curator's text, safe to use. The page's alt text adds a black-and-white pattern of gnarled trees filled with letters; not used.
+- **Second work:** Choir, 2003, acrylic, piled and felted fabric, and graphite pencil on cut canvas, 97 5/8 x 137 7/8 in. (248 x 350.2 cm); Whitney, accession 2003.194; not on view (OPENED) [https://whitney.org/collection/works/19339]. This is the big colorful one (over eight feet by eleven), but its only description is alt text: "Among a cluttered expanse of yellow, red, green, blue, and orange flowers, a number of black and white, horizontal stripe mounds protrude, some with big round cartoonish heads and zany expressions." If you look and that is what you see, it would suit your taste better than the black-and-white forest. Also at the Whitney: the Bye and Bye portfolio, 2002, nine etchings printed by Flatbed Press (OPENED, https://whitney.org/collection/works/19676), which the letter mentions.
+- **See before mailing:** no: met in reproduction (Whitney website; all 28 of his works there are marked not on view)
+- **Door opened in the letter:** print or small piece
+- **Flags:** (1) Route is a fallback and unverified; check mindofthemound.com for a studio contact first. (2) No 2026 activity of his own found; living status rests on Wikipedia (edited 6 Sept 2026) and the show that closed 31 Dec 2025. (3) The chosen painting is black and white by the alt text; see WORK_2 if you want the colorful one. (4) "Dear Mr. Hancock" follows "he/his" in the Whitney and Wikipedia texts (OPENED). (5) "The Legend" in the letter is the name of his character, taken from the Whitney text, not praise. (6) The letter's "nine etchings" comes from the portfolio's own title page as transcribed in alt text, backed by the Phillips lot title (SNIPPET).
+
 
 ### Week 7
 
-#### Julie Mehretu
+#### Eddie Martinez
 
-- **Alive:** Wikipedia lead reads "(born November 28, 1970)" with no death date, fetched 16 Nov 2026 (OPENED); gallery page lists a solo show 14 April-6 June 2026 (OPENED) [https://en.wikipedia.org/wiki/Julie_Mehretu] [https://www.mariangoodman.com/artists/51-julie-mehretu/]
-- **Gallery:** Marian Goodman Gallery (New York; OPENED https://www.mariangoodman.com/artists/); also White Cube (OPENED https://www.whitecube.com/artists/julie-mehretu); carlier | gebauer unverified. Neither page says which leads.
-- **Mail to:** Julie Mehretu, c/o Denniston Hill, P.O. Box 728, Glen Wild, NY 12738, USA
-- **Address status:** UNVERIFIED: check by hand. Search summary; confirm she is still involved. Route: Residency she co-founded. Confidence it reaches the artist: Medium.
-- **Work:** "Of other Planes of There (S.R.)", 2018-2019, ink and acrylic on canvas, 108 3/16 x 120 x 2 1/8 in. (274.8 x 304.8 x 5.4 cm); Whitney Museum of American Art, accession 2021.12, not on view on 16 Nov 2026 (OPENED) [https://whitney.org/collection/works/63599]
-- **Visual detail:** Size (about nine feet by ten), medium (ink and acrylic), and the "two colossal figures that are about to fight", which is the artist's own remark in the Whitney audio transcript on the work page (OPENED) [https://whitney.org/collection/works/63599] CHECK: the Whitney image alt text ("layered black scribbles over soft pink, orange, and blue color fields") reads as machine-written and was NOT used. The letter says he played the audio and looked for the two figures; he must do that and edit the "one of them" line to match what he actually finds.
-- **Second work:** "Epigraph, Damascus", 2016, photogravure, etching and aquatint in six parts (a print), 97 5/8 x 226 in. overall; Whitney, accession 2017.159a-f, not on view (OPENED) [https://whitney.org/collection/works/55446]
-- **See before mailing:** no: met in reproduction (Whitney website and its audio clip; nothing by her confirmed on view in New York; MoMA status could not be checked)
+- **Alive:** Wikipedia lead reads "(born 1977) is a New York-based artist" with no death date (OPENED by coordinator); solo show "Purple Flopper", Galerie Max Hetzler, Paris, 28 May-1 Aug 2026 (SNIPPET) [https://en.wikipedia.org/wiki/Eddie_Martinez_(artist)] [https://maxhetzler.com/exhibitions/eddie-martinez-purple-flopper-2026]
+- **Gallery:** Not settled. Galerie Max Hetzler leads the 2026 programme and is the only gallery Ocula lists (SNIPPET, https://ocula.com/artists/eddie-martinez/); Timothy Taylor has an artist page and showed him at Art Basel Miami Beach 2025 (SNIPPET, https://www.timothytaylor.com/artists/eddie-martinez/); Mitchell-Innes & Nash still has a page, status unknown (SNIPPET, https://www.miandn.com/artists/eddie-martinez)
+- **Mail to:** Eddie Martinez, c/o Universal Limited Art Editions (ULAE), 1446 N. Clinton Avenue, Bay Shore, NY 11706, USA
+- **Address status:** UNVERIFIED: check by hand. Search summary; confirm. Route: Print studio that publishes his editions. Confidence it reaches the artist: Medium.
+- **Work:** Oceanic, 2020, oil, acrylic and spray paint on canvas, 72 x 108 in.; Carnegie Museum of Art, accession 2021.9 (SNIPPET) [https://collection.carnegieart.org/objects/5fc5d48f-2714-40e1-b2c0-b40d69471f64]
+- **Visual detail:** Used in the letter: the three kinds of paint and the six by nine foot size, nothing else (SNIPPET) [https://collection.carnegieart.org/objects/5fc5d48f-2714-40e1-b2c0-b40d69471f64] CHECK: the notes hold no visual description of any Martinez work, and this record was never opened. Open the Carnegie page, confirm title, year, medium and size, and add one thing you see in the image.
+- **Second work:** Book: "Eddie Martinez: 20 Years of Painting", Phaidon, due November 2026 (SNIPPET) [https://www.maxhetzler.com/news/2026-07-20-eddie-martinez-eddie-martinez-20-years-painting-publication-published-phaidon-2026]
+- **See before mailing:** no: met in reproduction (Carnegie Museum of Art website)
 - **Door opened in the letter:** studio
-- **Flags:** (1) The letter describes him playing the audio clip on the Whitney page and hunting for the two figures. He must do this first and adjust the sentence "I am fairly sure of one of them" to what is true for him. (2) The reference to the two figures paraphrases her own audio remark; it is used as his moment with the work, not quoted. Cut the first two sentences' figure reference if he would rather not lean on it. (3) No visual description beyond size and medium is safe from the notes.
+- **Flags:** (1) Lead gallery is unsettled between Timothy Taylor and Max Hetzler; Hetzler looks like the more active one in 2026. (2) The notes contradict themselves on Timothy Taylor's New York space: the group file gives 74 Leonard Street, New York, NY 10013 from a dealers' directory (SNIPPET), while the gallery's own contact page no longer prints a New York address (OPENED). Routing kept to London as decided. (3) He lives and works in Brooklyn (SNIPPET, Max Hetzler page), so a London envelope is a long way round. (4) Every Martinez fact except the Wikipedia lead and the London address is SNIPPET. (5) The Phaidon book was "due November 2026": confirm it exists before mailing or cut that sentence. (6) Notes too thin for a visual observation: the letter is honest but rests on medium and size only.
 
 #### Kenny Scharf
 
@@ -561,19 +562,6 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 
 ### Week 8
 
-#### Rashid Johnson
-
-- **Alive:** Wikipedia: "Rashid Johnson (born 1977) is an American artist", no death date, in "Living people" (OPENED); Whitney artist page gives "1977-" (OPENED) [https://en.wikipedia.org/wiki/Rashid_Johnson] [https://whitney.org/artists/8851]
-- **Gallery:** Hauser & Wirth (OPENED indirectly: the Whitney rights line reads "courtesy the artist and Hauser & Wirth, New York", https://whitney.org/collection/works/62484; the gallery's own site was blocked); David Kordansky Gallery unverified
-- **Mail to:** Rashid Johnson, c/o David Kordansky Gallery, 520 West 20th Street, New York, NY 10011, USA
-- **Address status:** UNVERIFIED: check by hand. Search summary; Performa, whose board he chairs, may be better if its address is confirmed. Route: Gallery fallback. Confidence it reaches the artist: Low-medium.
-- **Work:** "New Poetry", 2023, installation: 8mm film (color, silent, 4:42 min., transferred to video) with two monitors, steel, lights, plants, ceramics, books, and shea butter, overall 190 x 359 1/2 x 65 in. (482.6 x 913.1 x 165.1 cm); Whitney Museum of American Art, accession 2024.31, ON VIEW in the Restaurant, Floor 1, on 16 Nov 2026 (OPENED) [https://whitney.org/collection/works/67631]
-- **Visual detail:** Steel shelving about thirty feet long holding plants, books, ceramics and shea butter, two monitors with a silent film under five minutes, located in the museum restaurant (medium line, dimensions and location, OPENED) [https://whitney.org/collection/works/67631] CHECK: the alt text ("Tall metal shelving filled with potted plants forms a decorative partition inside a glass-walled lobby") reads as machine-written; "shelving" is taken from it and must be confirmed by eye, along with the line about people eating beside the piece.
-- **Second work:** "Untitled Broken Crowd", 2021, ceramic tile, mirror tile, oyster shell, spray enamel, oil stick, black soap, and wax, 73 1/4 x 94 7/8 x 3 1/2 in.; Whitney, accession 2023.7, classed as a painting, not on view (OPENED) [https://whitney.org/collection/works/66032]
-- **See before mailing:** yes: Whitney Museum of American Art, Floor 1, Restaurant. No end date is given in the notes; confirm it is still installed on the day, watch the film through (4:42), and correct any detail in the letter that does not match what he sees.
-- **Door opened in the letter:** print or small piece
-- **Flags:** (1) The letter says he went to the Whitney and saw the piece and stayed for the film. Do not mail until he has. (2) "New Poetry" is an installation, not a painting; the painting alternative, "Untitled Broken Crowd", is not on view. (3) Address unverified. (4) "Lives and works in New York" is SNIPPET only; the door used is the print, so nothing in the letter depends on it.
-
 #### Joan Snyder
 
 - **Alive:** Wikipedia: born April 16, 1940, no death date, "Living people", last edited 7 Nov 2026; "a 2026 elected member of the American Academy of Arts & Letters" (OPENED) [https://en.wikipedia.org/wiki/Joan_Snyder]
@@ -626,6 +614,19 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** studio
 - **Flags:** (1) GALLERY UNSETTLED: reports (SNIPPET, unopened) say he left Hauser & Wirth in Nov 2025 for Sprüth Magers and Skarstedt and was back with Hauser & Wirth by July 2026; both Sprüth Magers and Hauser & Wirth were selling his work in autumn 2026. Sprüth Magers is the only one confirmed on its own pages with a future show, so the routing stands, but check for news the week he mails. Verified fallback: Skarstedt, 20 East 79th Street, New York, NY 10075 (OPENED https://www.skarstedt.com/galleries). (2) The letter mentions Basquiat once, in passing; the notes document that the two met in 1979 and were close friends by 1984 (OPENED, Wikipedia). Cut the clause "by way of reading about Jean-Michel Basquiat and his friends" if he prefers no mention. (3) The "four parts" reading needs the check above; if the page does not bear it out, the opening and the third sentence must be rewritten.
 
+#### André Butzer
+
+- **Alive:** Wikipedia lead "André Butzer (born 7 June 1973 in Stuttgart) is a German artist", no death date, "Butzer lives in Berlin-Wannsee", page edited 9 Oct 2026 (OPENED) [https://en.wikipedia.org/wiki/Andr%C3%A9_Butzer]. Other summaries place him in Rangsdorf near Berlin or, earlier, Altadena, California (SNIPPET); Skarstedt's biography says he was in California 2018-2021 (OPENED) [https://www.skarstedt.com/artists/andre-butzer/biography]. 2026 activity: solo show of new paintings, Galerie Max Hetzler, Berlin, 13 Feb to 18 April 2026 (SNIPPET) [https://www.maxhetzler.com/exhibitions/andre-butzer-2026]; show at Galerie Christine Mayer, Munich, 16 May to 20 June 2026 (SNIPPET) [https://www.contemporaryartlibrary.org/artist/andre-butzer-10566]
+- **Gallery:** Galerie Max Hetzler (current mega-gallery, excluded) (SNIPPET, above); Skarstedt, New York, first solo show Feb 2025 (OPENED, address already in use for George Condo) [https://www.skarstedt.com/exhibitions/andre-butzer/press-release]; Galerie Christine Mayer, Munich; Galerie Bernd Kugler, Innsbruck; Galerie Guido W. Baudach, Berlin (Wikipedia exhibition list OPENED; 2026 listings SNIPPET)
+- **Mail to:** André Butzer, c/o Galerie Christine Mayer, Liebigstraße 39, 80538 München, Germany
+- **Address status:** UNVERIFIED: check by hand. Search summary; Confirm the street address on the gallery's own website (not opened; the address comes from gallery flyers dated 2023 and earlier, with tel +49 (0)89 . Route: Small single-location gallery that has shown him for years (solo shows 2014, 2016, 2019 in Wikipedia's list,. Confidence it reaches the artist: Medium.
+- **Work:** Wir gehen zu McDonald's [We're going to McDonald's], 2024, oil, acrylic and lacquer on canvas, 102 3/8 x 70 7/8 in (260 x 180 cm); shown in "André Butzer", Skarstedt Chelsea, New York, 13 Feb to 26 April 2025 (closed) (OPENED) [https://www.skarstedt.com/exhibitions/andre-butzer]
+- **Visual detail:** The same show listed a companion, Wir gehen nicht zu McDonald's [We're not going to McDonald's], 2024, 98 7/16 x 70 7/8 in (250 x 180 cm) (OPENED, same page). Gallery press release on the ten paintings as a group: "huge, solitary figures, as austere as ludicrous"; "towering, composite bodies"; "the pervasive verticality of the canvases" (OPENED) [https://www.skarstedt.com/exhibitions/andre-butzer/press-release]. CHECK: the "single tall figure" is the release's description of the whole group, not of this canvas, and no colors are sourced. Look at the image on the Skarstedt page and confirm one standing figure before mailing; the letter names no colors.
+- **Second work:** none
+- **See before mailing:** no: met in reproduction (the New York show closed 26 April 2025)
+- **Door opened in the letter:** print or small piece
+- **Flags:** (1) Address rests on flyers from 2023 or earlier; confirm on the gallery's site. (2) Where he lives is inconsistent across sources (Berlin-Wannsee per Wikipedia); the letter names no city. (3) The figure detail is group-level; confirm on the image. (4) Toledo Museum holding: not checked.
+
 
 ### Week 9
 
@@ -641,32 +642,6 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **See before mailing:** no: met in reproduction (Whitney website)
 - **Door opened in the letter:** print or small piece
 - **Flags:** (1) No verified address; the envelope cannot be written until the Cristea Roberts or Templon contact page is read by hand, and overseas postage is needed. (2) Alive evidence is the weakest kind: no death date on Wikipedia, nothing positive from 2026 on an opened page. (3) The Ohio facts in the letter (born in Cincinnati; BFA Ohio University, 1957) are SNIPPET from the Toledo notes [https://en.wikipedia.org/wiki/Jim_Dine] [https://www.annexgalleries.com/artists/biography/590]; birth in Cincinnati is also OPENED in the group notes. (4) The Toledo Museum of Art owns his print "Vermont (The Autumn)" (SNIPPET) [https://emuseum.toledomuseum.org/objects/images?filter=collections%3AWorks+on+Paper&page=10]; not used in the letter. (5) The letter says he usually goes for paintings that are "big, colorful and bold", his own words about Basquiat, used without the name.
-
-#### Katharina Grosse
-
-- **Alive:** Wikipedia lead reads "(born 2 October 1961)", no death date, fetched 16 Nov 2026 (OPENED); "Black Bed", MUNCH, Oslo, open to 3 Jan 2027 on gallery pages (OPENED) [https://en.wikipedia.org/wiki/Katharina_Grosse] [https://www.whitecube.com/artists/katharina-grosse]
-- **Gallery:** Jointly represented by White Cube, Gagosian, Galerie Max Hetzler and Galerie nächst St. Stephan (White Cube announcement of 13 Nov 2025, OPENED); no page names a lead; her Gagosian page could not be opened [https://www.whitecube.com/news/katharina-grosse-joins-white-cube] [https://www.maxhetzler.com/artists/katharina-grosse]
-- **Mail to:** Katharina Grosse, c/o Galerie nächst St. Stephan Rosemarie Schwarzwälder, Grünangergasse 1, 1010 Wien, Austria
-- **Address status:** UNVERIFIED: check by hand. Search summary; confirm. Route: Single-location gallery that has shown her for years. Confidence it reaches the artist: Low-medium.
-- **Work:** CHOIR, 2025, site commission on the Messeplatz for Art Basel, June 2025; medium and size not found; known from White Cube's news page (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube]
-- **Visual detail:** "sweeping strokes of magenta that flowed across the ground, clock tower, fountain and fair logo" (gallery-written description, OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube] CHECK: the notes do not say the page shows a photograph; the letter says only that he met the work on White Cube's website.
-- **Second work:** Book: Katharina Grosse: Spectrum Without Traces, Galerie Max Hetzler Berlin | Paris | London | Marfa, 2024, distributed by Holzwarth Publications, texts by Jurriaan Benschop and Ulrich Loock, EUR 50 (OPENED) [https://www.maxhetzler.com/artists/katharina-grosse]. Also Rockaway (2016), a painted derelict military building on the Rockaway peninsula, Queens (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube]
-- **See before mailing:** no: met in reproduction (gallery website)
-- **Door opened in the letter:** print or small piece
-- **Flags:** (1) She lives and works in Berlin and New Zealand (OPENED) [https://www.whitecube.com/artists/katharina-grosse]; nothing says White Cube's New York branch handles her mail. (2) The routing calls Gagosian her lead; the notes say no page names a lead, and Gagosian's listing and address (555 West 24th Street, NY 10011) are SNIPPET only. (3) No painting of hers was confirmed in a New York museum. (4) The letter uses his own remark that a lot of architecture is boring. (5) "A fairground in Basel": the notes say Art Basel's Messeplatz; confirm the city on the page.
-
-#### Francesco Clemente
-
-- **Alive:** Wikipedia lead reads "(born 23 March 1952)", no death date, fetched 16 Nov 2026 (OPENED); shown by Vito Schnabel Gallery at Frieze Masters, 14-18 Oct 2026 (OPENED) [https://en.wikipedia.org/wiki/Francesco_Clemente] [https://www.vitoschnabel.com/artists/francesco-clemente/exhibitions]
-- **Gallery:** Vito Schnabel Gallery (on its artist index, seven years of representation, OPENED); Lévy Gorvy Dayan and Maruani Mercier are SNIPPET; Gagosian historic and not openable [https://www.vitoschnabel.com/artists] [https://www.vitoschnabel.com/exhibitions/francesco-clemente-travel-diary]
-- **Mail to:** Francesco Clemente, c/o LeRoy Neiman Center for Print Studies, Columbia University, 310 Dodge Hall, MC 1806, 2960 Broadway, New York, NY 10027, USA
-- **Address status:** UNVERIFIED: check by hand. Search summary; a one-off link, may not forward. Route: Print studio that published his 2024 etching. Confidence it reaches the artist: Low.
-- **Work:** Dormiveglia VI, 1998, oil on canvas, about 325.8 x 162.9 cm; The Metropolitan Museum of Art, not on view (SNIPPET, Met page not opened) [https://www.metmuseum.org/art/collection/search/891366]
-- **Visual detail:** Tall narrow canvas, more than ten feet by about half that (SNIPPET sizes) [https://www.metmuseum.org/art/collection/search/891366]; the gallery says the 1998 Dormiveglia canvases are "towering canvases ... reminiscent of tarot cards", and that the title is an Italian expression for "the state of consciousness that lies between sleep and awakening" (OPENED) [https://www.vitoschnabel.com/exhibitions/francesco-clemente-travel-diary] CHECK: the gallery text describes the series, not number VI in particular, and the Met record is SNIPPET. Confirm title, number, size and "not on view" on the Met page. The letter does not describe the figures.
-- **Second work:** Perseverance, 1981, oil on canvas, 198.1 x 236.2 cm, MoMA, not on view (SNIPPET) [https://www.moma.org/collection/works/84178]. Book: Francesco Clemente: Vito Schnabel Gallery Exhibitions 2019-2026, 2026 (OPENED) [https://www.vitoschnabel.com/publications]
-- **See before mailing:** no: met in reproduction (Met online record and gallery website)
-- **Door opened in the letter:** studio
-- **Flags:** (1) Basquiat is mentioned once, in a clause. The source is the gallery biography: after 1980 he was "painting with such artists as Andy Warhol and Jean-Michel Basquiat" (OPENED) [https://www.vitoschnabel.com/artists/francesco-clemente/biography]. (2) The letter says he learned of "Travel Diary" (Vito Schnabel Gallery, 28 Jan to 30 May 2026, OPENED [https://www.vitoschnabel.com/exhibitions/francesco-clemente-travel-diary]) only after it closed. Change that line if he saw the show. (3) The gallery's contact page says it "does not accept unsolicited artist submissions"; that is about submissions, not letters. (4) He lives and works in New York, Chennai and Varanasi (OPENED) [https://www.vitoschnabel.com/artists/francesco-clemente/biography].
 
 #### Dana Schutz
 
@@ -694,21 +669,34 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** print or small piece
 - **Flags:** (1) Living status rests on gallery pages only: no Wikipedia article, no dated 2026 solo activity, no death notice. Check the gallery page again before mailing. (2) No visual description of any painting is in the notes; the letter is about the materials line. (3) Salutation uses the full name because no title is established in the notes. (4) "Grandmother" in the letter is his reading of "Nana". (5) The line about his mom is his guess about her, not a fact; cut it if it does not sound like him.
 
+#### Mary Weatherford
+
+- **Alive:** Wikipedia infobox "Born 1963 (age 62-63), Ojai, California", no death date, "a Los Angeles-based painter" (OPENED) [https://en.wikipedia.org/wiki/Mary_Weatherford]. Exact birth date: not found. 2026 activity: "Persephone", new paintings, Gagosian Hong Kong, 24 March to 2 May 2026, her first solo show in Asia (SNIPPET) [https://gagosian.com/media/gallery/press-releases/2026/Weatherford-Mary-2026-Persephone-Gagosian-Hong-Kong-2026-02-26.pdf]; new lithograph "Drift", 2026, released by Cirrus (SNIPPET) [https://www.cirrusgallery.com/new-releases/new-release-mary-weatherford]
+- **Gallery:** Gagosian (current mega-gallery, excluded) (SNIPPET) [https://gagosian.com/artists/mary-weatherford/]; David Kordansky Gallery, Los Angeles (SNIPPET) [https://davidkordanskygallery.com/artist/mary-weatherford]. Kordansky's New York address is already in use for Rashid Johnson.
+- **Mail to:** Mary Weatherford, c/o Cirrus Gallery & Cirrus Editions Ltd., 2011 S. Santa Fe Avenue, Los Angeles, CA 90021, USA
+- **Address status:** UNVERIFIED: check by hand. Search summary; Read the street address, ZIP and hours on https://www.cirrusgallery.com/about (summary gives 2011 S. Santa Fe Ave, Los Angeles, CA 90021, tel 213-680-. Route: Print studio in her own city that has published and printed her lithographs since 2012 ("California", 2012,. Confidence it reaches the artist: Medium.
+- **Work:** Pier 'n' Ocean, 2017, Flashe and neon on linen, three parts, overall 117 x 105 x 4 in (297.2 x 266.7 x 10.2 cm); Whitney Museum of American Art, New York, accession 2018.152a-c; listed "Not on view" (OPENED) [https://whitney.org/collection/works/58161]
+- **Visual detail:** Whitney image description: "Large abstract blue painting with a glowing yellow neon tube mounted across and a power box below." (OPENED, same page) CHECK: this is the page's image alt text, possibly machine-written, and no curator text for this painting was found. Open the Whitney page, look at the image, and confirm the blue ground, the yellow neon and the visible power box before mailing. Title, year, size, medium and "three parts" are from the museum record and safe.
+- **Second work:** Drift, 2026, lithograph, 39 x 28 in, edition of 45, Cirrus Editions (SNIPPET) [https://www.cirrusgallery.com/new-releases/new-release-mary-weatherford]. Not used in the letter.
+- **See before mailing:** no: met in reproduction (the Whitney lists the painting as not on view; if that changes, go, and rewrite the second and last sentences)
+- **Door opened in the letter:** print or small piece
+- **Flags:** (1) The visual detail is alt text; confirm by eye. (2) Address ZIP is snippet level. (3) Toledo Museum holding: not checked. (4) Exact birth date not found; year only.
+
+#### Luis Cruz Azaceta
+
+- **Alive:** Wikipedia lead reads "(born April 5, 1942)", no death date, category "Living people", page last edited 10 October 2026; born Havana; "In 1992, he moved with his wife and two sons from New York to New Orleans where a warehouse studio provided him space" (OPENED) [https://en.wikipedia.org/wiki/Luis_Cruz_Azaceta]. Latest firmly dated activity found: solo show "In the Age of Anxiety", Arthur Roger Gallery, New Orleans, 2 August-13 September 2025 (SNIPPET) [https://arthurrogergallery.com/?p=44533]. Dated 2026 activity: not found. A solo show at Lyle O. Reitzel / Reitzel Contemporary Art, Santo Domingo, of works from 2008-2025 "curated by the artist and gallery owner together" turned up in a 2026 search, but the snippet carries no date (SNIPPET) [https://www.meer.com/en/97405-traveling-show-to-santo-domingo].
+- **Gallery:** Arthur Roger Gallery, New Orleans (SNIPPET, https://arthurrogergallery.com/artists/luis-cruz-azaceta/); George Adams Gallery, New York (seventeen shows; 2024 survey "Loose Screws: 1974-1989", 6 June-9 August 2024; SNIPPET, https://georgeadamsgallery.com/exhibitions/luis-cruz-azaceta3); Lyle O. Reitzel Gallery (SNIPPET, meer.com link above); Pan American Art Projects (SNIPPET, https://panamericanart.com/artists/172-luis-cruz-azaceta). None is a mega-gallery.
+- **Mail to:** Luis Cruz Azaceta, c/o Arthur Roger Gallery, 432 Julia Street, New Orleans, LA 70130, USA
+- **Address status:** UNVERIFIED: check by hand. Search summary; Confirm street number and ZIP on https://arthurrogergallery.com/ (footer or Contact page). One 2014 listing gave 434 Julia Street; the 2025 listing an. Route: Single-location gallery in the city where he lives and works, showing him since at least 2000 and as recently. Confidence it reaches the artist: Medium.
+- **Work:** The Actor, 1981, watercolor, colored pencil and pastel on paper, sheet (sight) 44 1/8 x 26 in. (112.1 x 66 cm); Whitney Museum of American Art, accession 2019.18, purchase with funds from the Drawing Committee and Greg S. Feldman; classified as a drawing; not on view (OPENED) [https://whitney.org/collection/works/60813]
+- **Visual detail:** Used in the letter: title, year, the three media, height (almost four feet), not on view (OPENED, same page). CHECK: no curator's or gallery's description of any Azaceta work was found. The only description is the Whitney's image alt text, which may be machine-written: "A colorful jester-like figure is tied with ropes and a large knife stuck in their back." It was NOT used. Look at the image and, if you see them, add the ropes and the knife in your own words; that would make the letter much stronger. The letter's phrases "the figure" and "held the same pose" rest on the title and that alt text only.
+- **Second work:** Gunman (Wikipedia spells it "Gun Man"), 1986, acrylic on canvas, 120 x 84 in.; location not found; no description found (OPENED as a Wikipedia image caption, https://en.wikipedia.org/wiki/Luis_Cruz_Azaceta; SNIPPET, George Adams Gallery, https://georgeadamsgallery.com/exhibitions/luis-cruz-azaceta). This is the big painting; it is not in the letter because nothing checkable describes it. The Whitney also holds two prints, The Crossing, 1991, lithograph, and The Rafter, 1994, screenprint (OPENED, https://whitney.org/collection/works/8865 and https://whitney.org/collection/works/9950).
+- **See before mailing:** no: met in reproduction (Whitney website; all three Whitney works are marked not on view)
+- **Door opened in the letter:** studio
+- **Flags:** (1) No dated 2026 activity found; living status rests on Wikipedia (edited 10 Oct 2026) and the August 2025 show. (2) No curator description of any work: read the CHECK note and look at the image before mailing. (3) Address unverified. (4) No Basquiat link was found in any source and none is claimed. (5) "Dear Mr. Azaceta" follows "he/his" in Wikipedia (OPENED); galleries also write "Cruz Azaceta", so check which surname form the Arthur Roger page uses. (6) The 1992 move and the warehouse studio come from a Wikipedia article flagged for promotional content and thin citations.
+
 
 ### Week 10
-
-#### Peter Doig
-
-- **Alive:** Wikipedia lead reads "(born 17 April 1959)", death field empty, fetched 16 Nov 2026 (OPENED); "House of Music", Serpentine, London, 10 Oct 2025 to 8 Feb 2026 (OPENED) [https://en.wikipedia.org/wiki/Peter_Doig]
-- **Gallery:** None. Left Michael Werner in February 2023; "is not represented by any gallery" (OPENED) [https://www.theartnewspaper.com/2023/02/15/peter-doig-leaves-international-dealer-michael-werner-after-23-years]. Collaborated with Gagosian on a 2024 show he curated; Gagosian "declined to comment" on selling his work (OPENED) [https://www.theartnewspaper.com/2024/09/10/larry-gagosian-and-peter-doig-join-forces-in-unique-collaboration]
-- **Mail to:** Peter Doig, c/o TRAMPS, 15 Micawber Street, London N1 7TB, UK
-- **Address status:** UNVERIFIED: check by hand. Address from 2015-2019 listings; confirm it still operates. Route: Gallery run by his wife. Confidence it reaches the artist: Low.
-- **Work:** Two Trees, 2017, 94 1/2 in x 11 ft 7 3/4 in (240 x 355 cm), medium not found; The Metropolitan Museum of Art, gift of George Economou, 2018, not on view (SNIPPET, Met page not opened) [https://www.metmuseum.org/art/collection/search/812918]. Wikipedia confirms a large-scale "Two Trees" (2017) was shown at the Musée d'Orsay in 2023-24 (OPENED) [https://en.wikipedia.org/wiki/Peter_Doig]
-- **Visual detail:** None in the notes. The letter uses only the title, the year, the width (almost twelve feet) and "not on view" (SNIPPET) [https://www.metmuseum.org/art/collection/search/812918] CHECK: confirm size and status on the Met page, and look at the image.
-- **Second work:** Lapeyrouse Wall, 2004, oil on canvas, MoMA, not on view (SNIPPET) [https://www.moma.org/collection/works/91765]
-- **See before mailing:** no: met as a museum record (not on view)
-- **Door opened in the letter:** print or small piece
-- **Flags:** (1) HOLD. Do not mail until an address is confirmed. Leads in the notes, in order of evidence, all guesses: c/o Heni, London (Joe Hage of Heni Group is named as his manager, OPENED [https://www.theartnewspaper.com/2023/12/12/why-ever-more-artists-are-ditching-the-dealers]; address not found); c/o Tramps Gallery, New York (founded by his wife Parinaz Mogadassi, OPENED [https://www.theartnewspaper.com/2023/02/15/peter-doig-leaves-international-dealer-michael-werner-after-23-years]; address not found); c/o Gagosian, 555 West 24th Street, New York, NY 10011 (collaborator, not confirmed representative; address SNIPPET). (2) His studio moved from Trinidad to London in 2021 (OPENED, same Art Newspaper article). (3) Both New York works are SNIPPET and not on view, and the notes hold no visual detail, so the letter is about the title and the size. (4) "In the Met's keeping" assumes the museum still owns it; confirm on the page.
 
 #### Sean Scully
 
@@ -762,6 +750,19 @@ Each dossier line carries its source and a tag: OPENED means the page itself was
 - **Door opened in the letter:** studio
 - **Flags:** (1) "Racquel: Come to Me" (Whitney) is deliberately not used: its sitter filed a summons against the artist in August 2025, outcome not found (OPENED, The Art Newspaper URL above). (2) All Toledo facts are SNIPPET, and the museum's galleries are closed until fall 2027 [https://toledomuseum.org/reimagining-our-galleries]; the letter speaks of ownership only. (3) The museum made an "Art Minute" about this work (SNIPPET) [https://toledomuseum.org/collection/art-minute/art-minute-mickalene-thomas-qusuquzah-une-tres-belle-negresse-4]; watching it before mailing would let him add something he saw. (4) The title contains a French word some readers find jarring; it is her title and is quoted exactly once. (5) The line saying he never connected his mom's work to the museum is a statement about him; cut it if untrue. (6) She lives and works in Brooklyn (OPENED, Wikipedia).
 
+#### Daniel Richter
+
+- **Alive:** Wikipedia infobox "Born 18 December 1962 (age 63), Eutin", no death date, category "Living people", "based in Berlin", page edited 16 Nov 2026 (OPENED) [https://en.wikipedia.org/wiki/Daniel_Richter_(artist)]. 2026 activity: solo show "Funky Dimes", GRIMM Amsterdam, from 29 May 2026 (closing date given as 11 or 25 July, sources differ) (SNIPPET) [https://grimmgallery.com/exhibitions/362-daniel-richter-funky-dimes/]; "Krieg und Konfitüre" with George Grosz, Gustav-Lübcke-Museum Hamm, 5 Sep 2026 to 21 Feb 2027 (SNIPPET; one summary gives an opening of 29 Oct) [https://ropac.net/news/3057-daniel-richter-krieg-und-konfiture/]
+- **Gallery:** Thaddaeus Ropac (current mega-gallery, excluded) (SNIPPET) [https://ropac.net/exhibitions/754-daniel-richter/]; GRIMM, Amsterdam/New York, sixth solo show with the gallery in 2026 (SNIPPET) [https://grimmgallery.com/exhibitions/362-daniel-richter-funky-dimes/]. Other galleries: not found.
+- **Mail to:** Univ.-Prof. Daniel Richter, Erweiterter malerischer Raum, Akademie der bildenden Künste Wien, Schillerplatz 3, 1010 Wien, Austria
+- **Address status:** UNVERIFIED: check by hand. Search summary; Open https://www.akbild.ac.at/en/university/staff/64D5EAEB172E4F76 and confirm (a) he is still listed for the 2026/27 academic year and (b) which buil. Route: A post he actually holds: "Since 2006, he has been Professor of Fine Arts at Akademie der bildenden Künste,. Confidence it reaches the artist: Medium.
+- **Work:** Tarifa, 2001, oil on canvas, 350 x 280 cm (137 3/4 x 110 1/4 in) per a Christie's lot page (SNIPPET) [https://www.christies.com.cn/lot/lot-6469718]; a Hamburger Kunsthalle record gives 330 x 266 cm for a Richter canvas that the search summary tied to this title (SNIPPET) [https://online-sammlung.hamburger-kunsthalle.de/en/objekt/300920]. Current owner and on-view status: not found. Not in New York.
+- **Visual detail:** "huddled refugees ... aboard a dinghy drifting out of the picture plane", their race "reconfigured through Richter's vibrant color palette"; based on a news photograph of African migrants in an inflatable dinghy headed for Tarifa (SNIPPET) [https://www.theartstory.org/artist/richter-daniel]; "a black sea surrounds them" (SNIPPET, Guardian review as republished) [https://www.inkl.com/news/daniel-richter-s-tarifa-an-emblematic-image-of-suffering]. CHECK: all snippet level. Look at a reproduction and confirm the bright, unnatural colors of the figures and the black water before mailing. "About eleven feet tall" holds for either set of dimensions (330 to 350 cm).
+- **Second work:** none
+- **See before mailing:** no: met in reproduction
+- **Door opened in the letter:** studio
+- **Flags:** (1) Address is the academy's main building from snippets; confirm his class location and that he still teaches there. (2) The subject of Tarifa is migrants at sea; the letter keeps the tone sober. Read it once more against a reproduction. (3) Which collection holds Tarifa is unresolved between a Christie's lot page and the Hamburger Kunsthalle record, so the letter names no owner. (4) Toledo Museum holding: not checked.
+
 
 ## Market notes (keep out of the letters)
 
@@ -781,14 +782,6 @@ Recent: Team Shredder (2006), $546,100, top lot of Phillips New York day sale, 1
 Museums: retrospective "What Happened", Museum Brandhorst, Whitechapel Gallery, MCA Chicago, 2023-24; Fixed Crane in Madison Square Park through March 2025 (OPENED, https://www.davidzwirner.com/exhibitions/2025/nicole-eisenman-sty); Stack installed at the Royal Academy, 2026 (OPENED, The Art Newspaper link above). No acquisition since 2022 found.
 Verdict: stable, thin evidence (no opened page gives an auction figure).
 
-#### Eddie Martinez (week 1)
-
-Record: High Flying Bird (2014), HKD 15,725,000 (about US$2.0m), Christie's Hong Kong evening sale, November 2019 (SNIPPET, aggregator, https://www.art.salon/artwork/eddie-martinez_high-flying-bird_AID58148).
-Recent: Yours for the Taking, $80,900, Christie's Hong Kong, 29 March 2025, a 59% loss on its earlier auction price (SNIPPET, https://heni.com/news/article/eddie-martinez-yours-for-the-taking-2025-03-29-1); two paintings at about HK$2.2-2.3m, Christie's Hong Kong, 27 Sept 2025 (SNIPPET, aggregator, https://appraisily.com/api/scraper-search/artists/eddie-martinez/llm.md); Bufly No. 5 (Big Body), 2021, US$83,200, Sotheby's New York, 25 Feb 2026 (SNIPPET, https://intelart.io/2022/12/15/eddie-martinez-recent-auction-results-2/).
-Range: roughly $80,000-$300,000 for paintings in 2025 (SNIPPET). Gallery prices: not found.
-Museums: group show at Buffalo AKG Art Museum, 6 Mar-6 Sept 2026, touring (SNIPPET, https://www.maxhetzler.com/news/2026-02-07-eddie-martinez-let-us-gather-flourishing-way-group-show-buffalo-akg-art-museum-6-march-6-september-2026); Albertina Klosterneuburg presentation to 15 Nov 2026 (SNIPPET).
-Verdict: cooling. Every figure here is SNIPPET; nothing was opened.
-
 #### Stanley Whitney (week 1)
 
 Record: Forward to Black (1996), $2.3m with fees, Sotheby's New York, 18 Nov 2021, more than 11 times its high estimate (OPENED, https://www.theartnewspaper.com/2022/06/14/stanley-whitney-gagosian-representation); Wikipedia dates it 2022 (OPENED); an aggregator top of $4,914,000 names no lot (SNIPPET, unverified).
@@ -803,6 +796,14 @@ Record: Sailing Boat (2015), £292,100 ($385,400), Christie's London, 25 June 20
 Recent: a "Black Painting", $100,800, Christie's, Feb 2025 (SNIPPET, aggregator, https://appraisily.com/api/scraper-search/artists/rose-wylie/llm.md); a reported £256,000 sale on 15 Oct 2026 has no identifiable source (unverified). Range about $100,000-$385,000 for paintings. Gallery prices: not found.
 Museums: Royal Academy main galleries, "The Picture Comes First", 28 Feb-19 Apr 2026, more than 90 works; Zentrum Paul Klee, Bern, 2025; S.M.A.K. Ghent, 2022-23 (OPENED, https://www.davidzwirner.com/artists/rose-wylie).
 Verdict: rising (new record two months after the Royal Academy show), on SNIPPET-level auction figures.
+
+#### Katharina Grosse (week 1)
+
+Record: not reliably established; an aggregator cites about EUR 400,000 at Ketterer Kunst in 2022 and flags it as approximate (SNIPPET) [https://www.masterworks.com/academy/artists/katharina-grosse].
+Recent: "Untitled" (2000, oil on canvas, 250 x 200 cm), $89,800 (EUR 76,200), Christie's Paris, 16 April 2026, against $140,500 at Dorotheum in 2018, a 36% loss (SNIPPET) [https://heni.com/news/article/katharina-grosse-untitled-2026-04-16]; small sculptural work, EUR 11,220, Van Ham, 3 Dec 2025 (SNIPPET) [https://veryimportantlot.com/en/lot/view/katharina-grosse-untitled-1515011].
+Range: large canvases roughly EUR 75,000-160,000 (SNIPPET) [https://auction.van-ham.com/en/katharina-grosse-untitled--id-76694-item.html]. Gallery prices: not found.
+Museums: MUNCH Oslo (2026-27), Es Baluard / La Llotja, Palma (2026-27), Staatsgalerie Stuttgart (11 Apr 2025 to 11 Jan 2026), Deichtorhallen Hamburg (2025), Centre Pompidou-Metz (2024) (OPENED) [https://www.whitecube.com/artists/katharina-grosse] [https://www.maxhetzler.com/artists/katharina-grosse]. A fourth major gallery joined in Nov 2025 (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube].
+Verdict: cooling at auction, institutionally strong.
 
 #### Tschabalala Self (week 2)
 
@@ -905,12 +906,12 @@ Recent: untitled work, $48,200, Bonhams Cornette de Saint Cyr, Paris, 5 Jun 2025
 Institutions: no museum show or purchase since 2022 found; The Art Newspaper (2018) noted "his work's modest rise at auction in recent years" (OPENED) [https://www.theartnewspaper.com/2018/11/11/larry-poons-art-isnt-business].
 Verdict: stable, thin evidence.
 
-#### David Salle (week 4)
+#### Aboudia (week 4)
 
-Record: "Mingus in Mexico" (1990), GBP 608,750, Christie's London, Oct 2017 (SNIPPET, aggregators) [https://www.masterworks.com/academy/artists/david-salle]; an aggregator's $1.9m ceiling is unverified.
-Recent: "Tree of Life #22", $77,400, top lot of Phillips' online sale, New York, Dec 2025 (SNIPPET) [https://heni.com/news/article/phillips-modern-contemporary-art-online-auction-new-york-in-new-york-2025-12-16]. Gallery sale: Thaddaeus Ropac sold "a 2025 David Salle painting for $280,000" at Frieze Los Angeles, Feb 2026 (OPENED) [https://www.theartnewspaper.com/2026/02/26/frieze-los-angeles-sales-report-vip-day-local-artists]. Typical range: not established.
-Institutions: Fondazione Giorgio Cini, Venice (2026); Edward Hopper Museum, New York (2024) (OPENED) [https://spruethmagers.com/artists/david-salle/].
-Verdict: stable, thin evidence.
+Peak in 2021-22: records of £504,000 and $498,000, and Artnet reported $10.5 million in auction sales in the year before its mid-2022 article, with twenty-five works above $200,000 (SNIPPET, artnet link above).
+Now: aggregator median about $36,400 over the last twelve months, and the best recent result found is €135,765 (SNIPPET, links above). That is a long way under the peak. Thin evidence, and Artcurial still lists him among its top 2025 results for the Marrakech sales.
+Institutions: Fondation Gandur pour l'Art lent his work to the Mémorial de Caen in 2026 (SNIPPET, fg-art.org link above). No museum acquisition found.
+Direction: Cooling
 
 #### Peter Bradley (week 5)
 
@@ -963,14 +964,6 @@ Mostly prints and works on paper at auction: aggregator median $5,500 across 46 
 Museums: "View Master", first mid-career survey, ICA Boston, 16 April to 7 September 2026, travelling to the Queens Museum (OPENED, Wikipedia; fall 2027 date SNIPPET) [https://en.wikipedia.org/wiki/Derrick_Adams]. Whitney holds four prints.
 Verdict: stable at auction, thin evidence; institutionally rising.
 
-#### Angel Otero (week 6)
-
-Auction record conflicting, SNIPPET: "Figuring You Out", $327,600, a November sale, year not stated [https://www.art.salon/artwork/angel-otero_untitled_AID670191]; or "Riders on the Storm" (2019), £252,000, Christie's London, 2022 [https://www.masterworks.com/academy/artists/angel-otero].
-Recent, SNIPPET: "Portrait of My Grandmother's Couch", HK$101,600, Sotheby's, 30 May 2025 (aggregator) [https://appraisily.com/api/scraper-search/artists/angel-otero/llm.md]; a 2012 sculpture, $3,750, Heritage, 18 September 2025. No 2026 prices found.
-Range, SNIPPET: aggregator median $32,000 across 51 lots; paintings about $88,000 to $116,000 on older or undated results [https://www.phillips.com/detail/angel-otero/157967]. Gallery prices: not found.
-Museums: the Whitney acquired "Constellation" in 2025 (OPENED) [https://whitney.org/collection/works/69410]; Newport Art Museum solo, 11 July 2026 to 10 January 2027, and Hauser & Wirth Somerset show, 2 May to 18 October 2026 (SNIPPET) [https://newportartmuseum.org/exhibitions/angel-otero-the-ocean-forgot-your-garden/].
-Verdict: stable at auction, thin evidence; momentum is on the gallery and museum side.
-
 #### Henry Taylor (week 6)
 
 Auction record: "From Congo to the Capital, and black again" (2007), Sotheby's New York, May 2023, "$2m ($2.4m with fees, est. $1m-$1.5m)" (OPENED) [https://www.theartnewspaper.com/2023/05/19/confidence-boosting-sothebys-contemporary-auctions-set-six-new-artist-records]; Culture Type gives $2.48m with fees (SNIPPET).
@@ -986,13 +979,19 @@ Recent, SNIPPET: "Untitled", $1,016,000, Christie's, November 2025 (aggregator, 
 Museums: Museum Brandhorst collection display, 23 October 2025 to 31 January 2027; Kistefos Museum group show, 9 May to 11 October 2026 (OPENED) [https://www.maxhetzler.com/artists/albert-oehlen]. No solo museum show found for 2025-26.
 Verdict: stable, thin evidence.
 
-#### Julie Mehretu (week 7)
+#### Trenton Doyle Hancock (week 6)
 
-Record: "Walkers with the Dawn and Morning" (2008), Sotheby's New York, 15 Nov 2023, $10.38m with fees per The Art Newspaper (OPENED https://www.theartnewspaper.com/2023/10/09/julie-mehretu-painting-sets-new-auction-record-for-an-african-born-artist) versus $10,737,500 per HENI (SNIPPET https://heni.com/news/article/julie-mehretu-walkers-with-the-dawn-and-morning-2023-11-15); say "more than $10m".
-Recent: "Ringside", $2,637,000, Christie's, 19 Nov 2025, and a work on vellum, $119,700, Christie's, May 2025 (SNIPPET, aggregator https://appraisily.com/api/scraper-search/artists/julie-mehretu/llm.md). White Cube sold "Rise of the New Suprematists" (2001) "tagged at $7.8m" at Art Basel Paris, reported 21 Oct 2026 (OPENED https://www.theartnewspaper.com/2026/10/21/riots-do-not-deter-big-ticket-sales-at-art-basel-paris).
-Range: paintings about $2.6m to $10.7m at auction; works on paper low six figures (SNIPPET). Gallery prices: not found.
-Museums: Whitney bought this painting (accession 2021.12, OPENED). Museum of Modern Art, Warsaw, 20 Mar-30 Aug 2026; Saint Louis Art Museum, 6 Nov 2026-11 Jul 2027 (OPENED https://www.whitecube.com/artists/julie-mehretu).
-Verdict: stable to firm. Two records in 2023 and continuous museum demand, nothing since has approached the record.
+Very little auction trade: 14 priced lots in total, median $2,600, and the top prices both date from 2010 (SNIPPET, appraisily link above). Recent lots sit around $5,000 (2020 and 2025), so no movement either way that these numbers can show. Thin evidence.
+Institutions carry him: 28 works at the Whitney, including two large paintings bought in 2001 and 2003 (OPENED, https://whitney.org/collection/works/13870); Jewish Museum and Skirball shows pairing him with Philip Guston, 2024-25 (SNIPPET, https://thejewishmuseum.org/wp-content/uploads/2025/07/GustonxHancock_Labels_FINAL-3.pdf); Museum of Fine Arts, Houston holds prints (SNIPPET, https://emuseum.mfah.org/objects/82069/the-cult-of-color).
+Direction: Stable
+
+#### Eddie Martinez (week 7)
+
+Record: High Flying Bird (2014), HKD 15,725,000 (about US$2.0m), Christie's Hong Kong evening sale, November 2019 (SNIPPET, aggregator, https://www.art.salon/artwork/eddie-martinez_high-flying-bird_AID58148).
+Recent: Yours for the Taking, $80,900, Christie's Hong Kong, 29 March 2025, a 59% loss on its earlier auction price (SNIPPET, https://heni.com/news/article/eddie-martinez-yours-for-the-taking-2025-03-29-1); two paintings at about HK$2.2-2.3m, Christie's Hong Kong, 27 Sept 2025 (SNIPPET, aggregator, https://appraisily.com/api/scraper-search/artists/eddie-martinez/llm.md); Bufly No. 5 (Big Body), 2021, US$83,200, Sotheby's New York, 25 Feb 2026 (SNIPPET, https://intelart.io/2022/12/15/eddie-martinez-recent-auction-results-2/).
+Range: roughly $80,000-$300,000 for paintings in 2025 (SNIPPET). Gallery prices: not found.
+Museums: group show at Buffalo AKG Art Museum, 6 Mar-6 Sept 2026, touring (SNIPPET, https://www.maxhetzler.com/news/2026-02-07-eddie-martinez-let-us-gather-flourishing-way-group-show-buffalo-akg-art-museum-6-march-6-september-2026); Albertina Klosterneuburg presentation to 15 Nov 2026 (SNIPPET).
+Verdict: cooling. Every figure here is SNIPPET; nothing was opened.
 
 #### Kenny Scharf (week 7)
 
@@ -1026,14 +1025,6 @@ Range: major canvases $5m-10m at evening sales; aggregator median across all lot
 Museums: "Death and the Maid", The Met, 2023 (OPENED, Wikipedia); Dallas Museum of Art 2024-25 and Barnes Foundation 2025 (SNIPPET https://www.barnesfoundation.org/whats-on/exhibitions/cecily-brown); Serpentine, London, 2026 (OPENED, gallery page).
 Verdict: rising for 1990s work, selective for recent large canvases.
 
-#### Rashid Johnson (week 8)
-
-Record: "Surrender Painting 'Sunshine'" (2022), $3 million, 2022 (OPENED on Wikipedia, citing Artnet News, https://en.wikipedia.org/wiki/Rashid_Johnson; Christie's New York, 17 Nov 2022, per SNIPPET aggregator https://www.masterworks.com/academy/artists/rashid-johnson).
-Recent: "Anxious Red Painting August 20th" (2020), $1,244,600, Sotheby's New York, Nov 2025, estimate $1m-1.5m (SNIPPET https://www.culturetype.com/2025/11/20/auction-results-new-records-for-noah-davis-and-antonio-oba-at-sothebys-major-paintings-by-barkley-l-hendricks-and-kerry-james-marshall-go-unsold/); "Bruise Painting 'Stardust'", $1,397,000, Christie's, 20 Nov 2025 (SNIPPET, aggregator https://appraisily.com/api/scraper-search/artists/rashid-johnson/llm.md). "Untitled Broken Crowd" (2021) was offered at Christie's London, 25 June 2026, result not found (SNIPPET https://veryimportantlot.com/en/lot/view/rashid-johnson-b-1977-1564662); the Whitney's work of that title and year has accession 2023.7, so it is presumably a different work of the same name.
-Range: large paintings about $1.0m to $1.4m; record $3.0m. Gallery prices: not found.
-Museums: Whitney bought "Untitled Broken Crowd" (2023.7) and "New Poetry" (2024.31) (OPENED). Guggenheim retrospective "A Poem for Deep Thinkers", 18 Apr 2025-18 Jan 2026, touring to MCA Chicago, 7 Nov 2026-25 Apr 2027 (SNIPPET https://mcachicago.org/whats-on/exhibitions/rashid-johnson-a-poem-for-deep-thinkers/).
-Verdict: stable. Record dates from 2022; 2025 results near estimate; museum buying continues.
-
 #### Joan Snyder (week 8)
 
 Record: "The Stripper" (1973), $478,800 with fees, Christie's New York 20th Century Evening Sale, November 2023 (OPENED https://www.theartnewspaper.com/2024/02/22/joan-snyder-joins-thaddaeus-ropac-for-europe-and-asia-representation). The first-pass figure of $47,880 is wrong.
@@ -1066,6 +1057,14 @@ Recent auction: "The Outer Limit", $187,700, Christie's online, London, March 20
 Museums: Musée d'Art Moderne de Paris retrospective, 10 Oct 2025-8 Feb 2026; Morgan Library & Museum, New York, 2023 (OPENED https://spruethmagers.com/artists/george-condo/).
 Verdict: stable, thin evidence on 2025-26 auction prices.
 
+#### André Butzer (week 8)
+
+Record set in October 2021 at Phillips London, figure not found (SNIPPET, above); an aggregator's range of US$1,250 to US$95,250 is plainly incomplete (SNIPPET) [https://appraisily.com/api/scraper-search/artists/andre-butzer/llm.md].
+Latest painting result US$116,100, Phillips New York, 16 July 2026, below the US$165,100 Phillips result and below the 2021 record period (SNIPPET, above).
+Institutions: Museo Nacional Thyssen-Bornemisza solo 2023, Museo Novecento Florence 2024 (OPENED, Wikipedia); Es Baluard, Palma, received an untitled 2023-24 canvas as a gift in 2026 (SNIPPET) [https://esbaluard.org/en/artwork/sin-titulo-76/].
+Verdict: cooling at auction since 2021, thin evidence; gallery and museum activity steady.
+Direction: Cooling
+
 #### Jim Dine (week 9)
 
 Record: "Hearts" (1969), GBP 355,020 (about $600,000), Sotheby's New York, November 1989, reported as never surpassed (SNIPPET, aggregator) [https://www.masterworks.com/academy/artists/jim-dine]; another aggregator tops out at $1,200,000 with no lot named (SNIPPET, unverified) [https://appraisily.com/api/scraper-search/artists/jim-dine/llm.md].
@@ -1073,22 +1072,6 @@ Recent results 2025-2026: none found with prices; Artnet lists 2026 lots without
 Range: paintings not found; print-heavy, median realised price $1,680 across all lots, signed prints $125-3,175 (SNIPPET, aggregator) [https://appraisily.com/api/scraper-search/artists/jim-dine/llm.md]. Gallery prices: not found.
 Museums: Albertina, Vienna, 8 Nov 2024 to 23 Mar 2025 (SNIPPET) [https://artdaily.com/news/175425/The-ALBERTINA-exhibits-a-representative-selection-of-Jim-Dine-s-generous-donation]; Palm Springs Art Museum, 21 Nov 2026 to 19 Apr 2027 (SNIPPET) [https://www.psmuseum.org/art/exhibitions/jim-dine].
 Verdict: stable (flat), thin evidence.
-
-#### Katharina Grosse (week 9)
-
-Record: not reliably established; an aggregator cites about EUR 400,000 at Ketterer Kunst in 2022 and flags it as approximate (SNIPPET) [https://www.masterworks.com/academy/artists/katharina-grosse].
-Recent: "Untitled" (2000, oil on canvas, 250 x 200 cm), $89,800 (EUR 76,200), Christie's Paris, 16 April 2026, against $140,500 at Dorotheum in 2018, a 36% loss (SNIPPET) [https://heni.com/news/article/katharina-grosse-untitled-2026-04-16]; small sculptural work, EUR 11,220, Van Ham, 3 Dec 2025 (SNIPPET) [https://veryimportantlot.com/en/lot/view/katharina-grosse-untitled-1515011].
-Range: large canvases roughly EUR 75,000-160,000 (SNIPPET) [https://auction.van-ham.com/en/katharina-grosse-untitled--id-76694-item.html]. Gallery prices: not found.
-Museums: MUNCH Oslo (2026-27), Es Baluard / La Llotja, Palma (2026-27), Staatsgalerie Stuttgart (11 Apr 2025 to 11 Jan 2026), Deichtorhallen Hamburg (2025), Centre Pompidou-Metz (2024) (OPENED) [https://www.whitecube.com/artists/katharina-grosse] [https://www.maxhetzler.com/artists/katharina-grosse]. A fourth major gallery joined in Nov 2025 (OPENED) [https://www.whitecube.com/news/katharina-grosse-joins-white-cube].
-Verdict: cooling at auction, institutionally strong.
-
-#### Francesco Clemente (week 9)
-
-Record: unresolved; highest result tied to a sale is $529,200, Christie's New York, 17 Nov 2022, title not shown (SNIPPET, aggregator) [https://veryimportantlot.com/en/lot/view/francesco-clemente-b-1952-842801]; aggregators cite a high near $1.9m without a lot (SNIPPET) [https://www.masterworks.com/academy/artists/francesco-clemente].
-Recent: untitled fresco in three parts (1983), $81,900, Christie's London, 18 Jul 2025 (SNIPPET, aggregator) [https://veryimportantlot.com/en/lot/view/francesco-clemente-b-1952-1457226]; a Christie's lot at $38,100, February 2026, source page not named (SNIPPET).
-Range: about $38,000 to $82,000 in 2025-2026. Gallery prices: not found.
-Museums: "In Between", Triennale Milano, 29 May to 6 Sep 2026 (dates SNIPPET) [https://www.9colonne.it/614211/in-between-milan-s-triennale-hosts-major-francesco-clemente-retrospective]; "Travel Diaries", Mohammed VI Museum, Rabat, 26 Apr to 31 Oct 2024 (OPENED) [https://www.vitoschnabel.com/artists/francesco-clemente/exhibitions].
-Verdict: stable at a modest level, thin evidence.
 
 #### Dana Schutz (week 9)
 
@@ -1106,13 +1089,20 @@ Range: about $150,000-$340,000 in 2022-24 (SNIPPET, aggregator) [https://art.sal
 Museums: Consortium Museum, Dijon, solo, 16 May to 2 Nov 2025; CICA Vancouver solo, 2023; Hirshhorn collection show to 29 Nov 2026 (OPENED) [https://www.alminerech.com/artists/405-genesis-tramaine]; ICA Miami holds "Boy Saint of Judah's Tribe" (SNIPPET) [https://icamiami.org/artist/genesis-tramaine].
 Verdict: direction unknown, thin evidence.
 
-#### Peter Doig (week 10)
+#### Mary Weatherford (week 9)
 
-Record: "Swamped" (1990), $39.9m, Christie's New York, November 2021 (OPENED) [https://www.theartnewspaper.com/2023/02/15/peter-doig-leaves-international-dealer-michael-werner-after-23-years]; Wikipedia gives $39,000,000 (minor conflict). "Primary market prices are said to reach seven figures" (OPENED, same article).
-Recent: "Ski Jacket" (1994), GBP 14.27m with fees against an estimate of GBP 6m-8m, Christie's London, 15 Oct 2025 (SNIPPET) [https://news.artnet.com/market/christies-london-peter-doig-by-the-numbers-2698565]; a different "Ski Jacket" (1993), $2.98m, Sotheby's New York, 18 Nov 2025 (SNIPPET) [https://heni.com/news/article/peter-doig-ski-jacket-2025-11-19].
-Range: about $3m to $19m for canvases at auction (SNIPPET, from the two results above).
-Museums since 2022: Courtauld Gallery (2023), Musée d'Orsay (2023-24), Serpentine (2025-26) (OPENED) [https://en.wikipedia.org/wiki/Peter_Doig].
-Verdict: stable, firm at the top.
+Record US$478,800, Christie's, 2022 (SNIPPET, above). An aggregator's "up to $3,000,000" figure matches no sale found and is ignored.
+Latest neon painting offered: "4 Until Late" (2013), Flashe and neon on linen, Sotheby's Contemporary Day Auction, closed 19 Nov 2025, estimate US$150,000-200,000; realized price not shown (SNIPPET) [https://www.sothebys.com/en/buy/auction/2025/contemporary-day-auction-7/4-until-late]. No 2026 auction result found.
+Aggregator median US$25,000 across 21 priced lots, which mixes prints and early work (SNIPPET) [https://appraisily.com/api/scraper-search/artists/mary-weatherford/llm.md].
+Verdict: cooling, thin evidence. The 2025 estimate for a neon painting sits below the 2022-23 results, while gallery activity continues (Gagosian Hong Kong 2026).
+Direction: Cooling
+
+#### Luis Cruz Azaceta (week 9)
+
+Thin, low-priced auction market: the two results from 2024-25 are $5,000 and $2,400, below the 2010-12 results of $6,250-23,750 (all SNIPPET, links above), but five lots cannot show a trend.
+Institutions: Whitney bought The Actor in 2019 (OPENED, https://whitney.org/collection/works/60813). Wikipedia lists MoMA, the Met, the Whitney and the Smithsonian American Art Museum among collections (OPENED, promotional-content warning on the article). Museum of Fine Arts, Houston holds A Question of Color, 1989 (SNIPPET, https://emuseum.mfah.org/objects/12870/a-question-of-color).
+A gallery text speaks of "a sustained resurgence of interest in his work" (SNIPPET, meer.com link above; gallery language, not evidence of prices).
+Direction: Unknown
 
 #### Sean Scully (week 10)
 
@@ -1145,3 +1135,11 @@ Recent: "The Inversion of Racquel #2" (2021), $254,500, estimate $250,000-350,00
 Range: paintings about $250,000-$350,000 at current estimates (SNIPPET). Gallery prices: not found.
 Museums: "All About Love" at The Broad, Barnes Foundation, Hayward Gallery, Les Abattoirs and the Grand Palais (to 5 Apr 2026); Portland Art Museum to 15 Nov 2026 (OPENED) [https://jackshainman.com/uploads/17200172/1791580287253/JSG_MT_2026_CV.pdf]. Toledo bought the 2023 painting used here (SNIPPET).
 Verdict: cooling at auction, institutionally strong; thin evidence.
+
+#### Daniel Richter (week 10)
+
+Record about GBP 1.2m, Christie's 2020 (SNIPPET, unverified) [https://www.masterworks.com/academy/artists/daniel-richter].
+Most recent large lot: "Die Verschaffung des Guten" (2003), oil on canvas, Grisebach Berlin, 4 June 2026, estimate EUR 300,000-400,000; realized price not found (SNIPPET) [https://www.invaluable.com/auction-lot/daniel-richter-die-verschaffung-des-guten-21-c-19ada386cd]. Van Ham "Untitled (7/02)", estimate EUR 18,000-24,000, June 2026, result not found (SNIPPET) [https://auction.van-ham.com/en/daniel-richter-untitled--id-61202-item.html].
+Institutions: retrospective at Schloss Gottorf, Dec 2025 to 15 Feb 2026 (SNIPPET) [https://ropac.net/news/2605-daniel-richter-torf-solo-exhibition-at-schloss-gottorf/]; Hamm museum show into Feb 2027 (above).
+Verdict: stable, thin evidence. No 2025-26 result above the 2020 record was found, but major early-2000s canvases still carry six-figure euro estimates and museum activity is steady.
+Direction: Stable
